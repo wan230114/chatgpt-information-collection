@@ -1,0 +1,50 @@
+1. 《人类简史》 | Sapiens: A Brief History of Humankind | 尤瓦尔·赫拉利
+2. 《我们时代的神话》 | The Myth of the Age of Entitlement: Millennials, Austerity, and Hope | 克鲁克博士
+3. 《深度工作》 | Deep Work: Rules for Focused Success in a Distracted World | 卡尔·纽波特
+4. 《思考，快与慢》 | Thinking, Fast and Slow | 丹尼尔·卡尼曼
+5. 《畅销公式》 | The Sellout: How to Sell Your Ideas, Products, or Services Before Your Competition | 约翰·K.菲舍尔
+6. 《选出更好的自己》 | Choose Yourself! | 詹姆斯·阿特琳
+7. 《成功的秘诀》 | The Success Principles(TM) - 10th Anniversary Edition | 杰克·坎菲尔德
+8. 《演讲的力量》 | The Power of the Spoken Word | 芭芭拉·皮恩
+9. 《习惯的力量》 | The Power of Habit: Why We Do What We Do in Life and Business | 查尔斯·杜希格
+10. 《给思维加速》 | Accelerated Learning: How To Learn Any Skill Or Subject, Double Your Reading Speed And Develop Laser Sharp Memory - INSTANTLY - OUT-THINK ANYONE | 拉姆·昆达
+11. 《长期价值投资》 | The Little Book of Value Investing | 克里斯托弗·赫丁
+12. 《感知协商》 | Getting to Yes: Negotiating Agreement Without Giving In | 威廉·尤里、罗杰·费舍尔
+13. 《大数据时代》 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | 埃里克·布莱恩、安德鲁·麦卡菲
+14. 《可塑的大脑》 | The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science | 内诺·多伊奇
+15. 《富爸爸穷爸爸》 | Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! | 罗伯特·清崎
+16. 《在荒野中寻找心灵自由》 | Into the Wild | 乔恩·克拉夫特
+17. 《表达与影响力》 | How to Win Friends and Influence People | 戴尔·卡耐基
+18. 《认知失调》 | The Age of Disruption: Challenges and Opportunities in the New World of Work, Leadership and Innovation | 斯科特·安东尼斯
+19. 《演讲与演说》 | The Art of Public Speaking | 达尔·卡内基
+20. 《史蒂夫·乔布斯传》 | Steve Jobs | 沃尔特·艾萨克森
+21. 《执行力》 | The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | 史蒂芬·柯维
+22. 《思考的艺术》 | The Art of Thinking Clearly | 罗尔夫·多贝利
+23. 《穷查理宝典》 | The Tao of Charlie Munger: A Compilation of Quotes from Berkshire Hathaway's Vice Chairman on Life, Business, and the Pursuit of Wealth With Commentary by David Clark | 查理·芒格
+24. 《情商导论》 | Emotional Intelligence: Why It Can Matter More Than IQ | 丹尼尔·戈尔曼
+25. 《联想法》 | Lateral Thinking: Creativity Step by Step | 爱德华·迪·博诺
+26. 《慢工作》 | In Praise of Slowness: How A Worldwide Movement Is Challenging the Cult of Speed | 卡尔·霍纳
+27. 《创新者的窘境》 | The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail | 克莱顿·克里斯坦森
+28. 《网络预言机》 | The Predictioneer's Game: Using the Logic of Brazen Self-Interest to See and Shape the Future | 布鲁斯·布坎南
+29. 《去工作》 | The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich | 蒂莫西·费里斯
+30. 《商业模式新生》 | Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers | 亚历山大·欧斯特瓦尔德、伯纳德·拉冯
+31. 《人类群星闪耀时》 | A Brief History of Time | 史蒂芬·霍金
+32. 《非暴力沟通》 | Nonviolent Communication: A Language of Life | 马歇尔·博森
+33. 《创意》 | Creativity: Unleashing the Forces Within | 奥古斯特·罗德伯格
+34. 《幸福》 | The Art of Happiness | 达赖喇嘛、霍华德·库特勒
+35. 《助推》 | Drive: The Surprising Truth About What Motivates Us | 丹尼尔·平克
+36. 《不拘一格》 | Anything You Want: 40 Lessons for a New Kind of Entrepreneur | 德里克·西维斯
+37. 《人性的弱点》 | How to Win Friends and Influence People in the Digital Age | 戴尔·卡耐基、达尔·卡内基
+38. 《效能者》 | The Power Broker: Robert Moses and the Fall of New York | 罗伯特·卡罗
+39. 《发现心流的意义》 | Finding Flow: The Psychology of Engagement with Everyday Life | 马赛·奥切克斯
+40. 《曼昆经济学原理》 | Principles of Economics | 格雷格·曼昆
+41. 《习惯的力量》 | The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk! | 阿尔·莱斯、杰克·特劳特
+42. 《影响力》 | Influence: How and Why People Agree to Things | 罗伯特·西奥迪尼
+43. 《学会思考》 | Better Thinking, Better Decisions: How to Develop Your Problem-Solving Skills and Skyrocket Your Confidence | 理查德·H·艾伦
+44. 《天才在左疯子在右》 | Crazy Is a Compliment: The Power of Zigging When Everyone Else Zags | 琳达·雷斯尼克
+45. 《爆裂：如何成为一个超级作家》 | On Writing: A Memoir of the Craft | 斯蒂芬·金
+46. 《掌控局面》 | Getting Things Done: The Art of Stress-Free Productivity | 大卫·艾伦
+47. 《恐惧心理学》 | Fear: Essential Wisdom for Getting Through the Storm | 理查德·莱德克特
+48. 《制服》 | The Power of Self-Confidence: Become Unstoppable, Irresistible, and Unafraid in Every Area of Your Life | 布莱恩·特纳
+49. 《引爆点》 | The Tipping Point: How Little Things Can Make a Big Difference | 马尔科姆·格拉德威尔
+50. 《勇气》 | The Man in the Arena: Vanguard Founder John C. Bogle and His Lifelong Battle to Serve Investors First | 縏科·歐尼爾、約翰·博格尔

@@ -1,0 +1,50 @@
+1.《如何阅读一本书》|How to Read a Book|Mortimer Adler/Charles Van Doren
+2.《人类简史：从动物到上帝》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+3.《精益思维》|Lean Thinking|詹姆斯·温泽尔/丹尼尔·琼斯
+4.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+5.《楼梯效应》|The Stairway to Success|小泉纯一郎
+6.《社会认知心理学》|Social Cognition|苏珊·佩里斯/马丁·路德威格
+7.《问路之人》|The Man Who Asked for Directions|迈克尔·舒马赫
+8.《有效的管理》|Effective Manager|彼得·杜拉克
+9.《文化的智慧》|The Wisdom of Culture|苏米特拉·庞加伊
+10.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+11.《心智模式》|Mindset|卡罗尔·德韦克
+12.《七段式思维法》|Seven Habits of Highly Effective People|史蒂芬·柯维
+13.《创新者的窘境》|The Innovator's Dilemma|克莱顿·克里斯滕森
+14.《乌合之众》|The Crowd|古斯塔夫·勒庞
+15.《非暴力沟通》|Nonviolent Communication|马歇尔·卢森伯格
+16.《有效能人的七个习惯》|The 7 Habits of Highly Effective People|史蒂芬·柯维
+17.《一个人的朝圣》|The Pilgrimage|保罗·柯连图
+18.《人性的优点》|How to Win Friends and Influence People|戴尔·卡耐基
+19.《战争的艺术》|The Art of War|孙子
+20.《成功的秘密》|The Secret of Success|威廉·邓斯蒂
+21.《平衡点》|Tipping Point|马尔科姆·格拉德威尔
+22.《美满人生核心》|The Core of Happy Life|陆俨少
+23.《乔布斯传》|Steve Jobs|沃尔特·艾萨克森
+24.《沉思录》|Meditations|马可·奥勒留
+25.《文化的智慧》|The Wisdom of Culture|苏米特拉·庞加伊
+26.《如何阅读一本书》|How to Read a Book|Mortimer Adler/Charles Van Doren
+27.《解密霍金》|My Brief History|斯蒂芬·霍金
+28.《费城故事》|The Philadelphia Story|菲利浦·巴里
+29.《求职手册》|Knock 'em Dead Job Search|马丁·耶茨
+30.《随机漫步的傻瓜》|A Random Walk Down Wall Street|伯顿·马尔基尔
+31.《摆渡人》|The Ferryman|M・D·朱德
+32.《麦田里的守望者》|Catcher in the Rye|J·D·塞林格
+33.《莲花》|The Lotus Sutra|佛陀
+34.《彷徨之主：拉丁美洲统一》|The Labyrinth of Solitude|奥克塔维奥·帕斯
+35.《哈姆雷特》|Hamlet|威廉·莎士比亚
+36.《货币的本质》|The Nature of Money|费德里克·萨特
+37.《情绪的语言》|Language of Emotions|卡罗琳·米斯
+38.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+39.《富兰克林自传》|The Autobiography of Benjamin Franklin|本杰明·富兰克林
+40.《真理与方法》|Truth and Method|汉斯-格奥尔格·加达默尔
+41.《第五项修炼》|The Fifth Discipline|彼得·塞恩斯
+42.《牛奶可乐经济学》|Milk and Honey Economics|嘉铖
+43.《华丽的谎言》|The Beautiful Lie|伯恩斯坦
+44.《沉思录》|Meditations|马可·奥勒留
+45.《一只特立独行的猪》|One Flew Over the Cuckoo's Nest|肯·凯西
+46.《学会提问》|The Art of Asking|阿曼达·帕尔默
+47.《拜巴拉奥列夫船长》|Captain Babbalanja|赫尔曼·梅尔维尔
+48.《跨越边界》|Crossing Boundaries|莉莉·蒙特古
+49.《人性的复杂性》|The Complexity of Human Nature|莱诺拉·克里弗
+50.《普罗米修斯的悲剧》|Prometheus's Tragedy|阿古斯都·西塞罗

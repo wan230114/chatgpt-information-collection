@@ -1,0 +1,50 @@
+1. 《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利 
+2. 《决策与判断》|Thinking, Fast and Slow|丹尼尔·卡尼曼 
+3. 《演化心理学》|Evolutionary Psychology: The New Science of the Mind|戴维·布萊斯 
+4. 《改变心理学》|Influence: The Psychology of Persuasion|罗伯特·西奥迪尼 
+5. 《不可思议的乌托邦》|Utopia for Realists: How We Can Build the Ideal World|鲁特·布雷格曼 
+6. 《谈判的艺术》|Getting to Yes: Negotiating Agreement Without Giving In|罗杰·费舍尔 
+7. 《极简宇宙史》|The Universe in a Nutshell|斯蒂芬·霍金 
+8. 《爱的艺术》|The Art of Loving|艾·弗·弗洛姆 
+9. 《领导力的五种能力》|The 5 Levels of Leadership: Proven Steps to Maximize Your Potential|约翰·马克斯威尔 
+10. 《历史的终结与最后人》|The End of History and the Last Man|弗朗西斯·福山 
+11. 《自控力》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯利·麦戈尼格尔 
+12. 《深度学习》|Deep Learning|伊恩·古德费洛 
+13. 《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基 
+14. 《非暴力沟通》|Nonviolent Communication: A Language of Life|马歇尔·卢森堡 
+15. 《星际穿越》|Interstellar|克里斯托弗·诺兰 
+16. 《万物简史》|A Short History of Nearly Everything|比尔·布莱森 
+17. 《终极算法》|The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World|佩德罗·多明戈斯 
+18. 《暗时间》|Mindsight: The New Science of Personal Transformation|丹尼尔·瑞戈利奥 
+19. 《长尾理论》|The Long Tail: Why the Future of Business is Selling Less of More|克里斯·安德森 
+20. 《人类群星闪耀时》|When Breath Becomes Air|保罗·卡兰尼希 
+21. 《不正之心》|Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts|安妮·杜克 
+22. 《特朗普之战》|Trump Revealed: An American Journey of Ambition, Ego, Money, and Power|马克·费希尔、迈克尔·科森 
+23. 《设计思维》|Design Thinking: Integrating Innovation, Customer Experience, and Brand Value|托马斯·派特森 
+24. 《Drunk Tank Pink: And Other Unexpected Forces That Shape How We Think, Feel, and Behave》|Drunk Tank Pink: And Other Unexpected Forces That Shape How We Think, Feel, and Behave|亚当·阿尔特莱 
+25. 《这才是心理学》|This Is Your Brain on Sex: The Science Behind the Search for Love|凯·布兰德特 
+26. 《夺日计划》|Apollo 13|吉姆·洛夫尔、杰夫里·克林塞尔 
+27. 《心理学与生活》|Psychology and Life|理查德·林德纳、杰弗里·内泽特 
+28. 《如何阅读一本书》|How to Read a Book|莫提默·J. 艾德勒、查尔斯·范多伦 
+29. 《演化的未来》|The Future of Evolution|彼得·韦德 
+30. 《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞 
+31. 《霍乱时期的爱情》|Love in the Time of Cholera|加西亚·马尔克斯 
+32. 《在人类寿命极限的边缘》|The Telomere Effect: A Revolutionary Approach to Living Younger, Healthier, Longer|伊丽莎白·布莱克伯恩、艾莎·埃普尔 
+33. 《鉴别力》|Discernment: Reading the Signs of Daily Life|亨利·J·穆尼 
+34. 《从0到1》|Zero to One: Notes on Startups, or How to Build the Future|彼得·蒂尔 
+35. 《盲眼天使》|In the Name of the Father|吉姆·谢里丹 
+36. 《童心》|The Wisdom of the Enneagram: The Complete Guide to Psychological and Spiritual Growth for the Nine Personality Types|唐·理查德·鲍撤 
+37. 《喜爱夜莺》|The Nightingale|克里斯汀·汉娜 
+38. 《公正：我们是如何做决策的？》|Justice: What's the Right Thing to Do?|迈克尔·桑德尔 
+39. 《流浪地球》|The Wandering Earth|刘慈欣 
+40. 《商战》|Barbarians at the Gate: The Fall of RJR Nabisco|布莱恩·伯利、约翰·赛西 
+41. 《奇特的一生》|The Curious Case of Benjamin Button|F. 斯科特·菲茨杰拉德 
+42. 《人性中的恶》|The Lucifer Effect: Understanding How Good People Turn Evil|菲利普·泽姆巴多 
+43. 《乌合之众2》|The Madness of Crowds: Gender, Race and Identity|道格拉斯·穆雷 
+44. 《平衡点》|The Tipping Point: How Little Things Can Make a Big Difference|马尔科姆·格拉德威尔 
+45. 《时间的秩序》|The Order of Time|卡洛·罗韦利 
+46. 《写给大家看的设计书（第三版）》|The Design of Everyday Things|唐纳德·诺曼 
+47. 《别样的《技术与文明》》|A Different Kind of Animal: How Culture Transformed Our Species|罗伯特·博耐 
+48. 《奇点临近》|The Singularity Is Near: When Humans Transcend Biology|瑞·库兹韦尔 
+49. 《情商》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼 
+50. 《神经系统的运作方式》|The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science|诺曼·多伊格

@@ -1,0 +1,50 @@
+1.《人类群星闪耀时》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+2.《自控力》|The Power of Habit: Why We Do What We Do in Life and Business|查尔斯·杜希格
+3.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+4.《小决定，大飞跃》|Nudge: Improving Decisions About Health, Wealth, and Happiness|理查德·塞勒，卡西·孔曼
+5.《搜神记》|The Man Who Mistook His Wife for a Hat: and Other Clinical Tales|奥利弗·萨克斯
+6.《解忧杂货店》|The Convenience Store|东野圭吾
+7.《消失的巨人》|The Memory Keeper's Daughter|金·爱德华兹
+8.《深度睡眠的艺术》|Why We Sleep: The New Science of Sleep and Dreams|马修·沃克
+9.《把时间当作朋友》|The Time Paradox: Using the New Psychology of Time to Your Advantage|菲利普·洞戈
+10.《改变自己》|Change Yourself|陶杰
+11.《反脆弱》|Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布
+12.《幸福垃圾场》|Happiness for Sale: The Strange World of Quanitified Self|威廉·戈德曼
+13.《意志力：成就财富与自我亲和力的远航》|Willpower: Rediscovering the Greatest Human Strength| 罗伊·巴恩斯
+14.《非暴力沟通》|Nonviolent Communication: A Language of Life|马绍尔·卢森伯格
+15.《构建你的个人品牌》|Building Your Personal Brand for Career Success|凯文·凯曼
+16.《情绪的语言》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼
+17.《情商课》|The Emotional Intelligence Quick Book|特拉维斯·布拉德贝里，简·格雷菲斯
+18.《沟通的艺术》|The Art of Communicating|廖雪峰
+19.《寡头是如何思考的》|The 48 Laws of Power|罗伯特·格林
+20.《具有高度意义的人生》|The Highly Meaningful Life|J.E.霍伊斯特拉
+21.《沉思录》|Meditations|马其顿皇帝马可·奥芮里乌斯
+22.《快乐不用靠人任何人》|The Tao of Happiness: Stories from Chuang Tzu for Your Spiritual Journey|徐哲安
+23.《知识分子的哀悼》|The Intellectuals and the Masses: Pride and Prejudice Among the Literary Intelligentsia, 1880-1939| 理查德·吉特林
+24.《太空漫步时间》|The Overview Effect: Space Exploration and Human Evolution|弗兰克·怀特
+25.《致命的自负》|The Fatal Conceit: The Errors of Socialism|弗里德里希·哈耶克
+26.《影响力》|Influence: The Psychology of Persuasion|罗伯特·西奥迪尼
+27.《汉字的故事》|The Chinese Characters: The Story of a Language|魏明达
+28.《金字塔原理：思考、表达和解决问题的逻辑》|The Pyramid Principle: Logic in Writing and Thinking|巴巴拉·明托
+29.《优秀的细节：如何工作与生活得更有品质》|The Power of Less: The Fine Art of Limiting Yourself to the Essential...in Business and in Life|艾克斯·德哥马斯
+30.《罗马的沦陷》|The Fall of the Roman Republic|波利·斯卡罗拉
+31.《玩转金融科技》|Fintech: The Beginner's Guide to Financial Technology|唐大伟
+32.《美颜的陷阱》|Perfect Me: Beauty as an Ethical Ideal|海伦·莱瑟·布鲁克斯
+33.《剑桥明信片》|Non-Breaking Spaces in HTML|吴伟志
+34.《阿贝算·鸟栖算》|Jinkou-bato: Kouhonen no Kiben ni yoru Kenkyu to Ouyou|山崎朝雄 
+35.《脑贝尔定理》|Neuromancer|威廉·吉布森
+36.《草祭物语》|Yoake Mae!|林悦子
+37.《白夜行》|White Night||东野圭吾
+38.《没有神的旅行》|Going Postal|特里·普拉切特
+39.《触须短的章鱼异闻》|The Octopus with Short Tendrils|桥度味
+40.《挚爱官场》|To Be a Good Secretary|周德琼
+41.《三体》|The Three-Body Problem|刘慈欣 
+42.《幻夜》|The Dark Tower||史蒂芬·金
+43.《程序员修炼之道》|The Pragmatic Programmer|大卫·托马斯
+44.《把时间当做朋友》|The Power of Now|艾克哈特·托勒
+45.《赛博朋克》|Cyberpunk: Outlaws and Hackers on the Computer Frontier|凯西·埃里奇
+46.《战争与和平》|War and Peace|列夫·托尔斯泰
+47.《我们的思想如何改变心情》|Feeling Good: The New Mood Therapy|大卫·D.伯恩斯
+48. 《新学习心理学》|New Psychology of Learning: A Mindset for Success|马丁·鲁瑟福德
+49. 《尼采语录》|Thus Spoke Zarathustra|弗里德里希·尼采
+50. 《时空简史》|A Brief History of Time|斯蒂芬·霍金

@@ -1,0 +1,52 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《社会性动物》|Behave: The Biology of Humans at Our Best and Worst|罗伯特·莫斯 
+3.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利 
+4.《枪炮、病菌与钢铁》|Guns, Germs, and Steel: The Fates of Human Societies|贾雷德·戴蒙德 
+5.《异类：不一样的成功启示录》|Outliers: The Story of Success|马尔科姆·格拉德威尔 
+6.《展示力》|The Presentation of Self in Everyday Life|厄文·戈夫曼 
+7.《可复制的成功》|Good to Great: Why Some Companies Make the Leap and Others Don't|吉姆·柯林斯 
+8.《深度清洁思维》|Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特 
+9.《精益创业》|The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses|埃里克·莱斯 
+10.《团队生产力》|The Five Dysfunctions of a Team: A Leadership Fable|派翠克·莱西奇 
+11.《果壳中的宇宙》|The Universe in a Nutshell|斯蒂芬·霍金 
+12.《自私的基因》|The Selfish Gene|理查德·道金斯 
+13.《刻意练习》|Peak: Secrets from the New Science of Expertise|安德斯·艾里克松 
+14.《思考的艺术》|The Art of Thinking Clearly|罗尔夫·道贝利 
+15.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基 
+16.《学会提问》|A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas|沃伦·伯格曼 
+17.《思考的进化》|The Evolution of Thought: Classic Reprint|赫伯特·斯宾塞 
+18.《衡量奇迹》|Quantum Enigma: Physics Encounters Consciousness|布鲁斯·罗森布拉姆 
+19.《红书：心灵的路程》|The Red Book: A Reader’s Edition|卡尔·古斯塔夫·荣格 
+20.《智慧与偏见》|Thinking in Systems: A Primer|唐纳德·梅德斯 
+21.《人类灵魂简史》|A Brief History of the Soul|查理·扬 
+22.《量子物理的微笑》|The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism|法里申·卡帕拉 
+23.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞 
+24.《设计思维》|Design Thinking: Integrating Innovation, Customer Experience, and Brand Value|托马斯·洛克伍德、托马斯·马丁诺 
+25.《想象的力量》|The Power of Imagination: Unlocking Your Ability to Receive from God|安德鲁·沃默克
+26.《情绪洗牌》|Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life|苏珊·大卫 
+27.《赤裸裸的统计》|Naked Statistics: Stripping the Dread from the Data|查尔斯·韦尔曼 
+28.《乱世枭雄》|Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts|卡罗尔·特维斯、艾略特·阿隆森 
+29.《堆积如山的证据》|The Evidence Against Her|罗比·巴赫曼 
+30.《解构工作：员工如何感知自己以及它们之间的关系》|The Coming Jobs War|吉姆·克林顿 
+31.《社交心理学》|Social Psychology|大卫·迈尔斯 
+32.《无声告白》|Quiet: The Power of Introverts in a World That Can't Stop Talking|苏珊·凯恩 
+33.《人性的缺点》|The Psychology of Human Misjudgment|查理·芒格 
+34. 《程序员修炼之道》|The Pragmatic Programmer: From Journeyman to Master|安德鲁·亨特、戴维·托马斯 
+35.《管理现代组织》|Modern Organizations: Organizations, Innovation and Strategy|朱利安·伯吉斯 
+36.《是什么让这个世界转动》|What Makes the World Move?: The Question of Date, Soul, and Materiality|理查德·德森 
+37.《非暴力沟通》|Nonviolent Communication: A Language of Life|马绍尔·卢森伯格 
+38.《反脆弱》|Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布 
+39.《假如的历程》|The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler|托马斯·赫格萨德 
+40.《行动科学》|Actionable Neuroscience for Leadership|杰弗里·富莫斯 
+41.《回忆录》|Memoirs|安东尼·米德尔顿 
+42.《血、汗与泪》|Blood, Sweat, and Tears: Or How I Learned to Stop Worrying and Love the Grind|露西·贝利 
+43.《人是如何记忆的》|How We Remember: Brain Mechanisms of Episodic Memory|亚伦·R·塔爵 
+44.《生看不见的东西》|The Invisible Life of Addie LaRue|维·E·施瓦布 
+45.《万物简史》|Brief Answers to the Big Questions|斯蒂芬·霍金 
+46.《上访》|Petitioning for Change: A Handbook for Activists|克里斯蒂·埃文斯 
+47.《更好的明天》|Better Learning Through Structured Teaching: A Framework for the Gradual Release of Responsibility|道格·菲舍尔、南希·弗瑞曼 
+48.《马上改善你的写作》|On Writing Well: The Classic Guide to Writing Nonfiction|威廉·Z·伯格 
+49.《思考和快乐》|The Art of Thinking Clearly|Rolf Dobelli 
+50.《良心之善》|The Better Angels of Our Nature: Why Violence Has Declined|史蒂文·平克  
+
+ 注：本回答包含机器翻译，如有理解偏差请以原文为准。

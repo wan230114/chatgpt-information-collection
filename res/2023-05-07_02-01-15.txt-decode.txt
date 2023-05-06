@@ -1,0 +1,50 @@
+1. 《思考，快与慢》| Thinking, Fast and Slow| 卡尼曼
+2. 《工作大脑》| Your Brain at Work| 大卫·洛克
+3. 《走出发展迷局》| The End of Poverty| 杰弗里·萨克斯
+4. 《沟通的艺术》| The Art of Communicating| 塔托·缇南汉
+5. 《反脆弱》| Antifragile: Things That Gain from Disorder| 纳西姆·尼古拉斯·塔勒布
+6. 《领导艺术》| The Art of Leadership: Small Things, Done Well| 迪安娜·坎斯坦宁
+7. 《赢在改变》| Switch: How to Change Things When Change Is Hard| 唐纳德·莫森、丹·希思
+8. 《如何阅读一本书》| How to Read a Book| 莫提莫·J·艾德勒、查尔斯·范多伦
+9. 《影响力》| Influence: The Psychology of Persuasion| 罗伯特·西奥迪尼
+10. 《人类简史》| Sapiens: A Brief History of Humankind| 尤瓦尔·赫拉利
+11. 《思考的艺术》| The Art of Thinking Clearly| 罗尔夫·道伊
+12. 《穷查理宝典》| Poor Charlie's Almanack| 查理·芒格
+13. 《逆向思维》| Lateral Thinking: Creativity Step by Step| 爱德华·德博诺
+14. 《远见》| The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses| 埃里克·里斯
+15. 《力量》| Power: Why Some People Have It and Others Don't| 杰夫里·菲弗
+16. 《达芬奇法则》| The Da Vinci Method: Break Out and Express Your Fire| 迈克尔·基耶斯卡第
+17. 《压力的生物学》| The Biology of Stress: How It Affects the Body, How to Stay Physically and Mentally Resilient| 约瑟夫·希尔
+18. 《学会提问》| A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas| 珍·巴伯
+19. 《决策的艺术》| Decisive: How to Make Better Choices in Life and Work| 丹·希思、克里普·布鲁斯
+20. 《未来简史》| 21 Lessons for the 21st Century| 尤瓦尔·赫拉利
+21. 《了不起的盖茨比》| The Great Gatsby| 斯科特·菲茨杰拉德
+22. 《非暴力沟通》| Nonviolent Communication: A Language of Life| 马维·罗森伯格
+23. 《一个人的朝圣》| The Pilgrimage| 保罗·柯艾略
+24. 《即兴演讲》| Presentation Zen: Simple Ideas on Presentation Design and Delivery| 加尔·雷诺(泰国)
+25. 《量子思维》| Quantum Thinking: Creative Thinking, Planning and Problem Solving| 达芙妮·高诗敏
+26. 《时间简史》| A Brief History of Time| 史蒂芬·霍金
+27. 《让时间陪你慢步走》| Slow: Finding Peace and Purpose in a Hectic World| 卡尔·霍纳
+28. 《思考的深度》| Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins| 加里·卡斯帕罗夫
+29. 《高效能人士的七个习惯》| The 7 Habits of Highly Effective People| 史蒂芬·柯维
+30. 《乌合之众》| The Crowd: A Study of the Popular Mind| 古斯塔夫·勒庞 (法国)
+31. 《哲学和现代人生》| The Philosophy Of Modern Life| 威廉·莱伦·怀特
+32. 《极简人生》| The Joy of Less: A Minimalist Guide to Declutter, Organize, and Simplify| 弗朗西丝卡·杜莫雷
+33. 《毅力：自控力的秘密》| The Power of Habit: Why We Do What We Do in Life and Business| 查尔斯·杜希格
+34. 《好好休息：睡眠不好会把你变笨》| Why We Sleep: Unlocking the Power of Sleep and Dreams| 马修·沃克
+35. 《获得人际资源科学》| How to Win Friends and Influence People| 戴尔·卡耐基
+36. 《让时间成为朋友》| Making Time: Finding Space in a Busy World| 克劳迪亚·汉森
+37. 《解忧杂货铺》| Convenience Store Woman| 村田沙耶香 (日本)
+38. 《时间的读数》| The Time Paradox: The New Psychology of Time That Will Change Your Life| 菲利普·佩恩、约翰·连恩
+39. 《刻意练习》| Peak: Secrets from the New Science of Expertise| 安德斯·艾里克松、罗伯特·普尔
+40. 《球状闪电》| The Hollow Earth: The Narrative of Mason Algiers Reynolds of Virginia| 鲁德亚德·基普林
+41. 《形而上学》| Metaphysics| 亚里士多德
+42. 《教育的本质》| The Nature of Education| 杜威
+43. 《自我关怀的艺术》| The Art of Self-Care| 卡洛林·蒂斯达尔
+44. 《书写与文学》| Writing and Literature| 张爱玲
+45. 《人生自理》| The Autobiography of Benjamin Franklin| 本杰明·富兰克林
+46. 《演讲的艺术》| The Art of Public Speaking| 戴尔·卡耐基
+47. 《未来的世界》| The Future of the World| 亨利·基辅
+48. 《走进心灵》| Into the Mind: Mindfulness-How to Live in the Present Moment| 吉安·布鲁塞
+49. 《语言、思维与现实》| Language, Thought, and Reality| 本杰明·李·惠勒
+50. 《心流》| Flow: The Psychology of Optimal Experience| 米哈里·契克森米哈伊 (匈牙利)

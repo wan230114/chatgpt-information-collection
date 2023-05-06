@@ -1,0 +1,50 @@
+1. 《思维的艺术》| The Art of Thinking Clearly | 罗尔夫·多贝利
+2. 《沉默的大多数》| The Silent Majority | 王小波
+3. 《当品牌遇上传说》| How Brands Become Icons | 杜尔·帕基
+4. 《向前一步》| Leap of Faith: Memoirs of an Unexpected Life | 塔巴雷·拉马·法赫德
+5. 《复杂》| Complex: A Guided Tour | 迈克尔·卡罗尔
+6. 《演讲的力量》| Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds | 卡门·加洛
+7. 《改变开始于你》| Start with Why: How Great Leaders Inspire Everyone to Take Action | 西蒙·西涅克
+8. 《岛上书店》| The Bookshop on the Corner | 詹妮·科兰
+9. 《布兹卡西德的文化》| Culture and Imperialism | 艾德华·赛义德
+10. 《认知偏见》| Thinking, Fast and Slow | 丹尼尔·卡尼曼
+11. 《图书馆的残骸》| The Library at Night | 阿尔贝托·曼古埃尔
+12. 《社会心理学》| Social Psychology | 戈登·阿勒泰尔
+13. 《观念的历史》| The Structure of Scientific Revolutions | 托马斯·库恩
+14. 《莱茵河的孩子们》| Die Kinder vom Rhein | 苏珊娜·图珀
+15. 《科学革命之路》| The Scientific Revolution: A Very Short Introduction | 约翰·亨莫
+16. 《优秀的团队如何做出了决策》| Decisive: How to Make Better Decisions in Life and Work | 威廉·乌里
+17. 《心灵瑜伽》| The Yoga of the Bhagavad Gita: An Introduction to India's Universal Science of God-Realization | 内尔·卡普哈
+18. 《写作的艺术与技巧》| On Writing Well: The Classic Guide to Writing Nonfiction | 威廉·扎林斯基
+19. 《影响力》| Influence: The Psychology of Persuasion | 罗伯特·西奥迪尼
+20. 《影响力工具箱》| The Influence Toolkit: Tools for Building Your Reputation and Career | 格弗雷·博伊曼
+21. 《深度心理学》| Depth Psychology and a New Ethic | 特奥多尔·雷曼
+22. 《知觉与现实》| Perception and Reality | Richard Gregory
+23. 《从搭档到领导》| The Five Dysfunctions of a Team: A Leadership Fable | 派翠克·莱西奇
+24. 《精选中国古诗词》| The Poetry of China | 余光中
+25. 《维京的世界》| The Vikings: A Very Short Introduction | 妮娜·尤尔加松
+26. 《葡萄牙的文艺复兴》| Portuguese Renaissance in the Span of Epic and Lyric Poetry | 安东尼奥·若烈
+27. 《智识管理之道》| Knowledge Management in Theory and Practice | 伊文·诺维克
+28. 《不一样的人生简史》| A Brief History of Life in the Universe | 斯图尔特·考夫曼
+29. 《众病之王》| The Emperor of All Maladies: A Biography of Cancer | 达利尔·伊辛格
+30. 《复杂系统》| Complex Systems and Networks: Dynamics, Controls and Applications | 叶若-班萨尔特
+31. 《自由精神》| The Free Spirit: A Study of the Life and Work of D.H. Lawrence | 威尔弗雷德·D. D.尔法S
+32. 《喜马拉雅》| Into Thin Air: A Personal Account of the Mount Everest Disaster | 乔恩·克拉克
+33. 《盖茨比》| The Great Gatsby | 弗朗西斯·斯科特·菲兹杰拉德
+34. 《情思诗选》| The Selected Poems of Rumi | Jelaluddin Rumi
+35. 《悲惨世界》| Les Misérables | 维克多·雨果
+36. 《金银岛》| Treasure Island | 罗伯特·路易斯·史蒂文森
+37. 《风云城》| Cloud Atlas | 大卫·米切尔
+38. 《1984》| 1984 | 乔治·奥威尔
+39. 《北方园林艺术》| The Art of Northern Gardening: Analyzing the Aesthetics of the Plantscape in Order to Adopt the Behaviors of the Ethos | 李小龙
+40. 《堂吉柯德》| Don Quixote | 米格尔·德·塞万提斯
+41. 《有关全球艺术》| Global Art | 约瑟夫·比德曼
+42. 《世界上的女人》| Women of the World: The Rise of the Female Diplomat | 莫尼卡·保罗·罗斯
+43. 《有关忏悔录》| The Confessions of St. Augustine | 奥古斯丁
+44. 《道家学说原典》| The Tao Te Ching of Lao Tzu | 陈与义
+45. 《算法导论》| Introduction to Algorithms | 托马斯·科尔曼
+46. 《思考，快与慢》| Thinking, Fast and Slow | 丹尼尔·卡尼曼
+47. 《人类简史》| Sapiens: A Brief History of Humankind | 尤瓦尔·赫拉利
+48. 《牧羊人的谎言》| The Alchemist | 保罗·柯艾略
+49. 《教育的幸福》| The Happiness of Education | 柯文哲
+50. 《白夜行》| Journey Under the Midnight Sun | 岛田庄司

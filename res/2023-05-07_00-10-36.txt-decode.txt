@@ -1,0 +1,50 @@
+1. 《思考，快与慢》| Thinking, Fast and Slow |丹尼尔·卡尼曼
+2. 《乌合之众》| The Crowd: A Study of the Popular Mind |古斯塔夫·勒庞
+3. 《经济学原理》| Principles of Economics |格雷戈里·曼基福德
+4. 《经济学原理：微观经济学分册》| Principles of Microeconomics |格雷戈里·曼基福德
+5. 《经济学原理：宏观经济学分册》| Principles of Macroeconomics |格雷戈里·曼基福德
+6. 《社会学原理》| Principles of Sociology |乔治·R·伯基
+7. 《人类简史》| Sapiens: A Brief History of Humankind |尤瓦尔·赫拉利
+8. 《人类群星闪耀时》| The Human Stain: A Novel |菲利普·罗斯
+9. 《母性本能》| The Maternal Instinct |詹妮弗·雷麦斯·克斯
+10. 《这就是心理学》| This is Psychology |里奇·沃恩
+11. 《心理学导论》| Introduction to Psychology |霍克斯&克里斯蒂
+12. 《慢思维：思考的艺术》| A Slow Thought: In Praise of Thinking |威廉·迈瑞·温彻斯特
+13. 《人性的弱点》| How to Win Friends and Influence People |戴尔·卡内基
+14. 《诺丁山的孩子》| The Children of Noisy Village |阿斯特德·林格伦
+15. 《魔鬼经济学》| Freakonomics: A Rogue Economist Explores the Hidden Side of Everything |史蒂文·D·莱维特
+16. 《多元文化主义：自由、平等和文化认同的政治理论》| Multiculturalism: Politics of Recognition |查尔斯·泰勒
+17. 《老人与海》| The Old Man and the Sea |厄内斯特·海明威
+18. 《基督山伯爵》| The Count of Monte Cristo |亚历山大·迪马斯
+19. 《了不起的盖茨比》| The Great Gatsby |弗·斯科特·菲茨杰拉德
+20. 《人性的弱点2》| How to Stop Worrying and Start Living |戴尔·卡内基
+21. 《富爸爸穷爸爸》| Rich Dad Poor Dad |罗伯特·清崎
+22. 《哥德尔、艾舍尔、巴赫》| Gödel, Escher, Bach: An Eternal Golden Braid |道格拉斯·霍夫斯塔德
+23. 《联想的力量》| Power of Association |乔治·P·考伯
+24. 《深度思考》| Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins |格里·卡斯帕罗夫
+25. 《如何思考像禅师》| How to Think Like a Zen Master |天花板
+26. 《创意思维》| The Creative Habit: Learn It and Use It for Life |吉奥·博林
+27. 《生活万物论》| The Book of Life |阿尔瓦赫·马拉·克洛斯
+28. 《启发式思考》| Heuristics and Biases |丹尼尔·卡尼曼
+29. 《如何阅读一本书》| How to Read a Book |莫提默·J·艾德勒
+30. 《自控力》| The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It |凯莉·麦格尼格尔
+31. 《领袖的视野》| The Leadership Challenge |J·富恩&巴里·波斯纳
+32. 《核心领导力》| Leadership from the Inside Out: Becoming a Leader for Life |凯文·卡韦尔
+33. 《生命的意义》| Man's Search for Meaning |维克托·弗兰克尔
+34. 《失控》| Out of Control: The New Biology of Machines, Social Systems, and the Economic World |凯文·凯利
+35. 《自我效能感》| The Psychology of Self-Efficacy |阿尔伯特·班迪乌拉
+36. 《激发学习的力量》| The Power of Mindful Learning |埃伦·J·拉斯基
+37. 《反脆弱》| Anti-fragile: Things That Gain from Disorder |纳西姆·尼古拉斯·塔勒布
+38. 《有所为与无为》，英文名《The Power of Doing Less: Why Time Management Courses Don't Work And How To Spend Your Precious Life On The Things That Really Matter》|诺凡·温恩
+39. 《经验的心理学》| The Psychology of the Experience |马丁·J·塞利格曼
+40. 《自由与责任》| Freedom and Responsibility |约瑟夫·费舍尔
+41. 《复杂的意识》| Complex Consciousness: Conceptualization, Programming, and Measurement |卡尔·普里布赫
+42. 《简单的心理学》| Simple Psychology |米歇尔·格德
+43. 《英国的身份》| The Identity of England |N·史密斯&安东尼·巴尼特
+44. 《当窗消失》| When Windows Disappear: Loving Jesus & Others Through My Mental Illness |安吉拉·W·弗格森
+45. 《娜拉的微笑》| The Smile of Naer |汉斯·克里斯蒂安·雅各布森
+46. 《叙事心理学》| Narrative Psychology |西蒙·麦考奎尔
+47. 《大脑的故事》| The Story of the Brain |梅里·J·艾恩斯坦
+48. 《反常：一个金融家的告白》| Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias |丹·阿里耶利
+49. 《高效能人士的7个习惯》| The 7 Habits of Highly Effective People |史蒂芬·柯维
+50. 《和平的力量》| Force of Peace: How The United States Military Rescued a Jewish Community From The Holocaust |约翰·C·利普特克罗夫特

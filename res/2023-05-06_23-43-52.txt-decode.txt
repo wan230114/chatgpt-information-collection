@@ -1,0 +1,50 @@
+1.《思考，快与慢》Thinking, Fast and Slow，丹尼尔·卡尼曼（Daniel Kahneman）
+2.《漫步华尔街》A Random Walk Down Wall Street，伯顿·马尔基尔（Burton Malkiel）
+3.《黑天鹅：如何应对不可预知的未来》The Black Swan: The Impact of the Highly Improbable，纳西姆·尼古拉斯·塔勒布（Nassim Nicholas Taleb）
+4.《基业长青》Built to Last: Successful Habits of Visionary Companies，吉姆·柯林斯（Jim Collins）、杰瑞·波蒂斯（Jerry Porras）
+5.《谷歌算法破译》How Google Works，埃里克·施密特（Eric Schmidt）、乔纳森·罗森伯格（Jonathan Rosenberg）
+6.《原则》Principles，雷·达里奥（Ray Dalio）
+7.《论人类不平等的起源和基础》The Origins of Unfairness: Social Categories and Cultural Evolution，马克斯·塞文（Maxime Derex）等
+8.《一个人的朝圣》The Pilgrimage，保罗·柯艾略（Paulo Coelho）
+9.《社会动物》Social Animal，大卫·布鲁克斯（David Brooks）
+10. 《创新者的窘境》The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail，克雷顿·克里斯滕森（Clayton Christensen）
+11.《沉思录》Meditations，马可·奥勒留（Marcus Aurelius）
+12.《文明的冲突与世界秩序的重塑》The Clash of Civilizations and the Remaking of World Order，塞缪尔·P·亨廷顿（Samuel P. Huntington）
+13.《独裁者手册》The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics，布鲁斯·布恩德·希勒（Bruce Bueno de Mesquita）、阿尔斯特·史密斯（Alastair Smith）
+14.《软件随想录》The Mythical Man-Month: Essays on Software Engineering，弗雷德里克·布鲁克斯（Frederick Brooks）
+15.《六个核心小工具》The 5 Elements of Effective Thinking，爱德华·B·伯格（Edward B. Burger）、迈克尔·星巴克（Michael Starbird）
+16.《重构：改善既有代码的设计》Refactoring: Improving the Design of Existing Code，马丁·福勒（Martin Fowler）
+17.《全球治理何去何从》Where Does Global Governance Go，葛剑雄等
+18.《世界是平的》The World is Flat，托马斯·弗里德曼（Thomas Friedman）
+19.《有机进化论》The Selfish Gene，理查德·道金斯（Richard Dawkins）
+20.《破茧成蝶》Le Petit Prince，圣埃克苏佩里（Antoine de Saint-Exupéry）
+21.《启示录：关于人性的考虑》Revelations: Visions, Prophecy, and Politics in the Book of Revelation，伊恩·沃德福德（Ian Boxall）
+22.《一本书看懂情商》The Emotional Intelligence Quick Book，特拉维斯·布拉德贝里（Travis Bradberry）
+23.《在线益处：科技与健康解码》Digital Health，梁数自、马芸等
+24.《岁月神偷》The Thief of Time，吉恩·沃尔夫（Gillian Wolf）
+25.《万物简史》A Short History of Nearly Everything，比尔·布莱森（Bill Bryson）
+26.《资本论》Das Kapital，卡尔·马克思（Karl Marx）
+27.《生活的艺术》The Art of Living，埃皮克图鲁斯（Epictetus）
+28.《原则管理》Principles of Management，亨利·福尔（Henry Fayol）
+29.《激荡三十年：中国经济变革实录》The 30 Years of Turbulent Changes of China: The Authentic Record of Economic Reform，吴晓波
+30.《科技大趋势》The Industries of the Future，亚历克斯·罗斯（Alex Ross）
+31.《思维的艺术》The Art of Thinking Clearly，罗尔夫·多贝利（Rolf Dobelli）
+32.《多运动优生学：无极限的青春能量》The Power of Korean-style Exercise: Fitness, Health, and Beyond，朴钟佑（Choong-Yoo Park）
+33.《西方哲学史》A History of Western Philosophy，伯特兰·罗素（Bertrand Russell）
+34.《王阳明哲学》The Philosophy of Wang Yangming，方东明等
+35.《断舍离》The Life-Changing Magic of Tidying Up，近藤麻理惠（Marie Kondo）
+36.《伟大的博弈：沃伦·巴菲特和股票对决的故事》The Snowball: Warren Buffett and the Business of Life，艾丽丝·施罗德（Alice Schroeder）
+37.《声音而已》Noise: A Flaw in Human Judgment，丹尼尔·卡尼曼（Daniel Kahneman）、奥利弗·萨贝尼乌斯（Oliver Sibony）、卡斯亚·米丘尔（Cass Sunstein）
+38.《精益创业》The Lean Startup，埃里克·里斯（Eric Ries）
+39.《广义相对论》The General Theory of Relativity，阿尔伯特·爱因斯坦（Albert Einstein）
+40.《人性的弱点》How to Win Friends and Influence People，戴尔·卡耐基（Dale Carnegie）
+41.《操作系统》Operating Systems: Internals and Design Principles，威廉·斯托林斯（William Stallings）
+42.《精进：如何成为一个美好而有意义的人》Mastery，罗伯特·格林（Robert Greene）
+43.《魔鬼经济学》The Undercover Economist，蒂姆·哈福德（Tim Harford）
+44.《人工智能革命》The AI Revolution，理查德·苏德卡（Richard Sudek）
+45.《速度本能》Blink: The Power of Thinking Without Thinking，马尔科姆·格拉德威尔（Malcolm Gladwell）
+46.《人人都是产品经理》Everyone is a Product Manager，周明等
+47.《塑造工作的未来》The Future of Work，帕特里克·迪昂（Patrick Dixon）
+48.《路径依赖》Path Dependence and Creation，布赖恩·亚瑟（Brian Arthur）
+49.《中国制造2025：工业生态再造》Made in China 2025，中国政府
+50.《奇思妙想之玩味人生》Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)，理查德·费曼（Richard Feynman）

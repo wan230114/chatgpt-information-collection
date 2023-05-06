@@ -1,0 +1,50 @@
+1. 《思考快与慢》Thinking, Fast and Slow|丹尼尔·卡尼曼|丹尼尔·卡尼曼
+2. 《最好的告别》Being Mortal: Medicine and What Matters in the End|阿特尔·高汀|阿特尔·高汀
+3. 《乌合之众》The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞|古斯塔夫·勒庞
+4. 《我的职业是小说家》What I Talk About When I Talk About Running|村上春树|村上春树
+5. 《别让愤怒控制你》The Anger Trap: Free Yourself from the Frustrations that Sabotage Your Life|莱塔·尤丹尼奇|莱塔·尤丹尼奇
+6. 《好好说话》Crucial Conversations: Tools for Talking When Stakes Are High|凯瑟琳·帕特森 等|凯瑟琳·帕特森 等
+7. 《故事的力量》The Power of Story: Change Your Story, Change Your Destiny in Business and in Life|吴军|吴军
+8. 《深度思考》Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特|卡尔·纽波特
+9. 《生活中不可承受的轻ness》Unbearable Lightness: A Story of Loss and Gain|泰蕾莎·盖伊，Theresa Leigh|泰蕾莎·盖伊，Theresa Leigh
+10. 《小王子》Le Petit Prince|圣埃克苏佩里|圣埃克苏佩里
+11. 《想象的共同体》Imagined Communities: Reflections on the Origin and Spread of Nationalism|本尼迪克特·安德森|本尼迪克特·安德森
+12. 《跨越困境》Man's Search for Meaning|维克托·弗兰克尔|维克托·弗兰克尔
+13. 《人性的弱点》How to Win Friends and Influence People|戴尔·卡耐基|戴尔·卡耐基
+14. 《奇特的一生》The Immortal Life of Henrietta Lacks|蕾贝卡·斯柯特|蕾贝卡·斯柯特
+15. 《名人传》The Lives of the Artists|吉奥尔乔·瓦萨里|吉奥尔乔·瓦萨里
+16. 《黑天鹅》The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布|纳西姆·尼古拉斯·塔勒布
+17. 《非暴力沟通》Nonviolent Communication|马歇尔·卢森伯格|马歇尔·卢森伯格
+18. 《失落的象形文字》The Lost Symbol|丹·布朗|丹·布朗
+19. 《了不起的盖茨比》The Great Gatsby|F·斯科特·菲茨杰拉德|F·斯科特·菲茨杰拉德
+20. 《富爸爸，穷爸爸》Rich Dad, Poor Dad|罗伯特·清崎|罗伯特·清崎
+21. 《近距离依存》Close to the Machine: Technophilia and Its Discontents|艾伦·卡扎尼斯|艾伦·卡扎尼斯
+22. 《把时间当作朋友》Getting Things Done: The Art of Stress-Free Productivity|戴维·艾伦|戴维·艾伦
+23. 《乌合之众》The Wisdom of Crowds|詹姆斯·苏洛威基|詹姆斯·苏洛威基
+24. 《权力的游戏》A Song of Ice and Fire|乔治·R·R·马丁|乔治·R·R·马丁
+25. 《我是猫》I Am a Cat|夏目漱石|夏目漱石
+26. 《行动的艺术》The Art of Possibility|罗塞玛丽·斯托伯，本杰明·泽尔南|罗塞玛丽·斯托伯，本杰明·泽尔南
+27. 《人类简史》Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利|尤瓦尔·赫拉利
+28. 《人性的弱点》The 7 Habits of Highly Effective People|史蒂芬·柯维|史蒂芬·柯维
+29. 《悉达多》Siddhartha|赫尔曼·黑塞|赫尔曼·黑塞
+30. 《怎样解题》How to Solve It: A New Aspect of Mathematical Method|乔治·波利亚|乔治·波利亚
+31. 《假如给我三天光明》If I Had Three Days to See|海伦·凯勒|海伦·凯勒
+32. 《洛丽塔》Lolita|弗拉基米尔·纳博科夫|弗拉基米尔·纳博科夫
+33. 《軍師》The Art of War|孙子|孙子
+34. 《论语》The Analects of Confucius|孔子|孔子
+35. 《哈姆雷特》Hamlet|威廉·莎士比亚|威廉·莎士比亚
+36. 《格列佛游记》Gulliver's Travels|乔纳森·斯威夫特|乔纳森·斯威夫特
+37. 《西游记》Journey to the West|吴承恩|吴承恩
+38. 《活着》To Live|余华|余华
+39. 《遥远的救世主》The Distant Shore|库尔特·冯内古特|库尔特·冯内古特
+40. 《跨越发展的瓶颈》The Structure of Scientific Revolutions|托马斯·库恩|托马斯·库恩
+41. 《青年文摘》Reader's Digest|埃德华·维克|埃德华·维克
+42. 《百年孤独》One Hundred Years of Solitude|加西亚·马尔克斯|加西亚·马尔克斯
+43. 《西部的玫瑰》The Grapes of Wrath|约翰·斯坦贝克|约翰·斯坦贝克
+44. 《时间简史》A Brief History of Time|史蒂芬·霍金|史蒂芬·霍金
+45. 《人间词话》Words of the Human World|冯梦龙|冯梦龙
+46. 《了不起的修辞学》The Art of Rhetoric|亚里士多德|亚里士多德
+47. 《诗经》The Book of Songs|佚名|佚名
+48. 《智慧集锦》The Book of Wisdom|托比亚斯·斯莱亚|托比亚斯·斯莱亚
+49. 《强制性思维训练》Brainwashing: The Science of Thought Control|凯瑟琳·泰勒|凯瑟琳·泰勒
+50. 《狄更斯传》The Life of Charles Dickens|约翰·福斯特|约翰·福斯特

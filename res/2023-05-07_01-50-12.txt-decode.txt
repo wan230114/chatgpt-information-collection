@@ -1,0 +1,50 @@
+1. 《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2. 《极简思维导图》|The Mind Map Book|托尼·布赖恩
+3. 《沟通的艺术》|The Art of Communicating|修·勒开
+4. 《五大洲的孩子》|Children of the World|彼得·潘
+5. 《谈判力》|Getting to Yes|杰拉德·纽曼
+6. 《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+7. 《社会认知心理学》|Social Cognition|苏珊·T·弗斯特
+8. 《营销心理学》|Influence: The Psychology of Persuasion|罗伯特·西奥迪尼
+9. 《快思慢想》|Blink: The Power of Thinking Without Thinking|马尔科姆·格拉德威尔
+10. 《影响力》|Pre-Suasion: A Revolutionary Way to Influence and Persuade|罗伯特·西奥迪尼
+11. 《知更鸟女孩》|The Girl with the Silver Eyes|威尔斯·卡瑟
+12. 《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+13. 《不确定性的游戏》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+14. 《观念的力量》|The Power of Intention|韦恩·戴尔
+15. 《设计心理学》|Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines|杰夫·约翰逊
+16. 《荒野生存指南》|The Ultimate Guide to Surviving in the Wilderness|克里斯托弗·菲尔顿
+17. 《解构语言学》|An Introduction to Linguistics|安东尼·伍德沃德
+18. 《关键词：人情味营销》|Hey, Whipple, Squeeze This: The Classic Guide to Creating Great Ads|卢克·沃普尔
+19. 《修辞学：现代指南》|The Elements of Style|威廉·斯特鲁克和E.B.怀特
+20. 《自然语言处理》|Natural Language Processing with Python|史蒂文·伯德
+21. 《不拘一格：科技如何重塑未来》|The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail|克莱顿·克里斯坦森
+22. 《日本人为何这么聪明》|The Japanese Psyche: Major Motifs in the Fairy Tales of Japan|马里昂·图洛斯·霍格尔特
+23. 《情感心理学》|Emotions, Stress, and Health|罗伯特·斯皮尔德
+24. 《读懂他人心》|Crucial Conversations: Tools for Talking When Stakes Are High|凯瑟琳·葛特曼等
+25. 《社交忽悠》|The Social Engineer's Playbook: A Practical Guide to Pretexting|杰里米·斯金纳
+26. 《爱克与泰洛》|Echo and Twang: Classic Guitar Music of the '50s|唐·莫伊斯
+27. 《让时间陪你慢慢变富》|The Psychology of Time Management: Time Management Strategies|伊恩·坎普
+28. 《神经心理学》|Foundations of Behavioural Neuroscience|尼尔·A·卡尔森
+29. 《生命心理学》|The Psychology of Human Life|卡罗尔·伦茨
+30. 《潜力爆发：才华本质》|Talent is Overrated: What Really Separates World-Class Performers from Everybody Else|杰弗里·科尔文
+31. 《思维怪才：心理学研究与OPEN THE DOOR突破缺陷技巧》|The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science|诺曼·多伊奇
+32. 《睡梦智慧》|The Sleep Revolution: Transforming Your Life, One Night at a Time|艾琳娜·弗莱明
+33. 《源性思维：如何进行创新和变革》|Think Like a Freak|史蒂芬·杜伯和史蒂芬·雷维特
+34. 《情感心理学》|Psychological Science|迈克尔·加齐尼亚加
+35. 《谈话的科学》|The Art of Conversation: A Guided Tour of a Neglected Pleasure|凯瑟琳·宝克
+36. 《管理沟通》|Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior|凯瑟琳·葛特曼等
+37. 《树影：自然如何塑造人类思想和文化》|The Forest Unseen: A Year's Watch in Nature|大卫·乔治·哈桑
+38. 《简洁之美：python代码之道》|The Zen of Python|蒂莫西·米切尔
+39. 《寻找人性之光》|The Road to Character|大卫·布鲁克斯
+40. 《绝对音高大师》|Perfect Pitch: The Science of Mind and Language|达维德·布伦西
+41. 《人类演化史》|The Evolution of Everything: How New Ideas Emerge|马特·里德利
+42. 《灵性最好的心理学》|The Best Spiritual Writing 2012|丹尼尔·霍尔根伦德
+43. 《脑半球：人性如何分割？》|The Master and His Emissary: The Divided Brain and the Making of the Western World|伊恩·麦格洛克林
+44. 《从0到1》|Zero to One: Notes on Startups, or How to Build the Future|彼得·蒂尔
+45. 《敏捷思维》|The Agile Samurai| Jonathan Rasmussen
+46. 《行为症状学》|Symptom Oriented Pain Management|卡罗尔·劳里
+47. 《哲学总论》|Sophie's World: A Novel About the History of Philosophy|托马斯·诺尔加德
+48. 《毒瘤》|The Idiot Brain: A Neuroscientist Explains What Your Head is Really Up To|迪恩·伯内特
+49. 《认知虚构：理解生命中的幻想和错误》|Seeing What Others Don't: The Remarkable Ways We Gain Insights|Gary Klein
+50. 《故事的奇迹》|The Art of Possibility: Transforming Professional and Personal Life|罗塞拉·布里頓和班托·齐格曼

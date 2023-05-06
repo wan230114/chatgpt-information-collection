@@ -1,0 +1,50 @@
+1. 《乌合之众》| The Crowd: A Study of the Popular Mind | 古斯塔夫·勒庞
+2. 《认知改变的艺术》| Mindset: The New Psychology of Success | 卡罗尔·S·德韦克
+3. 《影响力》| Influence: The Psychology of Persuasion | 罗伯特·西奥迪尼
+4. 《思考，快与慢》| Thinking, Fast and Slow | 丹尼尔·卡尼曼
+5. 《人性的弱点》| How to Win Friends and Influence People | 戴尔·卡内基
+6. 《心理学与生活》| Psychology and Life | 理查德·格里格
+7. 《科技奇点》| The Singularity is Near | 雷·库兹韦尔
+8. 《伪装与识破》| Spy the Lie: Former CIA Officers Teach You How to Detect Deception | 菲利普·休斯等
+9. 《时间的秩序》| The Order of Time | 卡洛·罗韦利
+10. 《思考的乐趣》| A Guide to the Good Life: The Ancient Art of Stoic Joy | 威廉·欧文
+11. 《通往奴役之路》| The Road to Serfdom | 弗里德里希·哈耶克
+12. 《追寻生命的意义》| Man's Search for Meaning | 维克多·弗兰克尔
+13. 《可复制的人》| The Replicators: How Entrepreneurs Reinvent Themselves and Their Businesses | 玛里·阿尔莫达瓦
+14. 《连锁反应》| The Tipping Point: How Little Things Can Make a Big Difference | 马尔科姆·格拉德威尔
+15. 《沉默的大多数》| The Silent Majority: Suburban Politics in the Sunbelt South | 雷·布克海特
+16. 《非暴力沟通》| Nonviolent Communication: A Language of Life | 马歇尔·卢森伯格
+17. 《富爸爸，穷爸爸》| Rich Dad Poor Dad | 罗伯特·清崎
+18. 《财富自由之路》| The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime | 马斯特·MJ·德马尔科
+19. 《股票大作手回忆录》| Reminiscences of a Stock Operator | 埃德温·莱费伊
+20. 《畅销之道》| Made to Stick: Why Some Ideas Survive and Others Die | 基思·蒙恩等
+21. 《布莱克天鹅》| The Black Swan: The Impact of the Highly Improbable | 纳西姆·尼古拉斯·塔勒布
+22. 《超预示：为什么我们总能预知事情的发生》| Superforecasting: The Art and Science of Prediction | 菲利普·泰特洛克等
+23. 《有为青年必读》| The 7 Habits of Highly Effective People | 史蒂芬·柯维
+24. 《把时间当做朋友》| Make Time: How to Focus on What Matters Every Day | 杰克·齐默尔曼
+25. 《失控》| Out of Control: The New Biology of Machines, Social Systems, and the Economic World | 凯文·凯利
+26. 《反脆弱》| Antifragile: Things That Gain from Disorder | 纳西姆·尼古拉斯·塔勒布
+27. 《重构：改善既有代码的设计》| Refactoring: Improving the Design of Existing Code | 马丁·福勒
+28. 《启示录：机器学习时代对商业、自由、社会的影响》| Prediction Machines: The Simple Economics of Artificial Intelligence | 铃木达郎等
+29. 《增长黑客》| Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising | 瑞恩·霍利迪
+30. 《激荡三十年》| The China Boom: Why China Will Not Rule the World | 霍维斯·W·佩尔逊
+31. 《优秀到不能被忽视》| So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love | 卡尔·纽波特
+32. 《最后的书商》| The Last Bookshop in London: A Tale of Obsession and Perseverance in the Most Challenging of Times | 玛丽·安·李漫福德
+33. 《人类简史：从动物到上帝》| Sapiens: A Brief History of Humankind | 尤瓦尔·赫拉利
+34. 《卡夫卡岛》| The Castle | 弗兰茨·卡夫卡
+35. 《世界上最简单的经济学课》| The Armchair Economist: Economics and Everyday Life | 斯蒂文·E·兰兰
+36. 《操作系统概念》| Operating System Concepts | 亚伯拉罕·西尔伯斯查茨等
+37. 《追求卓越》| Good to Great: Why Some Companies Make the Leap and Others Don't | 吉姆·柯林斯
+38. 《精益创业》| The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | 艾里克·莱斯
+39. 《码农疯言疯语》| Coders at Work: Reflections on the Craft of Programming | 彼得·西格尔
+40. 《黑客与画家》| Hackers & Painters: Big Ideas from the Computer Age | 保罗·格雷厄姆
+41. 《人工智能的未来》| AI Superpowers: China, Silicon Valley, and the New World Order | 周源等
+42. 《计数器文化》| The Hacker Ethic | 皮埃尔·莱维
+43. 《侃爷传》| The Story of Kanye West | 亚历克斯·吉尔斯
+44. 《芝加哥经济学派》| The Chicago School of Economics: Friedrich Hayek | 乔治·H·史密斯
+45. 《自私的基因》| The Selfish Gene | 理查德·道金斯
+46. 《文化心理学》| Cultural Psychology | 丹尼尔·菲斯克塔（Daniel Fessler）、艾丽森·加扎里安（Alison Gopnik）、乔恩·海德尔（John Haidt）
+47. 《月光男孩》| Moonlight | 比利·琼斯
+48. 《贝多芬传》| Beethoven: The Relentless Revolutionary | 纳杰尔·克拉夫特
+49. 《资本主义的灵魂》| The Protestant Ethic and the Spirit of Capitalism | 马克斯·韦伯
+50. 《解忧杂货店》| The Convenience Store | 东野圭吾

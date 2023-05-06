@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《奇特的一生》|The Immortal Life of Henrietta Lacks|丽贝卡·斯科特
+3.《演讲的力量》|Talk Like TED|卡门·加洛罗
+4.《黑天鹅：如何应对不可预知的未来》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+5.《野蛮行为》|Behave: The Biology of Humans at Our Best and Worst|罗伯特·莫西斯
+6.《真相：如何看待信息洪流中的事实和谎言》|Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think|汉斯·罗斯林
+7.《我们的学校为何失灵》|Why Students Don't Like School: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom|丹尼尔·T.威灵汉
+8.《深度工作》|Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特
+9.《意志力的力量》|The Power of Habit: Why We Do What We Do in Life and Business|查尔斯·杜哈格
+10.《让时间陪你慢旅行》|Slow Travel: Destinations and Adventures for the Slow-Traveler|布莱特·哈歇尔
+11.《武器化心理学：科技巨头如何利用我们的认知偏见》|Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy|凯西·奥尼尔
+12.《社交人类学》|The Art of Gathering: How We Meet and Why It Matters|普里亚·帕克
+13.《语言起源》|The Language Instinct: How the Mind Creates Language|史蒂文·平克
+14.《感觉是如何组成的》|The Tell-Tale Brain: Unlocking the Mystery of Human Nature|V. S.拉马查德兰
+15.《深度思维》|A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)|芮秋·卡森
+16.《幸福的基础》|The How of Happiness: A New Approach to Getting the Life You Want|索妮亚·利布曼斯基
+17.《学习如何学习》|Make It Stick: The Science of Successful Learning|彼得·C.布朗
+18.《掌握创造力》|Creative Confidence: Unleashing the Creative Potential Within Us All|大卫·凯利
+19.《艺术与可持续未来》|Sustainable Art Communities: Contemporary Creativity and Policy Reform in Urban China|王路
+20.《思维导图：解锁你的思考潜力》|The Mind Map Book: Unlock Your Creativity, Boost Your Memory, Change Your Life|托尼·布赖恩
+21.《演讲震撼人心》|The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience|卡米洛·加洛罗，卡罗琳·克林布
+22.《正确联想：大脑的运作机制》|The Art of Reasoning: An Introduction to Logic and Critical Thinking|大卫·凯利
+23.《科技并非鼓励社交，却改变了我们的社会》|Alone Together: Why We Expect More from Technology and Less from Each Other|谢里·图克
+24.《沉思力：阴暗面如何阻碍我们思维的清晰度，决策的理性和创意的激情》|Thinking in Dark Times: Hannah Arendt on Ethics and Politics|罗杰·伯舒瓦克
+25.《关于进化的意大利乡村故事》|The Beak of the Finch: A Story of Evolution in Our Time|乔纳森·温伯格
+26.《阅读的力量》|The Book of Reading and Writing: Ideas and Inspiration for the Classroom|斯：迪克金斯
+27.《沟通的艺术：大师级谈判和口头表达技巧》|Crucial Conversations: Tools for Talking When Stakes Are High|准备，阿尔·莫特，约瑟夫·格兰迪，罗尼·麦克米兰
+28.《快速阅读：11项技能，48项技巧》|Speed Reading: How to Double (or Triple) Your Reading Speed in Just One Day!|彼得·考伯林
+29.《迈向卓越：改变人生的智慧之路》|The Road Less Traveled: A New Psychology of Love, Traditional Values, and Spiritual Growth|斯科特·派克
+30.《充实的人生》|The Art of Being Edith Wharton: The Picture of Spiritual Beauty|罗伯图·格林贝赫
+31.《时间的真相：思考、实践、成长》|The Time Paradox: The New Psychology of Time That Will Change Your Life|菲利普·朴默
+32.《如何有效地思考》|How to Think More Effectively: A Guide to Greater Productivity and Creativity|诺亚·哈林顿
+33.《人们如何学习》|How People Learn|约翰·布赖恩特，米哈尔·斯基拉科斯
+34.《毒性男友：大众文化中的暴力男性角色》|Trapping Toxic Masculinity: A People's Guide to Healing Trauma and Overcoming Patriarchy|库柏·布伦南
+35.《本能：理解本能行为，掌握自惯性机制》|The Power of Instinct: How to Live Intuitively in an Increasingly Rational World|B.J. Fog
+36.《什么让我们快乐？》|The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does|索尼亚·利布曼斯基
+37.《超越他山：我们如何改变和成长》|The Faraway Nearby: How to Change and Grow through Your Worst Experiences|列夫·卡尔萨蒂
+38.《人性的基础》|The Social Animal: The Hidden Sources of Love, Character, and Achievement|大卫·布鲁克斯
+39.《有关人类职场行为的15个数学模型》|Behavioral Mathematics for Game AI|马霍根·德间，石川夏树
+40.《魔鬼藏身处：思维模型的设计与思考》|Design Your Life: Lessons in Spirituality, Creativity, and Quality of Life|比尔·伯纳特，戴尔·艾默森
+41.《无意识的共情：跨越好坏，发现文化的力量》|Unconscious Empathy: Discovering the Shared Human Experience|J.哈里·万加
+42.《进化与心理学》|Evolution and Human Behavior|马丁·戴利
+43.《思维快车》|Blink: The Power of Thinking Without Thinking|马尔科姆·格拉德威尔
+44.《巨商大亨阅读计划》|The Tycoon's Reading Plan|达里尔·辛顿
+45.《新人类：人工智能和未来的精神发展》|The New Human: Understanding Our Biosocial Nature|Tony J. Hughes
+46.《如何制造共鸣》|Made to Stick: Why Some Ideas Survive and Others Die|丹·海斯，基思·布朗，威廉·佩恩，格兰特·汤普森
+47.《集体智慧的力量：大众合作与共创的新经济》|Wikinomics: How Mass Collaboration Changes Everything|唐·塔普斯科特，安东尼·D.威廉姆森
+48.《知识万能贯穿始终》|Effective Learning Skills: A Brain-Based Approach to Learning|弗朗西斯·W.奥康纳
+49.《正向心理学实用指南》|The Handbook of Positive Psychology|尼尔·曼德，阿德贝拉·伊施里格
+50.《为什么我们工作：新历史学，自由主义和自我改造》|Why We Work|卡里·甘茨，詹妮弗·帕特纳赛尔

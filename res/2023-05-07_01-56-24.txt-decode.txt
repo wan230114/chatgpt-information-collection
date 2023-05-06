@@ -1,0 +1,50 @@
+1. 《黑客与画家》| Hackers & Painters: Big Ideas from the Computer Age| Paul Graham 
+2. 《全球通史》| A Global History: From Prehistory to the 21st Century| L.S. Stavrianos 
+3. 《艺术的故事》| The Story of Art| E.H. Gombrich 
+4. 《社会契约论》| The Social Contract| Jean-Jacques Rousseau 
+5. 《菊与刀》| The Chrysanthemum and the Sword| Ruth Benedict 
+6. 《民主的不确定性》| The Uncertainly of Democracy| Claude Lefort 
+7. 《中国哲学简史》| A Short History of Chinese Philosophy| Feng Youlan 
+8. 《意识的宇宙》| The Conscious Universe| Dean Radin 
+9. 《人性的弱点》| How to Win Friends and Influence People| Dale Carnegie 
+10. 《文明的沟通》| The Clash of Civilizations and the Remaking of World Order| Samuel Huntington 
+11. 《长尾理论》| The Long Tail: Why the Future of Business is Selling Less of More| Chris Anderson 
+12. 《人类简史》| Sapiens: A Brief History of Humankind| Yuval Noah Harari 
+13. 《动物农场》| Animal Farm| George Orwell 
+14. 《乌合之众》| The Crowd: A Study of the Popular Mind| Gustave Le Bon 
+15. 《演化的心理学》| The Evolutionary Psychology of the Emotions and Their Relationship to Internal Regulatory Functions| Jeffrey Alan Gray 
+16. 《品性论》| The Nicomachean Ethics| Aristotle 
+17. 《毛泽东选集》| Selected Works of Mao Zedong| Mao Zedong 
+18. 《经济学原理》| Principles of Economics| N. Gregory Mankiw 
+19. 《信息社会概论》| Introduction to Information Society| Bernard Bel 
+20. 《富爸爸穷爸爸》| Rich Dad Poor Dad| Robert T. Kiyosaki 
+21. 《人性的弱点全集》| How to Win Friends and Influence People Complete Edition| Dale Carnegie 
+22. 《论语》| The Analects| Confucius
+23. 《穆斯林的苏丹国》| Mahomet and His Successors| Washington Irving 
+24. 《机器人革命》| The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies| Erik Brynjolfsson, Andrew McAfee 
+25. 《孙子兵法》| The Art of War| Sun Tzu 
+26. 《教育的艺术》| The Art of Education| Ralph Waldo Emerson 
+27. 《人类之弱点》| How to Stop Worrying and Start Living| Dale Carnegie 
+28. 《基因的神话》| The Gene: An Intimate History| Siddhartha Mukherjee 
+29. 《政治秩序的起源》| The Origins of Political Order| Francis Fukuyama 
+30. 《心流》| Flow: The Psychology of Optimal Experience| Mihaly Csikszentmihalyi 
+31. 《经济学家阅读指南》| Economics: An Economist's Reading Guide| Robert L. Heilbroner 
+32. 《非暴力沟通》| Nonviolent Communication: A Language of Life| Marshall B. Rosenberg 
+33. 《我们这一代》| Our Generation| Ernest Renan 
+34. 《秘密》| The Secret| Rhonda Byrne 
+35. 《托尔斯泰传》| Tolstoy: A Russian Life| Rosamund Bartlett 
+36. 《富兰克林传》| The Autobiography of Benjamin Franklin| Benjamin Franklin 
+37. 《应该如何生活》| How to Live: A Life of Montaigne in One Question and Twenty Attempts at an Answer| Sarah Bakewell 
+38. 《人性论》| Human, All Too Human: A Book for Free Spirits| Friedrich Nietzsche 
+39. 《华丽的欺骗》| The Beautiful and Damned| F. Scott Fitzgerald 
+40. 《皮囊》| The Skin| Curzio Malaparte 
+41. 《万历十五年》| 1587: A Year of No Significance: The Ming Dynasty in Decline| Ray Huang 
+42. 《我是猫》| I Am a Cat| Natsume Soseki 
+43. 《读书痴呆》| The Reader on the 6.27| Jean-Paul Didierlaurent 
+44. 《芬威社区论》| The Gemeinschaft and Gesellschaft Community in Norbert| Max Weber 
+45. 《乌合之众的心理》| The Crowd: A Study of the Popular Mind| Gustave Le Bon 
+46. 《物竞天择：生存还是死亡？》| Survival of the Fittest: Animals in the Wild| Bernard Stonehouse 
+47. 《品格的力量》| Character is Destiny| John McCain 
+48. 《商业模式新生》| Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers| Alexander Osterwalder, Yves Pigneur 
+49. 《巴菲特致股东的信》| Warren Buffett's Shareholder Letters| Warren Buffett 
+50. 《为什么改变会失败》| Why Change Fails: Knowledge Transfer and Resistance in Organizations| Richard Hall, Pamela E. Berry

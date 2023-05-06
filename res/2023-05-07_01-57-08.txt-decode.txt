@@ -1,0 +1,50 @@
+1.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+2.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+3.《如何高效学习》|Make It Stick: The Science of Successful Learning|彼得·C.布朗 等
+4.《演讲的力量》|The Power of Speech: Leadership, Diplomacy, and the Art of Persuasion|车尔尼·哈特
+5.《奇特的一生》|The Immortal Life of Henrietta Lacks|蕾贝卡·史克洛特
+6.《社交心理学》|Social Psychology|戈登·阿利普
+7.《大数据时代》|Big Data: A Revolution That Will Transform How We Live, Work, and Think|维克托·迈尔-舍恩伯格
+8.《无声的春雷》|Silent Spring|瑞秋·卡森
+9.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+10.《卡夫卡的电报》|Kafka on the Shore|村上春树
+11.《疯狂世界末日》|The End of the World as We Know It: Scenes from a Life|Gwynn Dyer
+12.《另类的投资组合》|The Little Book of Alternative Investments|Benjamin Graham, Jason Zweig
+13. 《冷战》| Cold War: An International History |阿姆·戴维·霍洛维茨 
+14. 《战争与和平》|War and Peace|列夫·托尔斯泰 
+15. 《国富论》|The Wealth of Nations|亚当·斯密 
+16.《解读人类行为密码》|What Every Body Is Saying|乔·纳瓦罗
+17.《脑的自我修养》|The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science|诺曼·多奇
+18.《人类大起源》|The Dawn of Human Culture|理查德·克莱因
+19.《永远的乔布斯》|Steve Jobs|沃尔特·艾萨克森
+20.《系统思维》|Thinking in Systems: A Primer|唐纳德·梅德罗斯 
+21.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+22.《人性的枷锁》|The Lucifer Effect: Understanding How Good People Turn Evil|菲利普·津巴多
+23.《长尾理论》|The Long Tail: Why the Future of Business is Selling Less of More|克里斯·安德森
+24.《未来简史》|Homo Deus: A Brief History of Tomorrow|尤瓦尔·赫拉利
+25.《人类群星闪耀时》|When Breath Becomes Air|保罗·卡兰尼希
+26.《人间草木》|The Little Prince|安托万·德·圣-修伯里
+27.《激荡三十年》|China in the 21st Century: What Everyone Needs to Know|李约瑟
+28.《身体回忆》|The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma|范德尔·科克
+29.《半数现象》|The Half-Life of Facts: Why Everything We Know Has an Expiration Date|萨姆·阿诺德
+30.《科技想要什么》|What Technology Wants|凯文·凯利
+31.《如何阅读一本书》|How to Read a Book|莫提默·J.艾德勒
+32.《奇航记》|The Odyssey|荷马
+33.《思想的乐趣》|The Pleasures of Philosophy|威尔·杜兰特
+34.《神秘岛》|The Mysterious Island|儒勒·凡尔纳
+35.《别为小事物烦恼》|Don't Sweat the Small Stuff...and It's All Small Stuff: Simple Ways to Keep the Little Things from Taking Over Your Life|理查德·卡尔森
+36.《一粒种子》|The Alchemist (10th Anniversary Edition)|保罗·柯艾略
+37.《乌合之众与精英统治》|The Nature of Mass Poverty|吉涅斯·P·惠特莫尔
+38.《一本书读懂经济学》|Economics in One Lesson|亨利·哈兰德
+39.《积极心理学》|Positive Psychology: The Scientific and Practical Explorations of Human Strengths|Mihaly Csikszentmihalyi, William Damon
+40.《简明宇宙史》|A Brief History of Time|史蒂芬·霍金
+41.《向死而生》|Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson|米奇·阿尔巴姆
+42.《科学革命的结构》|The Structure of Scientific Revolutions|托马斯·库恩
+43.《霸王别姬》|Farewell My Concubine|莫言
+44.《格点国度》|Flatland: A Romance of Many Dimensions|爱德温·A.阿伯特
+45.《人类的本质》|The Social Animal: The Hidden Sources of Love, Character, and Achievement|戴维·布鲁克斯
+46.《财富自由之路》|The Path to Personal Power|纳波莉昂·希尔
+47.《格林童话集》|Grimms' Fairy Tales|雅各布和威廉·格林兄弟
+48.《赢在中国》|Playing to Win in Business and Life|陈安之
+49.《盖茨传》|Steve Jobs: The Exclusive Biography|沃尔特·艾萨克森
+50.《一本诗一双鞋》|Shoe Dog: A Memoir by the Creator of Nike|菲尔·奈特

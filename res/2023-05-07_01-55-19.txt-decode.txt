@@ -1,0 +1,50 @@
+1.《极限持续》|Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance|亚历克斯·亨道尔
+2.《终极体验》|Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work|史蒂芬·考特勒
+3.《关键句》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+4.《爆发力》|The Power of Moments: Why Certain Experiences Have Extraordinary Impact|丹·希斯特和切普·希斯特
+5.《无为而成》|Effortless: Make It Easier to Do What Matters Most|格雷戈·麦肯齐
+6.《气质》|Personality: What Makes You the Way You Are|丹尼尔·纳特
+7.《通向流畅的艺术》|Flow: The Psychology of Optimal Experience|米哈里·齐克森特米哈伊
+8.《亲密关系》|Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love|艾米丽·林德尔和安柏·卡特
+9.《扭曲：光大之下的人性黑洞》|The Lucifer Effect: Understanding How Good People Turn Evil|菲利普·泽姆巴多
+10.《社会动物》|Social: Why Our Brains Are Wired to Connect|马修·李伯曼
+11.《自控力》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯莉·麦戈尼格尔
+12.《脆弱的力量》|The Power of Vulnerability: Teachings on Authenticity, Connection, and Courage|布伦é·布朗
+13.《人人都能谈判》|Getting to Yes: Negotiating Agreement Without Giving In|威廉·尤里和罗杰·费雪
+14.《致命的欲望》|Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts|安妮·杜克
+15.《我们究竟何时休战？》|The War for Kindness: Building Empathy in a Fractured World|扎克·博格
+16.《自由意志的错觉》|The Illusion of Free Will|道格拉斯·霍夫斯塔特
+17.《安静：内向性格的力量》|Quiet: The Power of Introverts in a World That Can't Stop Talking|苏珊·凯恩
+18.《情绪智慧》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼
+19.《性格结构与人格心理学》|Personality Structure and the Theories of Personality|罗林斯·安斯西
+20.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+21.《行动科学》|The Science of Action: How to Stick to Your Goals and Productivity When Things Get in the Way|马里奥·杜维尔
+22.《反脆弱》|Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布
+23.《认知神经学》|Cognitive Neuroscience: The Biology of the Mind|迈克尔·加扎尼加和理查德·托普尔
+24.《价值投资》|Value Investing: From Graham to Buffett and Beyond|布鲁斯·格林沃尔德, 乔尔·格林布拉特和安德鲁·科文
+25.《大众心理学》|General Psychology|卡尔·格斯特
+26.《逆向心理学》|Reverse Psychology: The Dirty Little Secrets Revealed|本杰明·埃弗斯
+27.《思维模式》|Mindsets: The Psychology of Success|卡罗尔·德韦克
+28.《成为深度思考的人》|Becoming a Deep Thinker: A Guide to Self-Awareness and Development|温顺·巴尔巴托
+29.《管理信息系统》|Management Information Systems: Managing the Digital Firm|肯尼特·C.劳德尔和简.佩勒斯
+30.《赚钱心理学》|The Psychology of Money|摩根·豪斯尔
+31.《全人类的智商》|The Wisdom of Crowds|詹姆斯·苏里克
+32.《东亚哲学概论》|An Introduction to East Asian Philosophy|科尔因·克瑞
+33.《主观幸福度的经济学》|Happiness: A Guide to Developing Life's Most Important Skill|马修·里卡德
+34.《不确定性下的战略》|Playing to Win: How Strategy Really Works|艾格、劳森和克里斯托弗·韦伯
+35.《你的刻板印象是错的》|The Person You Mean to Be: How Good People Fight Bias|蒂福尼·杰弗里
+36.《认知心理学》|Cognitive Psychology: Mind and Brain|爱德华·E.史密斯和斯蒂芬·博·威特贝克
+37.《成功的慷慨秘诀》|Give and Take: Why Helping Others Drives Our Success|亚当·格兰特
+38.《反脆化：变的更强，而不是变得更强壮》|Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布
+39.《数据并不会说谎：数据如何推动商业成功》|Big Data: A Revolution That Will Transform How We Live, Work, and Think|维克托·迈尔
+40.《学会专注》|Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特
+41.《思维的乐趣》|The Joy of Thinking: The Beauty and Power of Classical Mathematical Ideas|瓦兹拉夫·斯莫莫洛
+42.《专注力的世界》|The World Beyond Your Head: On Becoming an Individual in an Age of Distraction|马修·克劳利
+43.《大数据时代》|Big Data: A Very Short Introduction|戴维·哈维
+44.《黑天鹅：如何应对不可预测的未来》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+45.《工作中的精神分析学》|Workplace Psychology: The Science and Practice of Human-Resources|米歇尔·T.希尔(希尔博士)
+46.《思考与色彩》|Thinking with Color: Designing for the 21st Century|彼得·诺瓦克(Noah I. Peter)
+47.《社交心理学》|Social Psychology|戴维·迈尔斯, 达丽尔·巴迪和约翰·道森
+48.《物理学的哲学》|Philosophy of Physics: Space and Time|朱利安 · 巴·巴罗斯
+49.《改变：影响力的心理学》|Influence: The Psychology of Persuasion|罗伯特·西奥迪尼
+50.《注意力力量》|The Power of Focus: How to Hit Your Business, Personal, and Financial Targets with Absolute Confidence and Certainty|杰克·坦菲尔德, 迪思林·哈恩和马克·汉森

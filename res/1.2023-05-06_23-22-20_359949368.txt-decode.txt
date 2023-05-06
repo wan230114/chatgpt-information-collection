@@ -1,0 +1,50 @@
+1. 《追寻记忆的痕迹》|The Memory Illusion: Remembering、Forgetting、and the Science of False Memory|朱利安·博尔加勒特（Julia Shaw）
+2. 《智力的陷阱》|The Intelligence Trap: Why Smart People Make Dumb Mistakes|戴维·罗宾森（David Robson）
+3. 《人类简史：从动物到上帝》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利（Yuval Noah Harari）
+4. 《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼（Daniel Kahneman）
+5. 《优势》|Grit: The Power of Passion and Perseverance|安吉拉·达克沃思（Angela Duckworth）
+6. 《阿甘正传》|Forrest Gump|温斯顿·格卢姆（Winston Groom）
+7. 《社交心理学》|Social Psychology|大卫·迈尔斯（David Myers）
+8. 《沟通的力量》|The Power of Communication: Skills to Build Trust、Inspire Loyalty、and Lead Effectively|海莉·迈尔斯（Haley Miles）
+9. 《如何阅读一本书》|How to Read a Book|莫提默·阿德勒(Mortimer Adler)、查尔斯·范多伦(Charles Van Doren)
+10. 《漫步人生边缘》|Tuesdays with Morrie|米奇·阿尔博姆（Mitch Albom）
+11. 《黑天鹅：如何应对不可预知的未来》|The Black Swan: The Impact of the Highly Improbable|尼古拉斯·塔莱布（Nassim Nicholas Taleb）
+12. 《如何防止自己被愚弄》|The Art of Thinking Clearly|罗尔夫·多贝利（Rolf Dobelli）
+13. 《情绪智力》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼（Daniel Goleman）
+14. 《人类群星闪耀时》|When Breath Becomes Air|保罗·卡兰尼希（Paul Kalanithi）
+15. 《非暴力沟通》|Nonviolent Communication: A Language of Life|马歇尔·卢森伯格（Marshall B. Rosenberg）
+16. 《学会提问》|A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas|沃伦·伯格曼（Warren Berger）
+17. 《深度工作》|Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特（Cal Newport）
+18. 《沉思录》|Meditations|马可·奥勒留（Marcus Aurelius）
+19. 《未来简史》|21 Lessons for the 21st Century| 尤瓦尔·赫拉利（Yuval Noah Harari）
+20. 《心流：如何进入自我超越状态》|Flow: The Psychology of Optimal Experience|米哈里·齐克赖（Mihaly Csikszentmihalyi）
+21. 《宽容度：为什么我们要互相容忍》|Against Empathy: The Case for Rational Compassion|保罗·布鲁默（Paul Bloom）
+22. 《领导力的艺术》|The Art of Leadership: Small Things, Done Well|迪恩·威廉姆斯（Dean Williams）
+23. 《方式：演练想法的力量》|The Way to a Meaningful Life|达赖喇嘛世界和平之桥公司（The Office of His Holiness the Dalai Lama）
+24. 《欢迎来到时间的沙漏》|Welcome to the Universe: An Astrophysical Tour|尼尔·德格拉斯·泰森（Neil deGrasse Tyson）、迈克尔·A·斯特劳斯（Michael A. Strauss）、杰·理查德·戴维森（J. Richard Gott）
+25. 《七种思维定式》|The Seven Sins of Memory: How the Mind Forgets and Remembers|丹尼尔·斯金斯（Daniel L. Schacter）
+26. 《如何让事情发生》|Making Things Happen: Mastering Project Management|斯科特·柯锐斯泰（Scott Berkun）
+27. 《心灵魔法师》|The Psychopath Test: A Journey Through the Madness Industry|琼·罗尼森（Jon Ronson）
+28. 《链反应》|The Tipping Point: How Little Things Can Make a Big Difference|马尔科姆·格拉德威尔（Malcolm Gladwell）
+29. 《焦虑时刻》|The Anxious Mind: An Investigation into the Nature and Causes of Anxiety and Panic Attacks|科利·伊普斯坦（Kelly IPS） 
+30. 《黑暗中的孩子》|The Boy Who Was Raised as a Dog, and Other Stories from a Child Psychiatrist’s Notebook|布鲁斯·佩里（Bruce D. Perry）和玛丽·古德曼（Maia Szalavitz）
+31. 《凡人修仙传》|A Will Eternal|耳根（Er Gen）
+32. 《异类：不一样的成功启示录》|Outliers: The Story of Success|马尔科姆·格拉德威尔（Malcolm Gladwell）
+33. 《有效思考的33个策略》|33 Strategies of War|罗伯特·格林（Robert Greene）
+34. 《领导力原则》|Principles: Life and Work|雷·达利欧（Ray Dalio）
+35. 《肆无忌惮地写作》|Bird by Bird: Some Instructions on Writing and Life|安妮·拉莫特（Anne Lamott）
+36. 《大统一理论》|The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory|布莱恩·格林（Brian Greene）
+37. 《欧几里得的元素》|Euclid’s Elements（英译）|欧几里得（Euclid）
+38. 《心是如何运作的》|The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live—and How You Can Change Them|理查德·戴维德-格曼（Richard Davidson）和夏朋诺克（Sharon Begley）
+39. 《动物精神》|Animal Minds: Beyond Cognition to Consciousness|J. 艾伯特·机特（J. Albert McFarland）
+40. 《重构：改善既有代码的设计》|Refactoring: Improving the Design of Existing Code|马丁·福勒（Martin Fowler）
+41. 《如何学习》|A Mind for Numbers: How to Excel at Math and Science|芭芭拉·奥克利（Barbara Oakley）
+42. 《行动的勇气：灵活领导力的艺术》|Leadership Agility: Five Levels of Mastery for Anticipating and Initiating Change|比尔·约克（Bill Joiner）
+43. 《打造感知法：如何走出视角分裂，解锁领导力的力量》|The Perceiving Voice: Unlocking the Power of Perception for Leadership and Life|毛建新（Frank M.J. LaFasto）
+44. 《父母来了：考验我们宝贵亲密关系的成长过程》|Get Out of My Life, but First Could You Drive Me & Cheryl to the Mall: A Parent’s Guide to the New Teenager|安东尼·E·沃尔斯特（Anthony E. Wolf）
+45. 《新生》|The New Psycho-Cybernetics|麦克斯威尔·马尔范德（Maxwell Maltz）
+46. 《沉思的艺术》|The Art of Stillness: Adventures in Going Nowhere|皮科尔·博士克（Pico Iyer）
+47. 《肌肉记忆》|The Art of Learning: An Inner Journey to Optimal Performance|乔希·韦茨金（Josh Waitzkin）
+48. 《黑皮书》|The Black Book| 普舒金（Orhan Pamuk）
+49. 《为什么你们那么慵懒》|Why We Sleep: Unlocking the Power of Sleep and Dreams|马修·沃克（Matthew Walker）
+50. 《默写起来》|Moonwalking with Einstein: The Art and Science of Remembering Everything|乔书（Joshua Foer）

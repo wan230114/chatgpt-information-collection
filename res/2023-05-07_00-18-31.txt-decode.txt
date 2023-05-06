@@ -1,0 +1,50 @@
+1.《乌合之众》| The Crowd: A Study of the Popular Mind | 古斯塔夫·勒庞
+2.《批判性思维工具箱》| The Miniature Guide to Critical Thinking Concepts and Tools | 琳达·埃尔德尔
+3.《人类行为的根源》| The Origins of Human Behavior | 罗伯特·弗莱明
+4.《狄更斯世界的一半》| Half the World: The Social Architecture of Safavid Isfahan, 1590-1722 | Andrew J. Newman
+5.《支配的三种形式》| The Three Forms of Dominion: A Comparative Study of Jewish, Christian and Islamic Political Theory | Geoffrey Samuel
+6.《大数据时代》| Big Data: A Revolution That Will Transform How We Live, Work and Think | 瓦尔特·艾萨克森
+7.《心理如何驱动经济》| How The Mind Works | 史蒂文·平克
+8.《如何阅读一本书》| How to Read a Book | 莫提默·J·艾德勒
+9.《乐活》| The Art of Living | 伊泽特·C·索尔
+10.《旅行的意义》| The Art of Travel | 阿兰·德波顿
+11.《社会学是一种危险学问》| Sociology is a Martial Art | 皮埃尔·布迪厄
+12.《行为经济学》| NUDGE: Improving Decisions About Health, Wealth and Happiness | 理查德·塞勒、卡尔·桑斯坦
+13.《衡量是什么》| What is Measurement? | 麦克劳德
+14.《广告的魔力》| Adcult USA: The Triumph of Advertising in American Culture | 詹姆斯·B·托姆普森
+15.《做事的样子》| The Doing of Doing : A Practical Guide to Business Succession Planning | 贾尼斯·朱纳
+16.《信任的力量》| The Speed of Trust: The One Thing That Changes Everything | 史蒂文·M·R·柯维
+17.《人性中的贪婪》| The Selfish Gene | 理查德·道金斯
+18.《黑客与画家》| Hackers & Painters: Big Ideas from the Computer Age | 保罗·格雷厄姆
+19.《来自新科技的新威胁》| The Big Switch: Rewiring the World, from Edison to Google | 尼可拉斯·卡尔
+20.《思考履约》| Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts | 安妮·杜克
+21.《从0到1》| Zero to One: Notes on Startups, or How to Build the Future | 彼得·蒂尔
+22.《长尾理论》| The Long Tail: Why the Future of Business is Selling Less of More | 克里斯·安德森
+23.《少有人走的路》| The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth | M·斯科特·派克
+24.《沉默的世界》| The Silent World | 雅克-伊夫·库斯托
+25.《吸引力法则》| The Law of Attraction: The Basics of the Teachings of Abraham | 埃斯特·希克斯、杰瑞·希克斯
+26.《你的灵魂深处》| The Seat of the Soul | 盖瑞·祖卡夫
+27.《以形塑之》| Forces That Shape the Earth | 米歇尔·德·切特
+28.《尼采的基督教》| Nietzsche's New Darwinism | John Richardson
+29.《祖传的语言》| Inheritance of Lost Languages | 麦克·欧库拉
+30.《过剩的活力》| Surplus Energy Economics: The Path to a Regenerative Growth Economy | 塔姆纳·明格
+31.《技术终结了什么》| What Technology Wants | 凯文·凯利
+32.《我们的全民精神病》| The Madness of Crowds: Gender, Race and Identity | 道格拉斯·穆雷
+33.《小组心理学》| Small Group Behavior: An Introduction to Group Processes | Donelson R. Forsyth
+34.《定向思维》| Lateral Thinking: Creativity Step by Step | 爱德华·德博诺
+35.《经济学万岁》| Economics in One Lesson | 亨利·哈托
+36.《人性的弱点》| How to Win Friends and Influence People | 戴尔·卡耐基
+37.《内向型人才的力量》| Quiet: The Power of Introverts in a World That Can't Stop Talking | 苏珊·凯恩
+38.《启迪之魂》| The Power of Now: A Guide to Spiritual Enlightenment | 埃克哈特·托利
+39.《谷歌的智慧》| The Google Story: Inside the Hottest Business, Media, and Technology Success of Our Time | 大卫·V·山多尔
+40.《启示录：数字未来的秘密历程》| The Singularity is Near: When Humans Transcend Biology | 瑞·库兹韦尔
+41.《载荷/效率》| Load & Efficiency: A Performance Study of Village Water Mills in Nepal | 德雷克·M·拉特
+42.《为什么个性会影响我们的运气》| The Luck Factor: The Scientific Study of the Lucky Mind | 理查德·怀森
+43.《我们周围的人》| The People Around Us: A Cross-Cultural Perspective on Understanding Diversity | 唐纳德·J·弗朗西斯
+44.《自洽场理论》| Self-consistent Fields in Atoms | 约翰·C·斯拉特
+45.《哈佛政治评论》| Harvard Business Review | 哈佛商业评论
+46.《在精神科治疗中应用的认知行为疗法》| Cognitive Behavior Therapy: Basics and Beyond | Judith S. Beck
+47.《改变自己的大脑》| Rewire Your Brain: Think Your Way to a Better Life | 约翰·B·阿米特治
+48.《一个普通人的历史》| A Short History of Nearly Everything | 比尔·布莱森
+49.《整个世界都像是一个商店奶奶》| The World Is Flat: A Brief History of the Twenty-First Century | 托马斯·弗里德曼
+50.《刻意练习》| Peak: Secrets from the New Science of Expertise | 安德斯·艾利克森

@@ -1,0 +1,50 @@
+1.《如何阅读一本书》How to Read a Book by Mortimer Adler and Charles Van Doren
+2.《三体》The Three-Body Problem by Liu Cixin
+3.《认知天性》Thinking, Fast and Slow by Daniel Kahneman
+4.《穷查理宝典》The Tao of Charlie Munger by David Clark and Charlie Munger
+5.《原则》Principles by Ray Dalio
+6.《变革之书》The Innovator's Dilemma by Clayton Christensen
+7.《黑天鹅》The Black Swan by Nassim Nicholas Taleb
+8.《证券分析》Security Analysis by Benjamin Graham and David Dodd
+9.《The Lean Startup》精益创业 by Eric Ries
+10.《沉思录》Meditations by Marcus Aurelius
+11.《影响力》Influence by Robert Cialdini
+12.《少有人走的路》The Road Less Traveled by M. Scott Peck
+13.《高效能人士的七个习惯》The Seven Habits of Highly Effective People by Stephen Covey
+14.《乌合之众》The Crowd by Gustave Le Bon
+15.《人类简史》Sapiens: A Brief History of Humankind by Yuval Noah Harari
+16.《彼得原理》The Peter Principle by Laurence J. Peter and Raymond Hull
+17.《坚毅》Grit by Angela Duckworth
+18.《刻意练习》Peak by Anders Ericsson and Robert Pool
+19.《像数学家一样思考》How to Think Like a Mathematician by Steven G. Krantz
+20.《通向奴役之路》The Road to Serfdom by Friedrich A. Hayek
+21.《周的制造》The Toyota Way by Jeffrey K. Liker
+22.《追随领袖的原则》The Leadership Challenge by James M. Kouzes and Barry Z. Posner
+23.《社会心理学》Social Psychology by David Myers
+24.《解忧杂货店》The Convenience Store by Keigo Higashino
+25.《我们的数学》Our Mathematical Universe by Max Tegmark
+26.《道德经》Tao Te Ching by Lao Tzu
+27.《工匠精神》The Craftsman by Richard Sennett
+28.《世界是平的》The World Is Flat by Thomas L. Friedman
+29.《乌合之众的心理》The Psychology of Crowds by Everett Dean Martin
+30.《十亿增长》Billion Dollar Whale by Tom Wright and Bradley Hope
+31.《人生的智慧》The Wisdom of Life by Arthur Schopenhauer
+32.《世界美术史》A World History of Art by Hugh Honour and John Fleming
+33.《人性的弱点》How to Win Friends and Influence People by Dale Carnegie
+34.《最好的告别》Being Mortal by Atul Gawande
+35.《奥德赛》The Odyssey by Homer
+36.《寻路中国》China Road by Rob Gifford
+37.《当彼得遇见玛丽》What Peter Drucker Would Say by Jack Beatty
+38.《不自卑》Man's Search for Meaning by Viktor Frankl
+39.《奇点临近》The Singularity Is Near by Ray Kurzweil
+40.《经济学原理》Principles of Economics by Gregory Mankiw
+41.《人类简史+未来简史》Sapiens and Homo Deus by Yuval Noah Harari
+42.《数据清洗之道》The Data Cleaning Handbook by Jelte Wicherts and Rogier Kievit
+43.《面向对象分析与设计》Object-Oriented Analysis and Design by Grady Booch
+44.《卓越领导力》Leadership Excellence by Pat Williams
+45.《奠基巨人传》Titan by Ron Chernow
+46.《大数据时代》Big Data by Viktor Mayer-Schönberger and Kenneth Cukier
+47.《复杂性思维》Complexity Thinking by Michael J. O'Brien
+48.《学习之道》The Mastering Engineer's Handbook by Bobby Owsinski
+49.《星历学的历史》The History of Astronomy by George Forbes
+50.《文化习惯》Culture and Behavior by Richard Brislin

@@ -1,0 +1,50 @@
+1.《思考,快与慢》|Thinking, Fast and Slow|丹尼尔·卡内曼
+2.《戳穿谎言》|Factfulness|汉斯·罗斯林
+3.《怪诞心理学》|The Psychopath Test|琼·罗恩
+4.《掌控》|The Power of Habit|查尔斯·杜希格
+5.《睡眠革命》|Why We Sleep|马修·沃克
+6.《沉默的大多数》|The Silent Majority|尼古拉斯·韦德
+7.《成为毕业生秘诀》|The Defining Decade|梅格·杰伊
+8.《微动力》|Micro-Motives and Macro-Behavior|托马斯·舒利兹
+9.《吸引力法则》|The Law of Attraction|埃斯特·希克斯
+10.《如何阅读一本书》|How to Read a Book|Mortimer Adler 
+11.《意识的狭隘》|The Narrow Corridor|达隆·阿卡莱
+12.《精益创业》|The Lean Startup|艾利克里·莱斯
+13.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+14.《蒙着眼睛的乌鸦》|Blindspot|马赫麦德·哈桑和安东尼·格林瓦尔德
+15.《赢》|Winning|杰克·韦尔奇
+16.《行动的灵魂：成功的秘诀》|The Power of Intentional Action|卡洛斯·阿涅罗
+17.《交易新境界》|The New Trading for a Living|艾历克·艾德勒
+18.《个人资产管理》|Personal Finance|安德鲁·图
+19.《常识经济学》|Economics in One Lesson|亨利·哈兹利特
+20.《曼达拉的方式》|The Way of Mandala|恩德里阿斯·威加尔
+21.《归因陷阱》|The Attribution Trap|乔恩·塔夫图埃利
+22.《像数学家一样思考》|How to Think Like a Mathematician|凯文·德沃思
+23.《领导者的方式》|The Way of the Leader|詹姆斯·亨特
+24.《写作风格的新要素》|Elements of Style|威廉·斯特劳克和伯特兰德·怀特
+25.《富爸爸穷爸爸》|Rich Dad, Poor Dad|罗伯特·清崎
+26.《商业的机密》|The Secret of Business|博·斯贝克曼
+27.《下注》|Betting on People|托布·莫斯科维茨
+28.《你太重要了》|You're Too Important to Die, You're Never Too Important to Kill Yourself|布瑞恩·布拉夫曼
+29.《什么决定我们的命运》|The Psychology of Fate|詹姆斯·普洛托
+30.《全球式创新》|The Global Innovation Index|科尼克斯和WGEC
+31.《魔法三秒钟》|The Three-Second Rule|布莱恩·特雷西
+32.《牛滋味》|Gung Ho!|肯·布兰切尔德
+33.《我为什么这么说》|Why Do I Say These Things?|芬克·索菲娅
+34.《富民强国》|The Wealth of Nations|亚当·斯密
+35.《优秀是习惯》|The 7 Habits of Highly Effective People|史蒂芬·柯维
+36.《再见了，舒适区》|Feel the Fear and Do It Anyway|苏珊·杰弗斯
+37.《不完美的谷底》|The Upside of Your Dark Side|特德·阿普托和加布里埃尔·奥特
+38.《消失的卡片》|The Disappearing Card|布鲁斯·库彻
+39.《因为没有人告诉我该怎么办》|Nobody Told Me How: Memoirs of a Young Educator|乔纳森·洛伊德
+40.《大梦想家》|The Dream Manager|马修·凯利
+41.《丰田方式》|The Toyota Way|杰夫里·延伸
+42.《人际互动的力量》|Leadership and Self-Deception|阿伯拉姆·布林克和肯尼·巴特勒
+43.《出现未知》|Embracing the Unknown|莎拉·塞尔夫
+44.《走出困境》|Breaking the Habit of Being Yourself|乔·迪斯本查罗
+45.《快速思维力》|Agile Thinking|M. Mary Sue
+46.《思维模式的转变》|The Shift|韦恩·戴尔
+47.《合力》|The Power of Collaboration|约翰·戈特曼和莎拉·约翰逊
+48.《纳米形状》|Nanostructured Materials|卢卡斯·布兰加尔和约翰·曼尼克
+49.《精神的力量》|The Power of the Spiritual|马克·麦考尼基
+50.《问题解决者》|The Problem Solver|托马斯·德温格和马克·梅考伯琳。

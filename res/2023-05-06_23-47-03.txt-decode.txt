@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《黑天鹅：如何应对不可预知的未来》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+3.《未来简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+4.《霍乱时期的爱情》|Love in the Time of Cholera|加夫列尔·加西亚·马尔克斯
+5.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+6.《时间简史》|A Brief History of Time|史蒂芬·霍金
+7.《人类简史：从动物到上帝》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+8.《生命3.0：人工智能时代，人类进化的下一步》|Life 3.0: Being Human in the Age of Artificial Intelligence|马克·斯威尼
+9.《穷查理宝典》|Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger|查理·芒格
+10.《开放社会及其敌人》|The Open Society and Its Enemies|卡尔·波普尔
+11.《Emotional Intelligence: Why It Can Matter More Than IQ》|情商：为什么它比智商更重要|丹尼尔·戈尔曼
+12.《演化心理学》|The Handbook of Evolutionary Psychology|大卫·贝斯
+13.《黑客与画家》|Hackers and Painters|保罗·格雷厄姆
+14.《了不起的盖茨比》|The Great Gatsby|弗朗西斯·斯科特·菲茨杰拉德
+15.《进化的故事》|The Story of Evolution|迈克尔·斯坦伯格
+16.《富爸爸，穷爸爸》|Rich Dad, Poor Dad|罗伯特·清崎
+17.《洛丽塔》|Lolita|弗拉基米尔·纳博科夫
+18.《演化的力量》|The Power of Evolution|弗兰西斯·留斯
+19.《知觉与现实》|Perception and Reality|哈利·法克斯
+20.《动物精神》|The Animal Spirits|乔治·阿克洛夫
+21.《原则》|Principles|雷·达利欧
+22.《黑暗森林》|The Dark Forest|刘慈欣
+23.《观念的起源》|The Origin of Consciousness in the Breakdown of the Bicameral Mind|朱利安·杰伯
+24.《超越智商》|The Emotional Intelligence of AI|杰克·约翰逊
+25.《指数基金投资指南》|The Little Book of Common Sense Investing|约翰·博格尔
+26.《戴高乐传》|De Gaulle: A Biography|朱利安·杰克逊
+27.《知识社会》|The Knowledge Society|彼得·德鲁克
+28.《致命习惯》|The Power of Habit|查尔斯·杜希格
+29.《元认知的奥秘》|The Meta-Programs Mystery|克里斯蒂娜·哈伯德
+30.《洛杉矶的城市生活》|The Death and Life of Great American Cities|简·雅各布斯
+31.《经济学原理》|Principles of Microeconomics|格雷格·曼基与玛丽安·佩欧尔
+32.《海伦·凯勒传》|The Story of My Life|海伦·凯勒
+33.《潜规则》|The Hidden Rules of Social Class|安兹·法尔科内
+34.《共舞团》|The Corps Dance Ensemble|加西亚·马尔克斯
+35.《大数据时代》|Big Data: A Revolution That Will Transform How We Live, Work, and Think|维克托·迈尔-舍恩伯格
+36.《中国历史大讲堂》|History of China|梅思菲韦
+37.《行动的力量》|The Power of Action|托尼·罗宾斯
+38.《坦坦尼克号》|Titanic|沃尔特·派西克
+39.《明朝那些事儿》|The Ming Dynasty|当年明月
+40.《财富自由之路》|Your Money or Your Life|乔·多明格斯与维基·罗宾斯
+41.《阿·J·弗朗西斯传》|The Secret Life of A. J. Fikry|加布利埃尔·泽文
+42.《追风筝的人》|The Kite Runner|哈勃·胡赛因
+43.《杀死一只知更鸟》|To Kill a Mockingbird|哈珀·李
+44.《神经科学》|Principles of Neuroscience|埃里克·卡安德尔等
+45.《人性的底层》|The Bottom of Human Nature|安迪·巴戈斯
+46.《掌控自我》|Willpower: Rediscovering the Greatest Human Strength|罗伊·巴伊默斯特哲学
+47.《船长的女儿》|Daughter of the Captain|J·M·库切
+48.《自卑与超越》|In Search of a Better World|卡尔·波普尔
+49.《巴菲特致股东的信》|Letters to Berkshire Hathaway Shareholders|沃伦·巴菲特
+50.《精彩人生》|The Greatness Guide|罗宾·谷大瑞

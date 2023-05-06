@@ -1,0 +1,50 @@
+1. 《思考，快与慢》Thinking, Fast and Slow|Daniel Kahneman|丹尼尔·卡尼曼
+2. 《原则》Principles|Ray Dalio|雷·达利欧
+3. 《高效能人士的七个习惯》The 7 Habits of Highly Effective People|Stephen Covey|史蒂芬·柯维
+4. 《沟通的艺术》The Art of Communication|Thich Nhat Hanh|智慧法师
+5. 《智能时代》The Age of Smartness|Edward D. Hess|爱德华·D·赫斯
+6. 《失控》Out of Control|Kevin Kelly|凯文·凯利
+7. 《一本书读懂身体语言》The Definitive Book of Body Language|Allan Pease|艾伦·皮兹
+8. 《无意识的幸福》Stumbling on Happiness|Daniel Gilbert|丹尼尔·吉尔伯特
+9. 《影响力》Influence: The Psychology of Persuasion|Robert Cialdini|罗伯特·希尔迪
+10. 《人性的弱点》How to Win Friends and Influence People|Dale Carnegie|戴尔·卡耐基
+11. 《社会心理学》Social Psychology|David Myers|戴维·迈尔斯
+12. 《说话的艺术》The Art of Speaking|Dale Carnegie|戴尔·卡耐基
+13. 《自控力》The Willpower Instinct|Kelly McGonigal|凯利·麦戈尼格尔
+14. 《把时间当作朋友》Make Time|Jake Knapp, John Zeratsky|杰克·纳普，约翰·泽拉特斯基
+15. 《人类简史》Sapiens: A Brief History of Humankind|Yuval Noah Harari|尤瓦尔·赫拉利
+16. 《关键对话》Crucial Conversations|Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler|凯瑞·帕特森、约瑟夫·格雷尼、罗恩·麦克米兰、艾尔·斯威兹勒
+17. 《深度工作》Deep Work|Cal Newport|卡尔·纽波特
+18. 《非暴力沟通》Nonviolent Communication|Marshall Rosenberg|马歇尔·卢森堡
+19. 《把时间当作朋友》Getting Things Done|David Allen|戴维·艾伦
+20. 《精益创业》The Lean Startup|Eric Ries|艾瑞克·里斯
+21. 《激荡三十年》China's Economic Reform and Opening-up|Yao Yudong|姚余栋
+22. 《思考快与慢》The Organized Mind: Thinking Straight in the Age of Information Overload|Daniel Levitin|丹尼尔·莱维汀
+23. 《新生》The New Human Revolution|Daisaku Ikeda|池田大作
+24. 《合伙人》The Partner|John Grisham|约翰·格里沙姆
+25. 《小王子》Le Petit Prince|Antoine de Saint-Exupéry|安东尼·德·圣-埃克苏佩里
+26. 《字谜》The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography|Simon Singh|西蒙·辛格
+27. 《时间简史》A Brief History of Time|Stephen Hawking|史蒂芬·霍金
+28. 《正念：从入门到拥有》Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World|Mark Williams, Danny Penman|马克·威廉姆斯，丹尼·佩曼
+29. 《可复制的领导力》The Reproducible Leader: Discover the Art and Science of Unleashing Leadership Potential|John Mitchell|约翰·米歇尔
+30. 《颠覆者思维》The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail|Clayton M. Christensen|克莱顿·克里斯滕森
+31. 《创造力爆发》Breaking Creative Block: Divergent Thinking Techniques for Recovering Creativity|Morten Bonde|莫尔滕·邦德
+32. 《人人都能谈判》Getting to Yes: Negotiating Agreement Without Giving In|Roger Fisher, William Ury|罗杰·费舍尔，威廉·尤里
+33. 《十亿消费者》The One Hour China Consumer Book: Five Short Stories That Explain the Brutal Fight for One Billion Consumers|Jeffrey Towson, Jonathan Woetzel|杰弗里·陶森，乔纳森·沃茨尔
+34. 《习惯的力量》The Power of Habit: Why We Do What We Do in Life and Business|Charles Duhigg|查尔斯·杜希格
+35. 《傲慢与偏见》Pride and Prejudice|Jane Austen|简·奥斯汀
+36. 《资本与固定产投资》Capital and Fixed Investment: Overview of Economic Concepts and Methods|Donald E. Fair|唐纳德·E·费尔
+37. 《超越智商》Emotional Intelligence: Why It Can Matter More Than IQ|Daniel Goleman|丹尼尔·戈尔曼
+38. 《艺术的故事》The Story of Art|E. H. Gombrich|欧内斯特·戈姆布里希
+39. 《魅力社交》The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism|Olivia Fox Cabane|奥利维亚·福克斯·卡班
+40. 《感性思考》A Whole New Mind: Why Right-Brainers Will Rule the Future|Daniel H. Pink|丹尼尔·H·平克
+41. 《安娜·卡列尼娜》Anna Karenina|Leo Tolstoy|列夫·托尔斯泰
+42. 《谢谢你上瘾》Thank You for Being Late: An Optimist's Guide to Thriving in the Age of Accelerations|Thomas L. Friedman|托马斯·L·弗里德曼
+43. 《自私的基因》The Selfish Gene|Richard Dawkins|理查德·道金斯
+44. 《商业的本质》The Essence of Business|Ludwig M. Lachmann|路德维希·M·拉赫曼
+45. 《五大民族的秘密》The Secret of the Five Nationa|Han Lin|韩临
+46. 《灵感的爆发》The Accidental Creative: How to Be Brilliant at a Moment's Notice|Todd Henry|托德·亨利
+47. 《大秦帝国》The Great Qin Empire|Liu Bangming|刘邦明
+48. 《难以置信的观点》The Art of Possibility: Transforming Professional and Personal Life|Rosamund Stone Zander, Benjamin Zander|罗萨蒙德·S·赞德，本杰明·赞德
+49. 《企业家精神》Entrepreneurship: Successfully Launching New Ventures|Bruce R. Barringer, R. Duane Ireland|布鲁斯·R·巴林格，R·杜恩·爱尔兰
+50. 《我们的教育你务必明白》You Must Understand Our Education|Zhaoming Zheng|郑兆明

@@ -1,0 +1,50 @@
+1. 《思考，快与慢》| Thinking, Fast and Slow | 丹尼尔•卡尼曼
+2. 《基本形式的陷阱》| The Trap of Basics Patterns | 冯仑
+3. 《内向的优势》| Quiet: The Power of Introverts in a World That Can't Stop Talking | 苏珊•凯恩
+4. 《时间简史》| A Brief History of Time | 史蒂芬•霍金
+5. 《乌合之众》| The Crowd: A Study of the Popular Mind | 古斯塔夫•勒庞
+6. 《存在主义心理治疗》| Existential Psychotherapy | 赖昀泽
+7. 《这就是二十世纪》| Modern Times: A History of the World from the 1920s to the 1980s | 保罗•约翰逊
+8. 《全球性思维：跨文化合作与全球竞争时代》| Global Mindset: Collaborate Across Borders and Succeed in a Globalized World | 普伦提斯•哈尔达茨
+9. 《演化的威胁》| The Selfish Gene | 理查德•道金斯
+10. 《情景变量口袋书》| Situationism 常好| 方可成、吕永文
+11. 《沉默的大多数》| The Silent Majority: Suburban Politics in the Sunbelt South | 阿尔文•G•格林伍德
+12. 《无声的爆炸》| The Quiet Explosion: The Communication Challenge of Corporate America | 米尔顿•H•K•福格尔曼
+13. 《拆掉思维里的墙》| Out of Our Minds: Learning to be Creative | 肯•罗宾逊
+14. 《智者千虑必有一失理论》| The Wisdom of Crowds | 詹姆斯•苏里基
+15. 《神经科学和修行的对话》| The Neuroscience of Mindfulness Meditation: How the Body and Mind Work Together to Change Our Behavior | 赵庆祥 
+16. 《圣经中的历史》| The Bible: A History | 约翰•巴顿
+17. 《爱的艺术》| The Art of Loving | 基兰•弗罗姆
+18. 《领导之力》| The Power of Leadership | 彼得•舒尔茨
+19. 《理性的乐趣》| The Pleasure of Finding Things Out | 理查德•费曼
+20. 《创造力课》| Creative Confidence: Unleashing the Creative Potential Within Us All | 大卫•凯利、汤姆•凯利
+21. 《掉进兔子洞的经济学人》| The Undercover Economist | 蒂莫西•哈雷
+22. 《黑客与画家》| Hackers & Painters: Big Ideas from the Computer Age | 保罗•格雷厄姆
+23. 《平衡的心理学》| Positive Psychology: The Science of Happiness and Flourishing | 莫蒂默•辛格
+24. 《只要学会一种：人性的起源》| Sapiens: A Brief History of Humankind | 尤瓦尔•赫拉利
+25. 《领导力的一百个经典》| The 100 Greatest Leadership Principles of All Time | Leslie Pocks
+26. 《优势》| StrengthsFinder 2.0 | 汤姆•拉特恩
+27. 《禅与摩托车维修艺术》| Zen and the Art of Motorcycle Maintenance: An Inquiry into Values | 罗伯特•M•皮尔西格
+28. 《人生的智慧》| The Wisdom of Life | 亚瑟•叔本华
+29. 《乌合之众：大众心理研究》| The Crowd: A Study of the Popular Mind | 古斯塔夫•勒庞
+30. 《给生命树浇水》| The Garden of Life: An Introduction to the Healing Plants of India | 大卫•弗德曼
+31. 《红树林》| Mangroves and Salt Marshes | 海伦•T•英格玛恩
+32. 《谁把我们的橡树砍了？》| Who Killed Our Son-Ra Treaty?: The Story Of A Perfect Political Crime | 莫里斯•拉堪
+33. 《窥见未来：技术变革如何改变我们的生活》| The Future of Technology: How to Predict and Shape the Next 50 Years | IFTF
+34. 《数字营销之光》| Digital Marketing: Strategies for Online Success | 尼克·斯洛特
+35. 《如何高效学习》| Make It Stick: The Science of Successful Learning | 彼得•布朗
+36. 《还未完成的奇迹》| The Miracle Club: How Thoughts Become Reality | 米切尔•加希
+37. 《社会：不平等的根源和演进》| Society: The Roots and Evolution of Inequality | 章开沅 
+38. 《有知识的未来》| The Learning Revolution | 格登•詹姆斯
+39. 《快乐学习》| The Happy Student: 5 Steps to Academic Fulfillment and Success | 丹尼尔•格林伯格
+40. 《改变大脑，改变人生》| The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science | 迈克尔•梅泰斯
+41. 《大学和伟大的社会》| The University and the Great Society: An Interdisciplinary Approach to Social Welfare | J•E•S•达克沃思
+42. 《黑客：未来密码》| The Next Big Thing: The Future of Passwords and Identity | 马特•怀特
+43. 《成为自主，不自闭》| Becoming Self-Directed: Creating Learning Experiences for Success in Life | 程建雄
+44. 《社会心理学》| Social Psychology | 大卫•迈尔斯
+45. 《巨婴国：让孩子健康成长，让生命更加美好》| The Precious Child: How to Build the Foundation for a Happier Life | 雷恩•费雷斯特恩
+46. 《刻意练习：达到能力极限的秘密》| Peak: Secrets from the New Science of Expertise | 安德斯•艾力克森
+47. 《企业文化的艺术》| The Art of Corporate Culture: How to Build a Culture That Sustains and Drives Results | 罗迪•坎德斯
+48. 《自由：另一种思维方式》| Free: Another Way of Thinking | Sheldon Robins
+49. 《演说的艺术》| The Art of Public Speaking | 史蒂芬•卢卡斯
+50. 《向日葵》| The Sunflower: On the Possibilities and Limits of Forgiveness | Simon Wiesenthal

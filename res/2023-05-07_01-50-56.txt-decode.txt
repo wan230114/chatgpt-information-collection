@@ -1,0 +1,50 @@
+1.《匹兹堡马拉松》|The Pittsburgh Marathon|Andy Sheppard
+2.《超越智商: 认识你的智力类型，拓展你的工作、思维和人际关系能力》|Beyond IQ: Scientific Tools for Training Problem Solving, Intuition, Emotional Intelligence, Creativity, and More|Eugene Sadler-Smith 
+3.《良心经济学：有效做事不悖道义》|Conscious Capitalism: Liberating the Heroic Spirit of Business|John Mackey 
+4.《思考的艺术与科学》|The Art and Science of Thinking|Diana Vaccaro 
+5.《沉默的大多数：为什么我们需要原则、技巧与实践来应对压力、疾病和困难》|The Silent Majority: Why We Need Hard Principles, Skill, and Practice to Succeed in Life|Marcus Buckingham 
+6.《未来工作机会》|The Future of Work: Attract New Talent, Build Better Leaders, and Create a Competitive Organization|Jacob Morgan 
+7.《非暴力沟通》|Nonviolent Communication: A Language of Life|Marshall B. Rosenberg 
+8.《格局：看呆出色人生》|Outliers: The Story of Success|Malcolm Gladwell 
+9.《创意的迭代：从想法到策略》|The Creative Iteration: From Idea to Strategy|Brian Bloom 
+10.《精益创业》|The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses|Eric Ries 
+11.《管理学的设计思维》|Design Thinking for the New Management Paradigm|Kimbell, Lucy 
+12.《原则》|Principles: Life and Work|Ray Dalio 
+13.《聚焦》|Focus: The Hidden Driver of Excellence|Daniel Goleman 
+14.《行动策略：个人变革、治理和持续发展》|Action Strategies for Personal Development, Governance and Sustainable Development|Oby Ezekwesili 
+15.《如何学习》|Make it Stick: The Science of Successful Learning|Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel 
+16.《跨越标准的领导力：缔造卓越组织的思维方式》|Leadership Beyond Measure: Creating Sustainable Organizations by Changing the Way We Think and Work Together|Margaret Wheatley 
+17.《领导力之澕：建立超群团队，引领高效管理》|Team of Teams: New Rules of Engagement for a Complex World|Stanley McChrystal 
+18.《谁推动了改变：用力量和领导将改变带入我们的人生和工作》|Who Moved My Cheese?: An Amazing Way to Deal with Change in Your Work and in Your Life|Spencer Johnson 
+19.《主动轮廓：卓越领导力核心》|The Shape of Leadership: Core Leadership Concepts for a Complex World|Mehrdad Baghai 
+20.《讲故事的力量》|The Art of Possibility|Rosamund Stone Zander, Benjamin Zander 
+21.《沟通，未来的艺术与科学》|The Future of Communication: A New Paradigm for Organizational Communication|Brody, Elliot 
+22.《创造性破坏：如何创业、创新、改变世界》|Creative Destruction: How to Start an Economic Renaissance|Edward Conard 
+23.《安全感》|The Power of Vulnerability: Teachings on Authenticity, Connection and Courage|Brené Brown 
+24.《解放潜能：用系统思考来追求成功》|The Fifth Discipline: The Art and Practice of the Learning Organization|Peter M. Senge 
+25.《像管理家一样思考：成功企业家和经理的思维方式》|Thinking Like a Manager: Success Strategies for Entrepreneurs and Managers|Ravi Tangri 
+26.《关键对话：如何安排问答，让您的想法深入人心》|Difficult Conversations: How to Discuss What Matters Most|Douglas Stone, Bruce Patton
+27.《代际連結：打破时代背景的影响，搭起不同世代之间的沟通桥梁》|Intergenerational Linkage: Bridging the Diverse Generational Perspectives and Influences|Tsui, Ming Sum Kwan 
+28.《职场心理学：掌握攀升人生的五个阶段》|The Psychology of Work: Mastering the Five Stages of Career Success|Alan M. Rugman 
+29.《破晓：如何建立、运营和成长成功的企业》|The Lean Entrepreneur: How to Build a Successful Business Using the Power of Continuous Innovation|Brant Cooper 
+30.《管理革命：企业管理学的新时代》|The Management Revolution|Richard S. Tedlow 
+31.《实现：运用战略与执行提升组织绩效》|Execution: The Discipline of Getting Things Done|Larry Bossidy, Ram Charan, Charles Burck 
+32.《人生整容术：重塑个人形象，让自己更完美》|Life Lift: Transform Your Looks and Your Life from the Inside Out|Pamela Peeke 
+33.《超越退休年龄：重新定义社会责任，建立更好的未来》|Getting to Retirement: Building a Better Future for Yourself and the World|Kenneth S. Shultz 
+34.《反转思维：超越“正常”，成为颠覆性思考的人》|Upside Down Thinking: Turning Your Mind Outside In|Mark Strom 
+35.《浪漫的幸福法》|The Art of Loving|Erich Fromm 
+36.《刻意练习：如何追求卓越？》|Peak: Secrets from the New Science of Expertise|Anders Ericsson, Robert Pool 
+37.《联结性领导》|Connected Leadership: Leading in an Age of Disruption|Emmanuel Gobillot 
+38.《正确的解决问题方法：用科学方法升级思维》|What’s Your Problem?: To Solve Your Toughest Problems, Change the Problems You Solve|Thomas Wedell-Wedellsborg 
+39.《艾波菲尔的辉煌》|Eiffel's Tower and the World's Fair|Jill Jonnes 
+40.《领导差异：领导力开发与人格塑造的科学方法》|Leadership and Personality: The Science of Developing Personality-Based Leader Effectiveness|Revelle, William 
+41.《你活出了谁：用人生故事书写自我认同》|Who You Are: How to Use What You Have to Get What You Want|Megan Dalla-Camina 
+42.《智慧与意志：塑造你的人生》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|Kelly McGonigal 
+43.《压力与决策》|Stress and Decision Making|Kevin Ochsner 
+44.《心流》|Flow: The Psychology of Optimal Experience|Mihaly Csikszentmihalyi 
+45.《挑战主权国家：国际秩序在合作中建立》|Challenging Sovereignty: International Law and the Past and Present of Nonviolent Conflict|Stephen M. Kohn 
+46. 《现代组织理论》|Modern Organizational Theory|McKenna, Eugene 
+47.《思维，快而慢》|Thinking, Fast and Slow|Daniel Kahneman 
+48.《勇气：改变害怕的暴力与忍让的沉默》|Courage to Stand: A Call for the Endurance of the Persecuted Church|Philip Berlin 
+49.《团队绩效》|Team Performance: Understanding the Fundamentals and Creating an Effective Team|Shawn Kent Hayashi 
+50.《探索创造性：如何唤醒创意、梦想、想象、创业欲望》|Exploring Creativity: Evaluative Practices in Innovation, Design, and the Arts|Richard J. Baskerville, Lars Gyrup Brink-Jensen, Jan Pries-Heje

@@ -1,0 +1,50 @@
+1. 《思考，快与慢》| Thinking, Fast and Slow | 赫伯特·西蒙
+2. 《解忧杂货店》| The Convenience Store of Solace | 东野圭吾
+3. 《局外人》| The Stranger | 阿尔贝·加缪
+4. 《超越感性的哲学》| Philosophy Beyond Feeling | 迈克尔·特·乌尔夫
+5. 《为什么你该靠右》| The Power of Right: How to Use the Right Side of Your Brain to Unleash Your Creativity and Transform Your Life | 兼泽伦次
+6. 《极简主义》| Minimalism: Live a Meaningful Life | 瑞安·尼科德姆斯
+7. 《关于爱情、人生和看似无关紧要的事情》| About Love and Other Stories | 罗伯特·克劳利
+8. 《人工智能简史》| A Brief History of Artificial Intelligence | 戈德布拉特
+9. 《按摩与人类的深层关系》| Massage and the Deep Relationship of Human Beings | 成田星
+10.《精神分析导论》| An Introduction to Psychoanalysis | 富洛伊德
+11.《仪式与秩序：文明的源泉》| The Roots of Civilization | 卡洛斯·卡斯塔内达
+12.《高效能人士的7个习惯》| The 7 Habits of Highly Effective People | 史蒂芬·柯维
+13.《12种思维误区》| 12 Brain Rules | 约翰·梅迪纳
+14.《逃离杜鹃岛》| The Cuckoo's Calling | J·K·罗琳（笔名罗伯特·加尔布雷思）
+15.《把时间当做朋友》| Time Management for Success | T. J. Hoisington
+16.《乌合之众》| The Crowd: A Study of the Popular Mind | 古斯塔夫·勒庞
+17.《不再拖延》| The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play | 尼尔·菲奥里
+18.《当我谈跑步时我谈些什么》| What I Talk About When I Talk About Running | 村上春树
+19.《儒家的智慧：如何做一个更好的人》| The Analects of Confucious | 孔子
+20.《伟大的盖茨比》| The Great Gatsby | 弗·斯科特·菲茨杰拉德
+21.《沉默的大多数》| The Silent Majority: Suburban Politics in the Sunbelt South | 马修·拉塞尔·沃尔什
+22.《感性生活》| The Art of Sensual Living | 奇尔·弗瑞德里希
+23.《帝国的自我毁灭》| The Self-Destruction of the Empire | 阿诺德·托恩比
+24.《怪胎与书呆子》| Freaks and Geeks: The Complete Scripts | Judd Apatow
+25.《焦虑与恐惧的自我控制》| Managing Anxiety and Fear | 迈克尔·加威
+26.《乡村的死与复生》| Death and Life of Great American Cities | 珍·雅各布斯
+27.《思维塔》| The Thinking Tower | 托马斯·J.丹尼森
+28.《斯普特尼克恐慌》| Sputnik Panic | 安德烈·菲舍尔
+29.《史记》| Records of the Grand Historian | 司马迁
+30.《有限与无限的游戏》| Finite and Infinite Games | 詹姆斯·卡史派
+31.《红楼梦》| Dream of the Red Chamber | 曹雪芹
+32.《语言与思维的迷关》| The Mystery of Language and Thought | 拉里·希望
+33.《世间的种种》| All That Is | 詹姆斯·萨尔斯
+34.《意外的哲学者》| The Surprising Philosopher | Jules Evans
+35.《失控》| Out of Control: The New Biology of Machines, Social Systems, and the Economic World | 凯文·凯利
+36.《道德奇迹》| The Moral Miracle | 詹姆斯·E.泰勒
+37.《生活艺术》| The Art of Living | 柏拉图
+38.《人性的弱点》| How to Win Friends and Influence People | 戴尔·卡耐基
+39.《卓有成效的管理者》| Effective Manager | 彼得·德鲁克
+40.《自我效能感》| Self-Efficacy: The Exercise of Control | 阿尔伯特·珍高夫
+41.《人间失格》| No Longer Human | 太宰治
+42.《永恒的乌托邦》| The Eternal Utopia | 吉恩·迪兹洛尔克
+43.《最好的告别》| The Best Goodbye | 罗兰·巴特
+44.《内心的机器》| The Inner Machine | Marshall McLuhan
+45.《众病之王》| The Emperor of All Maladies: A Biography of Cancer | 西迪·穆克吉
+46.《如何阅读一本书》| How to Read a Book | 莫提默·J.艾德勒
+47.《感觉与知觉》| Sensation and Perception | 爱德华·布鲁姆
+48.《人类简史》| Sapiens: A Brief History of Humankind | 尤瓦尔·赫拉利
+49.《毛姆短篇小说选》| The Collected Short Stories of W. Somerset Maugham | 沃·萨默塞特·毛姆
+50.《非暴力沟通》| Nonviolent Communication: A Language of Life | 马歇尔·卢森堡

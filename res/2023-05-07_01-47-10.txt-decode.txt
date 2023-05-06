@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《真实的谎言》|The Honest Truth About Dishonesty|丹·阿里
+3.《时间简史》|A Brief History of Time|史蒂芬·霍金
+4.《心流：享受自我流动的心境》|Flow: The Psychology of Optimal Experience|米哈里·契克森米哈伊
+5.《内向者优势》|Quiet: The Power of Introverts in a World That Can't Stop Talking|苏珊·凯恩
+6.《习惯的力量》|The Power of Habit|查尔斯·杜希格
+7.《时间的秩序》|The Order of Time|卡洛·罗韦利
+8.《哲学家们在谈论什么》|What Do Philosophers Talk About?|F.灵德利
+9.《新科技的滥用》|The Shallows: What the Internet is Doing to Our Brains|尼古拉斯·卡尔
+10.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+11.《暴露》|Exposure: From Snapshots to Great Shots|布萊恩·彼得森
+12.《自私的基因》|The Selfish Gene|理查德·道金斯
+13.《思考的艺术》|The Art of Thinking Clearly|罗尔夫·多贝利
+14.《女性的先天优势》|The Female Brain|路易丝·贝格·布赖登
+15.《未来简史》|Homo Deus: A Brief History of Tomorrow|尤瓦尔·赫拉利
+16.《基本方法》|Principles: Life and Work|雷·达利欧
+17.《强大的思维》|The Power of Intentional Thinking: Master Your Mindset, Achieve Your Goals|唐娜·思考
+18.《父母丛书：让你的孩子更聪明》|The New Science of Children's Minds: What Parents Need to Know|珍妮弗·谢富德
+19.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+20.《脑袋好转，一生受用》|Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School|约翰·梅迪纳
+21.《社会心理学》|Social Psychology|戴维·迈尔斯
+22.《改变心理学》|Changing Minds: The Art and Science of Changing Our Own and Other People's Minds|大卫·斯特拉瑟纳普
+23.《世界无神论之最》|The God Delusion|理查德·道金斯
+24.《洞见力：与平凡眼界告别，看见更多》|Insight: The Power of Self-Awareness in a Self-Deluded World|Tasha Eurich
+25.《乌鸦原理》|The Crowdfunding Revolution|凯文·霍尔
+26.《深度脑思维》|Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins|盖瑞·卡斯帕洛夫
+27.《科技如何改变人》|The Next Decade: Where We've Been . . . and Where We're Going|乔治·弗里德曼
+28.《有未来的人》|The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth|米歇尔·克鲁斯特
+29.《生命史》|Life's Greatest Secret: The Race to Crack the Genetic Code|马修·柏林汉
+30.《信仰的成因》|The God Part of the Brain: A Scientific Interpretation of Human Spirituality and God|马修·阿尔班波
+31.《精进：如何成为更好的自己》|Mastery: The Keys to Success and Long-Term Fulfillment|乔治·伦纳德
+32.《情绪勾结：理解身体、应对挑战，改变你过去，重塑你的未来》|The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma|Bessel van der Kolk
+33.《笑话的演进：比利时语言、文化与社会》|The Evolution of Humor: How Humans Came to Have a Sense of Humor|阿尔贝·達拉
+34.《资本家的罪孽》|The Capitalist's Dilemma|克雷顿·克里斯蒂安森
+35.《戈登·拉姆齐的理财课》|The Total Money Makeover|戈登•拉姆齐
+36.《滞涨时期》|The Stagnation of Society|康拉德·博克
+37.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡内基
+38.《自控力》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯利·麦格尼格尔
+39.《整洁的力量》|The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing|玛丽·庞德
+40.《书呆子的复仇》|Revenge of the Introverts: Thriving in an Extroverted World|苏珊·凯恩
+41.《魅力心理学》|The Art of Charm: A Life-Changing Guide for Finding Success and Happiness|约翰尼·杰维尔和AJ Har丰臣。
+42.《未来50年：科技、战争与全球重新洗牌》|The Next 50 Years: Science, Warfare, and Global Change|乔治·弗里德曼
+43.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡内基
+44.《生命是什么》|What Is Life?: With Mind and Matter and Autobiographical Sketches|艾尔温·舒耐德寇丝塔
+45.《智能时代》|The Age of Intelligent Machines|雷·库兹韦尔
+46.《判断的艺术》|The Art of Judgment: A Study of Policy Making|加德纳·墨菲
+47.《静心的力量》|The Power of Stillness: Mindful Living for Busy People|詹姆斯・马特
+48.《理性（与群众同行）》|Irrationality: The Enemy Within|斯图尔特·萨瑟兰
+49.《发现内在自我：在你的心灵深处寻找自我》|Finding Inner Self: Exploring the Deep Inner Self in Your Mind|卢克·穆里克
+50.《科技愈发强大》，《科技变革（第二版）》，《后真相时代：纪实、谎言、政治力量和AI的崛起》等|Superintelligence, The Singularity is Near, The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power|尼克·博斯特罗姆等

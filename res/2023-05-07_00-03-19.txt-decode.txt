@@ -1,0 +1,50 @@
+1. 《黑天鹅：如何应对不可预见的未来》| The Black Swan: The Impact of the Highly Improbable| 塔勒布（Nassim Nicholas Taleb）
+2. 《认知偏差》| Thinking, Fast and Slow| 坎曼（Daniel Kahneman）
+3. 《失控》| Out of Control: The New Biology of Machines, Social Systems and the Economic World| 凯利（Kevin Kelly）
+4. 《开放的社会及其敌人》| The Open Society and Its Enemies | 波波尔（Karl Popper）
+5. 《反脆弱》| Antifragile: Things That Gain from Disorder| 塔勒布（Nassim Nicholas Taleb）
+6. 《人类简史：从动物到上帝》| Sapiens: A Brief History of Humankind| 哈拉利（Yuval Noah Harari）
+7. 《未来简史：从智人到智神》| Homo Deus: A Brief History of Tomorrow| 哈拉利（Yuval Noah Harari）
+8. 《全球通史：从史前史到21世纪》| A Global History: From Prehistory to the 21st Century | 摩根桑德斯（L. S. Stavrianos）
+9. 《谢幕》| The End of Power | 莫斯科维奇（Moisés Naím）
+10. 《超预测》| Superforecasting: The Art and Science of Prediction | 泰特（Philip E. Tetlock）& 格德斯（Dan Gardner）
+11. 《粗糙之道：简单却不简单》| The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | 埃里克·里思（Eric Ries）
+12. 《系统之美》| The Beauty of System: Thinking of System Design | 朱利安·汤普森（Julian Thompson）
+13. 《自控力》| The Power of Habit: Why We Do What We Do in Life and Business| 杜哈赫（Charles Duhigg）
+14. 《当下的奇迹》| The Miracle of Mindfulness: An Introduction to the Practice of Meditation | 志空法师（Thich Nhat Hanh）
+15. 《非暴力沟通》| Nonviolent Communication: A Language of Life | 罗森堡（Marshall B. Rosenberg）
+16. 《高效能人士的七个习惯》| The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change| 山蒂（Stephen R. Covey）
+17. 《金钱永不眠》| Money Never Sleeps: How to Manage Your Investments Wisely and Keep Your Emotions from Getting in the Way | 阮一峰
+18. 《一切皆有可习》| Mindset:The New Psychology of Success | 杜威克（Carol S. Dweck）
+19. 《灵活思维》| Agile Thinking: Ideas You Can Use Anywhere | 丹尼埃尔（Harriet Diamond）& 艾弗森（Linda Eve Diamond）
+20. 《原则》| Principles: Life and Work | 达里奥（Ray Dalio）
+21. 《社会契约论》| The Social Contract | 卢梭（Jean-Jacques Rousseau）
+22. 《怎样有效沟通》| How to Talk So Kids Will Listen & Listen So Kids Will Talk | 波兰（Adele Faber）& 马杰讷（Elaine Mazlish）
+23. 《乌合之众》| The Crowd: A Study of the Popular Mind | 勒庞（Gustave Le Bon）
+24. 《管理的六项基本原理》| The Practice of Management | 德鲁克（Peter F. Drucker）
+25. 《出类拔萃：全球顶尖执行者的秘密》| Outliers: The Story of Success | 格拉德威尔（Malcolm Gladwell）
+26. 《沟通的艺术》| The Art of Communicating | 布福尔夫（Thich Nhat Hanh）
+27. 《发现深度：走近冥想与创作的秘密》| The Art of Possibility | 罗森（Rosamund Stone Zander）和本杰明·泽尔曼（Benjamin Zander）
+28. 《短期交易长期思维》| Short-Term Trading, Long-Term Thinking | 达里奥（Ray Dalio）
+29. 《社会学的想象力》| The Sociological Imagination | 米尔斯（C. Wright Mills）
+30. 《扁平化管理》| Flat Army: Creating a Connected and Engaged Organization | 莫尔（Dan Pontefract）
+31. 《变革的力量》| The Power of Intention: Learning to Co-create Your World Your Way | 华迪（Dr. Wayne W. Dyer）
+32. 《创新方法》| Creative Method: A Guide to Innovation in the Classroom | 希思曼（Phyllis L. Carr）
+33. 《心理学与生活》| Psychology and Life | 格里格（Richard J. Gerrig）& 洛克曼（Philip G. Zimbardo）
+34. 《哲学的入门》| A Little History of Philosophy | 伍德（Nigel Warburton）
+35. 《向上生长》| Upstream: The Quest to Solve Problems Before They Happen | 黄希鹏
+36. 《时间简史》| A Brief History of Time | 史蒂芬·霍金（Stephen W. Hawking）
+37. 《精益思维》| Lean Thinking: Banish Waste and Create Wealth in Your Corporation | 瓦马克（James P. Womack）&琼斯（Daniel T. Jones）
+38. 《谷歌之道》| How Google Works | 施密特（Eric Schmidt）& 罗森伯格（Jonathan Rosenberg）
+39. 《格局：如何成为一个高效率的社会活动家》| Rules for Radicals: A Practical Primer for Realistic Radicals | 阿拉普·戴尔（Saul Alinsky）
+40. 《穷查理宝典》| Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger | 帕伯提（Peter D. Kaufman）
+41. 《物以类聚：群体与社会的起源》| The Origins of Virtue: Human Instincts and the Evolution of Cooperation | 布洛姆（Matt Ridley）
+42. 《人性的弱点》| How to Win Friends and Influence People | 卡耐基（Dale Carnegie）
+43. 《关键决策》| The Art of Possibility | 罗森（Rosamund Stone Zander）和本杰明·泽尔曼（Benjamin Zander）
+44. 《卓有成效的管理者》| The Effective Executive | 德鲁克（Peter F. Drucker）
+45. 《人性的优点》| How to Win Friends and Influence People | 卡耐基（Dale Carnegie）
+46. 《人性的缺点》| How to Stop Worrying and Start Living | 卡耐基（Dale Carnegie）
+47. 《生物本能》| The Selfish Gene | 孙道临（Richard Dawkins）
+48. 《认知心理学》| Cognitive Psychology | 斯特恩伯格（Michael W. Eysenck）& 厄门（Mark T. Keane）
+49. 《黄金法则》| The Golden Rule | 张维为
+50. 《马基雅维利的统治艺术》| The Prince | 马基雅维利（Niccolò Machiavelli）

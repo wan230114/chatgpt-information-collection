@@ -1,0 +1,50 @@
+1. 《心流》| Flow: The Psychology of Optimal Experience | 米哈里·契克森米哈伊
+2. 《认知心理学》| Cognitive Psychology | Robert J. Sternberg 
+3. 《反脆弱》| Antifragile: Things That Gain from Disorder | 纳西姆·尼古拉斯·塔勒伯
+4. 《影响力》| Influence: The Psychology of Persuasion | 罗伯特·B·西奥迪尼
+5. 《深度思维》| Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins | 加里·卡斯帕罗夫
+6. 《金字塔原理》| The Pyramid Principle: Logic in Writing and Thinking | 巴芙雅·明托
+7. 《认知天性》| The Stuff of Thought: Language as a Window into Human Nature | 史蒂芬·平克
+8. 《永恒的九分钟》| The Eternal Nine Minutes | 郑仁基
+9. 《语言、认知、文化的融合》| The Embodied Mind: Cognitive Science and Human Experience | 弗朗西思·佩林斯
+10. 《心智模仿》| Mind Design II: Philosophy, Psychology, Artificial Intelligence | 约翰·霍克
+11. 《好好说话》| Crucial Conversations: Tools for Talking When Stakes Are High | 柯莉·普特南 
+12. 《学会提问》| A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas | 瓦伦·伯格尔 
+13. 《习得性无助》| Learned Helplessness: A Theory for the Age of Personal Control | 约翰·亚当斯 
+14. 《思考的艺术》| The Art of Thinking Clearly | 朱利安·赛邦 
+15. 《行为变革》| Switch: How to Change Things When Change Is Hard | 丹·希思和奥姆·希思 
+16. 《光荣与梦想》| Grit: The Power of Passion and Perseverance | 安吉拉·李 
+17. 《关键思维》| Critical Thinking: An Introduction | Alec Fisher 
+18. 《生命之书》| The Book of Life | 朱迪斯·奈特 
+19. 《心理学与生活》| Psychology and Life | 理查德·格里格 
+20. 《工作大脑》| Your Brain at Work | 大卫·洛克 
+21. 《学会提问》| Asking the Right Questions: A Guide to Critical Thinking | 米罗夫·贾瓦吉 
+22. 《概率思维》| The Black Swan: The Impact of the Highly Improbable | 纳西姆·尼古拉斯·塔勒伯 
+23. 《行为心理学》| Behavior Modification: Principles and Procedures | 罗伯特·J·托拉斯 
+24. 《道德情感》| The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology | 罗伯特·莱特勒 
+25. 《情商》| Emotional Intelligence: Why It Can Matter More Than IQ | 丹尼尔·戈尔曼 
+26. 《100万个为什么》| A Million Whys | 李宁 
+27. 《爱与意识》| Love and Will | Rollo May 
+28. 《大脑解密》| The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human | V·S·拉马奇南 
+29. 《真相》| Truth: A Guide | 西蒙·布莱克本 
+30. 《空气的阅读》| Reading the Air | 村上春树 
+31. 《弱势群体的权利》| The Rights of the Defenseless: Protecting Animals and Children in Gilded Age America | 苏珊·J·皮尔斯 
+32. 《经济学的奥妙》| The Economics of Innocent Fraud: Truth For Our Time | 约翰·肯尼思·加尔布雷思 
+33. 《面对危机》| Resilience: Facing Down Rejection and Criticism on the Road to Success | 托妮娅·李维斯 
+34. 《教育的目的》| The Purpose of Education | 马丁·路德·金 
+35. 《时空简史》| A Brief History of Time | 斯蒂芬·霍金 
+36. 《慢读》| How to Read a Book | 埃德蒙·伯克曼 
+37. 《认知治疗》| Cognitive Therapy of Personality Disorders | A.T. Beck、A.J. Rush、B.F. Shaw和G. Emery 
+38. 《情绪智商2.0》| Emotional Intelligence 2.0 | 特拉维斯·布拉德贝里和让·格雷夫斯 
+39. 《大脑规划》| Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School | 约翰·梅迪纳 
+40. 《结构化思维》| Thinking, Fast and Slow | 丹尼尔·卡尼曼 
+41. 《时间的秩序》| The Order of Time | 卡洛·罗韦利 
+42. 《一切都是谎言》| Everything Is a Lie | 邦妮•利哈曼
+43. 《活生生的人》| The Naked Ape: A Zoologist's Study of the Human Animal | 戈尔迪·梅德 
+44. 《大脑的阅读》| The Reading Brain: The Science of a Human Obsession | 玛丽安·沙隆 
+45. 《夜行动植物》| The Botany of Desire: A Plant's-Eye View of the World | 迈克尔·波伦 
+46. 《语言学的细节》| The Unfolding of Language: An Evolutionary Tour of Mankind's Greatest Invention | 盖伊·默兹 
+47. 《未知的未知》| The Structure of Scientific Revolutions | 托马斯·库恩 
+48. 《时间的形状》| The Shape of Time: Remarks on the History of Things | 埃瑞克·霍夫姆 
+49. 《重商主义与自由主义的历史比较》| The European Miracle: Environments, Economies and Geopolitics in the History of Europe and Asia | 威廉·霍尔特鲁泽 
+50. 《意识与大脑》| Consciousness Explained | 丹尼尔·丹尼特

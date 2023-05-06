@@ -1,0 +1,50 @@
+1. 《心流》 Flow，米哈里·契克森米哈伊 Csikszentmihalyi
+2. 《人类简史》 Sapiens: A Brief History of Humankind，尤瓦尔·赫拉利 Yuval Noah Harari
+3. 《认知偏见》 Thinking, Fast and Slow，丹尼尔·卡尼曼 Daniel Kahneman
+4. 《社会动物》 Social Animal，大卫·布鲁桥特 David Brooks
+5. 《原生家庭》 The Origin of Consciousness in the Breakdown of the Bicameral Mind，朱利安·杰伊·杰伊尼斯 Julian Jaynes
+6. 《解忧杂货店》 Convenience Store Woman，村田沙耶香 Sayaka Murata
+7. 《穆斯林的困境》 Islam and the Future of Tolerance，山姆·哈里斯 Sam Harris
+8. 《沉默的大多数》 The Silent Majority: Suburban Politics in the Sunbelt South，马修·拉塞纳 Matthew Lassiter
+9. 《走进独居者的生命》 The Lonely City: Adventures in the Art of Being Alone，奥利维亚·劳德 Olivia Laing
+10. 《获得自由》 Freedom: The Art of Incarceration，琳恩·诺特格林 Lynn Novick
+11. 《黑箱思维》 The Black Box Thinking: The Surprising Truth About Success，马修·赛德曼 Matthew Syed
+12. 《说服》 Influence: The Psychology of Persuasion，罗伯特·西奥迪尼 Robert Cialdini
+13. 《关键对话》 Crucial Conversations: Tools for Talking When Stakes Are High，凯瑟琳·帕特森等 Kathryn Patterson
+14. 《有情绪的生物》 How Emotions Are Made: The Secret Life of the Brain，莉萨·费尔曼 Lisa Feldman Barrett
+15. 《巨人的工具箱》 Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers，蒂莫西·费里 Timothy Ferriss
+16. 《爱的本质》 The Art of Loving，欧弗雷德·阿德勒 Erich Fromm
+17. 《力量之源》 The Power of Now: A Guide to Spiritual Enlightenment，埃克哈特·托勒 Eckhart Tolle
+18. 《容忍不了的世界》 A World Without Us，阿兰·韦斯曼 Alan Weisman
+19. 《让人心碎的事》 The Things They Carried，蒂姆·奥布莱恩 Tim O'Brien
+20. 《人性的弱点》 How to Win Friends and Influence People，戴尔·卡耐基 Dale Carnegie
+21. 《恐惧与厌恶》 Fear and Loathing in Las Vegas，亨特·汤普森 Hunter S. Thompson
+22. 《行动的艺术》 The Art of Possibility: Transforming Professional and Personal Life，罗塔·齐夫和本杰明·齐夫 Rosamund Stone Zander 和 Benjamin Zander
+23. 《家塑》 The Architecture of Happiness，阿兰·德波顿 Alain de Botton
+24. 《漫长的告别》 The Long Goodbye，雷蒙德·钱德勒 Raymond Chandler
+25. 《你的错误，我的责任》 The Anatomy of Peace: Resolving the Heart of Conflict，阿伦·凯尔 Allen Kells
+26. 《石黑一雄的历史世界》 Timelines，石黑一雄 Kazuo Ishiguro
+27. 《动物的灵魂》 Beyond Words: What Animals Think and Feel，卡尔·萨福里 Carl Safina
+28. 《小岛经济学》 The Island of Knowledge: The Limits of Science and the Search for Meaning，马里奥·里维拉 Mario Livio
+29. 《弥漫式思维》 The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail，克雷顿·克里斯滕森 Clayton Christensen
+30. 《桥上的人》 The Bridge of San Luis Rey，索尔·贝罗 Salerio
+31. 《神经》 Neurotribes: The Legacy of Autism and the Future of Neurodiversity，史蒂夫·席尔伯斯 Steve Silberman
+32. 《马戏团的奇怪旅行》 The Night Circus，艾伦·莫根斯特恩 Erin Morgenstern
+33. 《其他人的欲望》 What Belongs to You，加思·格林格 Guton Greenwell
+34. 《麦田里的守望者》 The Catcher in the Rye，杰罗姆·大卫·塞林格 J.D. Salinger
+35. 《仅仅是一场游戏》 Just One Game，S.T. Gamblin
+36. 《人性中的本质》 The Blank Slate: The Modern Denial of Human Nature，史蒂文·平克 Steven Pinker
+37. 《我们的朝代》 Our Kind，马尔科姆·格拉德威尔 Malcolm Gladwell
+38. 《为什么人会上瘾》 Why We Get Addicted: Brainchemistry and the Addictive Personality，卡尔·哈特 Karl Hart
+39. 《错误的自由》 False Freedom: Does the American Idea Threaten Our Future?，大卫·霍维茨 David Horowitz
+40. 《天没黑》 All Shall Be Well; And All Shall Be Well; And All Manner of Things Shall Be Well，托德·霍尔伦 Tom Holert
+41. 《故事》 The Story Factor: Inspiration, Influence, and Persuasion through the Art of Storytelling，安尼特·西蒙斯 Annette Simmons
+42. 《心理学与生活》 Psychology and Life，理查德·格里格 Richard Gerrig
+43. 《乔纳森·利文斯顿海中漂流记》 Jonathan Livingston Seagull，理查德·巴赞 Richard Bach
+44. 《数据化思维》 Data Smart: Using Data Science to Transform Information into Insight，约翰·弗雷泽 John W. Foreman
+45. 《谎言的艺术》 The Art of Deception: An Introduction to Critical Thinking，尼古拉斯·卡普斯克里 Nicolas Capaldi
+46. 《神秘的生命：黑暗物质》 The Mysteries of Life: Dark Matter，法伦·安德森 Farren Anderson
+47. 《回归自然》 Into the Wild，乔恩·克拉克·凯鲁亚 Jon Krakauer
+48. 《无人深空》 No Man's Land，西蒙·温克曼 Simon Winchester
+49. 《西蒙·西奥迪尼的影响力》 The Art of Seduction，罗伯特·格林 Robert Greene
+50. 《创造优势》 Competitive Advantage，迈克尔·波特 Michael Porter

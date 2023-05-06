@@ -1,0 +1,50 @@
+1. 《时间简史》|A Brief History of Time|史蒂芬·霍金
+2. 《极简宇宙史》|Astrophysics for People in a Hurry|尼尔·德格拉斯·泰森
+3. 《认知心理学》|Cognitive Psychology: Connecting Mind, Research, and Everyday Experience|E.布鲁斯·戴维
+4. 《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+5. 《刻意练习》|Peak: Secrets from the New Science of Expertise|安德斯·艾里克森
+6. 《深度思维》|Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特
+7. 《社会心理学》|Social Psychology|艾利特·阿隆森、艾伯特·巴德、威廉·科尼夫
+8. 《漫步人类思维》|The Art of Thinking Clearly|罗尔夫·多贝利
+9. 《时间的秩序》|The Order of Time|卡洛·罗韦利
+10. 《上帝掷骰子吗？量子物理史话》|The God Particle: If the Universe Is the Answer, What Is the Question?|莱昂·莱德曼
+11. 《谁的自由？》|Who Owns the Future?|贾伯斯·兰迪尔
+12. 《世界是平的》|The World Is Flat: A Brief History of the Twenty-first Century|托马斯·弗里德曼
+13. 《荒野之美》|Into the Wild|琼·克拉克
+14. 《魔鬼经济学》|Freakonomics: A Rogue Economist Explores the Hidden Side of Everything|斯蒂芬·杜伯纳
+15. 《荒岛余生》|Robinson Crusoe|丹尼尔·笛福
+16. 《笑面人》|The Joker|阿兰·摩尔
+17. 《肉身阅读》|The Body |Bill Bryson
+18. 《不可思议的残缺》|The Unthinkable: Who Survives When Disaster Strikes - and Why|阿曼达·里普利
+19. 《波士顿派的智慧》|The Boston Girl|Anita Diamant
+20. 《精益创业》|The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses|埃里克·里斯
+21. 《性格心理学》|Personality Psychology|兰斯·缪恩、杰夫·雷斯勒
+22. 《沟通的艺术》|The Art of Communicating|蒂奇·纳特·哈恩
+23. 《争吵的艺术》|The Art of Argument: An Introduction to the Informal Fallacies|艾勒里·艾恩斯、凯文·韦尔彻
+24. 《独裁者手册》|The Dictator's Handbook: Why Bad Behavior Is Almost Always Good Politics|布鲁斯·布恩斯、乔恩·穆尼斯
+25. 《清醒的独裁者》|The Benevolent Dictator: Empower Your Employees, Build Your Business, and Outwit the Competition|迈克尔·费尔曼、丹尼尔·拉珀特
+26. 《绝对值》|Absolute Value: What Really Influences Customers in the Age of (Nearly) Perfect Information|伊塔马尔·西蒙 & 基恩·霍夫曼
+27. 《灵魂的领导力》|Soulful Leadership: Becoming the Leader That People Want to Follow|加里小田切尔
+28. 《数学之美》|The Beauty of Numbers|贾斯汀·斯塔比
+29. 《萨伦定理》|The Pythagorean Theorem: A 4,000-Year History|艾伯特·弗拉明戈
+30. 《全球文明？》|Beyond Globalization: Making New Worlds in Media, Art, and Social Practices|阿美娜·雅斯明
+31. 《世界队长谈重要关系》|The Quotable Captain Jack Harkness: The Wit and Wisdom of Torchwood's Sassy American Export|John Barrowman
+32. 《高明的简单》|Simple Rules: How to Thrive in a Complex World|唐纳德·萨布拉米尼
+33. 《反脆弱》|Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布
+34. 《创造力之光》|The Light of Creativity|杰弗里·怀特
+35. 《爆裂：思维力的惊天爆炸》|The Spark: A Mother's Story of Nurturing Genius|克里斯汀娜·赫恩
+36. 《货币战争》|Currency Wars|詹姆斯·里克茨
+37. 《时间的秘密》|The Secret Power of Time: How Time Shapes Our Lives|麦克·马萨斯
+38. 《魅力的生命力》|The Vitality Imperative: How Connected Leaders and Their Teams Achieve More with Less Time, Money, and Stress|佩吉·诺勒特
+39. 《世界的面纱》|The Veil of the World|特德·海格
+40. 《幸福的起点：追索幸福的科学》|The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom|乔纳森·海德特
+41. 《财富的起源》|The Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics|埃里克·费尔南德斯
+42. 《团队之美》|The Art of Teaming: How to Make Teams Work|艾米·埃德蒙森
+43. 《复杂的兴趣》|The Book of Life|约翰·鲍尔斯
+44. 《会议之美》|Death by Meeting: A Leadership Fable...About Solving the Most Painful Problem in Business|帕特里克·莱尼奇
+45. 《奇闻异事》|Ripley's Believe It or Not! Strange Stories|Ripley's Believe It or Not!
+46. 《创造团队的创造力》|Innovation and Entrepreneurship: Practice and Principles|彼得·德鲁克
+47. 《设计的力量》|The Power of Design: A Force for Transforming Everything|拉尔夫·加帝斯
+48. 《设计的意义》|The Meaning of Design|罗萨·梅诺兹
+49. 《化繁为简》|Simplify Your Life: 100 Ways to Slow Down and Enjoy the Things That Really Matter|伊利克·麦克费尔森、迈克尔·安德莱森
+50. 《阿米特·史黛特》|Thinking Like a Brand: Marketers from Pepsi, Starbucks, and Apple Teach Us How to Think Differently About Our Brands|阿米特·史黛特

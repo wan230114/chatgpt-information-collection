@@ -1,0 +1,50 @@
+1. 《思考，快与慢》| Thinking, Fast and Slow | 卡尼曼（Daniel Kahneman）
+2. 《乌合之众》| The Crowd: A Study of the Popular Mind | 勒庞（Gustave Le Bon）
+3. 《统计学习方法》| Statistical Learning Methods | 李航（Hang Li）
+4. 《不确定性的时代》| The Age of Uncertainty | 吉尔斯·凯泽（John Kenneth Galbraith）
+5. 《万维钢：奇点临近》| The Singularity is Near | 雷·库兹韦尔（Ray Kurzweil）
+6. 《人类简史》| Sapiens: A Brief History of Humankind | 尤瓦尔·赫拉利（Yuval Noah Harari）
+7. 《极简欧洲史》| A Very Short History of Europe | 杰里米·布莱克（Jeremy Black）
+8. 《二十世纪的资本》| Capital in the Twenty-First Century | 托马斯·皮凯蒂（Thomas Piketty）
+9. 《创意思维的秘密》| The Secret of Creative Thinking | A.W. 瑟里登 (Anthony W. Thorpe)
+10. 《沉思录》| Meditations | 马可·奥勒留（Marcus Aurelius）
+11. 《脑力降维》| The Art of Thinking Clearly | 罗尔夫·多贝利（Rolf Dobelli）
+12. 《移动大师》| The Mobile Mind Shift | 米歇尔·伍尔夫（Ted Schadler）
+13. 《心智黑洞》| The Black Hole of the Mind | 约翰·拜恩斯（John David Baranes）
+14. 《运筹学》| Operations Research | W. 玛丽亚·弗里曼（W. Maria Freeman）
+15. 《幸福的勇气》| The Courage to Be Happy | 伊修·加尔达·胡森（Ichiro Kishimi，古贺史健）
+16. 《人类行为的神经科学》| The Neuroscience of Human Behavior | 索尔·詹姆斯·赛斯曼（Sol James Saxman）
+17. 《情绪勇气》| Emotional Courage | 彼得·比杜尼（Peter Bregman）
+18. 《日本社会的个人主义》| Japan's Individualism: A Cultural History | 小池武夫（Takeshi Kochi）
+19. 《反脆弱》| Antifragile: Things That Gain from Disorder | 纳西姆·尼古拉斯·塔勒布（Nassim Nicholas Taleb）
+20. 《打破思维定式》| Breaking the Habit of Being Yourself | 乔·迪斯本萨（ Joe Dispenza）
+21. 《系统思考》| Systems Thinking | 维廉姆斯（John H. Williams）
+22. 《情感万物》| The Emotional Brain | 雷蒙德·约翰·狄科莱拉（LeDoux, Joseph E.）
+23. 《资本论》| Capital: A Critique of Political Economy | 卡尔·马克思（Karl Marx）
+24. 《宇宙的创造与毁灭》| The Creation of the Universe and the Destruction of the World | 东野圭吾（Keigo Higashino）
+25. 《真实的恐惧》| The Real Fear | 武志红（Wu Zhihong）
+26. 《美国的奴隶制度》| Slavery in America | 葛底斯堡（William W. Freehling）
+27. 《发现自我》| Finding Your Own North Star | 玛莎·贝克（Martha Beck）
+28. 《创新者的窘境》| The Innovator's Dilemma | 克莱顿·克里斯滕森（Clayton M. Christensen）
+29. 《关于人的性质和原则》| An Essay Concerning Human Understanding | 约翰·洛克（John Locke）
+30. 《思维的乐趣》| The Pleasures of Reasoning | 约翰·韦勒斯（John Lachs）
+31. 《幸福的科学》| The Science of Happiness | 斯坦福大学（Stanford University）
+32. 《如何成为像极客一样思考的人》| How to Think Like a Geek | 马特里克斯（Scott Mattarocci）
+33. 《猫和她穿的红鞋子》| The Cat with the Red Shoes | 特塞拉（Teresa）
+34. 《自我的解放》| The Power of Your Subconscious Mind | 约瑟夫·墨菲（Joseph Murphy）
+35. 《交互式数据可视化》| Interactive Data Visualization | 艾米利·特纳（Emilie Turner）
+36. 《人类行为的正义之光》| The Light of Justice in Human Behavior | 乔恩·埃尔弗森（Jon Elster）
+37. 《人际交往》| Interpersonal Communication | 达尔·米勒（Dale Miller）
+38. 《糖果屋手记》| The Candymakers | 维德曼（Wendy Mass）
+39. 《万有引力的极限》| The Limits of Gravity | 张尧修（Y.-S. Zhang）
+40. 《人际传播》| The Handbook of Interpersonal Communication | 埃德文·戴曼（Edwin D. Doman）
+41. 《精确测量》| Precision Measurement | 约翰·B·泰勒（J. B. Taylor）
+42. 《心理学研究方法设计》| Research Methods in Psychology | 柯赛尔与贾柏斯（Coolidge and Jacobs）
+43. 《头脑的话语》| The Discourse of the Mind | 奥斯本·里等（Osborne Wiggins Wright）
+44. 《一九八四》| Nineteen Eighty-Four | 乔治·奥威尔（George Orwell）
+45. 《虚构的故事》| The Fiction of Narrative | 米勒曼（David Millerman）
+46. 《非理性的黄金》| The Irrational Gold | 帕普·索科洛夫（Pop Socolov）
+47. 《野性的异化》| The Alienation of the Wild | 邵谓（Shao Wei）
+48. 《学会提问》| Learning to Question | 许川琰（Xu Chuanyan）
+49. 《暗时间》| Dark Matter and the Dinosaurs | 丹尼尔·艾默森（Daniel Emerson）
+50. 《光顾的婚姻》| The Marriage of Convenience | 林美心（Meixin Lin）

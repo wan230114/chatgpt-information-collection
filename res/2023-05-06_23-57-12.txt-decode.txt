@@ -1,0 +1,50 @@
+1.《黑天鹅：如何应对不可预知的未来》| The Black Swan: The Impact of the Highly Improbable| 纳西姆·尼古拉斯·塔勒布
+2.《奇特的一生》| The Curious Incident of the Dog in the Night-time| 马克·海顿
+3.《穷查理宝典》| The Tao of Charlie Munger: A Compilation of Quotes from Berkshire Hathaway's Vice Chairman on Life, Business, and the Pursuit of Wealth| 乔·洛瑞亚
+4.《原则》| Principles| 雷·达里奥
+5.《美国陷阱：人口、财富和国家实力的危机》| The American Trap| 张维为，凯瑟琳·汇巴雷
+6.《论人类不平等的起源和基础》| On the Origin of Inequality: Reflections on the Distribution of Wealth and Power| 让-雅克·卢梭
+7.《极简宇宙史》| A Brief History of Time| 史蒂芬·霍金
+8.《分形思维》| Fractals: The Patterns of Chaos| 约翰·布劳克曼
+9.《证券分析》| Security Analysis| 本杰明·格雷厄姆，大卫·杜松
+10.《世界是平的》| The World Is Flat: A Brief History of the 21st Century| 托马斯·弗里德曼
+11.《预测的崩溃》| The Signal and the Noise: Why So Many Predictions Fail — but Some Don't| 内特·席尔弗
+12.《掌控：用科学式的思考方法解决复杂问题》| Thinking in Systems: A Primer| 丹尼尔·梅德罗斯
+13.《漫长的告别》| The Long Goodbye| 雷蒙德·钱德勒
+14.《论自然的国家》| The Natural State: In the Words of the Political Thinkers Who Inspire Us| 托马斯·霍布斯等
+15.《批判性思维》| The Art of Reasoning| 戴维·凯利
+16.《智慧之书：全球治理的艰难道路》| The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies, and Nations| 詹姆斯·苏罗威基
+17.《生物中的信息》| Information and the Internal Structure of Biology| 约翰·梅迪诺斯
+18.《万有引力》| The Laws of Gravity: A Novel| 玛格丽特·拉默
+19.《过度投资行业：华尔街不想让你知道的事实》| The Superinvestors of Graham-and-Doddsville| 沃伦·巴菲特
+20.《信仰的力量》| The Power of Faith| 约翰·加里曼
+21.《超越智商》| Emotional Intelligence: Why It Can Matter More Than IQ| 丹尼尔·戈尔曼
+22.《反脆弱：从不确定性中获益》| Antifragile: Things That Gain from Disorder| 纳西姆·尼古拉斯·塔勒布
+23.《工业社会的兴衰：人类历史的发展和丰富》| The Rise and Fall of Industrial Society| 协力齐加·米尔斯
+24.《生命是什么：生命科学的基本问题》| What Is Life?: With Mind and Matter and Autobiographical Sketches| 谢伊·阿莱格
+25.《论人类自由和公民权利》| On Liberty| 约翰·斯图尔特·密尔
+26.《工作原理：成功人士的思维方式》| The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change| 史蒂芬·柯维
+27.《量子意识：脑、思维和宇宙的宏伟计划》| The Quantum and the Lotus: A Journey to the Frontiers Where Science and Buddhism Meet| 马修·里卡，特鲁古·尼亚尔梅
+28.《怎样阅读一本书》| How to Read a Book| 莫提莫·爱德华·阿德勒
+29.《百年孤独》| One Hundred Years of Solitude| 加夫列尔·加西亚·马尔克斯
+30.《像数学家一样思考》| How to Think Like a Mathematician: A Companion to Undergraduate Mathematics| 丹尼尔·史密斯
+31.《无人知晓的希腊神话》| Mythos: The Greek Myths Retold| 斯蒂芬·弗雷
+32.《数据化思维》| Data Smart: Using Data Science to Transform Information into Insight| 约翰·弗德利克·韦卡
+33.《爱的艺术》| The Art of Loving| 埃里希·弗洛姆
+34.《模糊逻辑》| Fuzzy Logic Based Power-Efficient Real-Time Multi-Core System| 约翰·贝尔曼
+35.《影响力》| Influence: The Psychology of Persuasion| 罗伯特·西奥迪尼
+36.《艺术世界》| The Art World| 罗伯特·休斯
+37.《异类：不一样的成功启示录》| Outliers: The Story of Success| 马尔科姆·格拉德威尔
+38.《十亿消费者：中国市场见闻录》| One Billion Customers: Lessons from the Front Lines of Doing Business in China| 詹姆斯·麦格雷戈
+39.《社会契约论》| The Social Contract| 让-雅克·卢梭
+40.《治国理财》| The Wealth of Nations| 亚当·斯密
+41.《知识的结构》| The Structure of Scientific Revolutions| 托马斯·若贝森
+42.《长尾效应》| The Long Tail: Why the Future of Business Is Selling Less of More| 克里斯·安德森
+43.《幸福的家庭七法则》| The Seven Principles for Making Marriage Work| 约翰·戈特曼
+44.《数学：一种哲学探究》| Mathematics: A Very Short Introduction| 弗兰克·斯瓦因
+45.《虚拟世界和现实世界的脆弱边缘》| The Friction of Distance: Cosmopolitanism and the Struggle for Social Justice in a Global World| 约翰·汤普森
+46.《领导非常规智慧》| Leadership Wisdom from the Monk Who Sold His Ferrari| 罗宾·莎玛
+47.《沉默的春天》| Silent Spring| 瑞切尔·卡森
+48.《世界经济史》| A Concise Economic History of the World: From Paleolithic Times to the Present| 雷斯利·克萨尔
+49.《认知心理学》| Cognitive Psychology: A Student's Handbook| 米歇尔·安德森
+50.《猴子也能听懂的项目管理》| Monkey Management: Managing Projects with People You Don't Control| 罗伯特·伦齐亚尼

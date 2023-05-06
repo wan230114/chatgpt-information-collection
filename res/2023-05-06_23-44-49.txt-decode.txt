@@ -1,0 +1,50 @@
+1. 《思考，快与慢》Thinking, Fast and Slow|Daniel Kahneman|丹尼尔·卡尼曼
+2. 《解忧杂货店》The Convenience Store of Troubles|新井素子|新井素子
+3. 《大数据时代》Big Data: A Revolution That Will Transform How We Live, Work, and Think|维克多·迈尔-舍恩伯格|Victor Mayer-Schonberger, Kenneth Cukier
+4. 《刻意练习》Peak: Secrets from the New Science of Expertise|安德斯·艾利克森, 罗伯特·普尔|Anders Ericsson, Robert Pool
+5. 《一本书读懂中国史》The Great Courses: Understanding China: A History of Civilization|The Great Courses|The Great Courses
+6. 《影响力》Influence: The Psychology of Persuasion|罗伯特·西奥迪尼|Robert Cialdini
+7. 《沉默的大多数》The Silent Majority: Individuals Who Conform to the Group|杰克·霍金|Jack Hollingworth
+8. 《认知心理学》Cognitive Psychology|罗伯特·斯特恩伯格|Robert Sternberg
+9. 《商界人士的思维方式》Thinking Like a Business Person: The Psychology of Success|丹·肖|Dan Shaw
+10. 《从0到1》Zero to One: Notes on Startups, or How to Build the Future|彼得·蒂尔、布莱克·马斯特斯|Peter Thiel, Blake Masters
+11. 《人类简史》Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利|Yuval Noah Harari
+12. 《囚徒健身》Convict Conditioning: How to Bust Free of All Weakness Using the Lost Secrets of Supreme Survival Strength|保罗·瓦德|Paul Wade
+13. 《端正自己的思考方式》How to Think About Yourself Correctly|斯图尔特·范空谈|Stuart Finkelstein
+14. 《习惯的力量》The Power of Habit: Why We Do What We Do in Life and Business|查尔斯·杜希格|Charles Duhigg
+15. 《社会交往心理学》Social Psychology|莫顿·惠特曼，莉安娜·怀特|Morton Hunt, Leonie White
+16. 《非暴力沟通》Nonviolent Communication: A Language of Life|马歇尔·卢森堡|Marshall B. Rosenberg
+17. 《放纵的自我》The Indulgent Self: How Not to Take Responsibility for Your Own Happiness|劳伦·斯勒特|Lauren Slater
+18. 《追求卓越》Good to Great: Why Some Companies Make the Leap and Others Don't|吉姆·柯林斯|Jim Collins
+19. 《社会动物》Social Animal: The Hidden Sources of Love, Character, and Achievement|大卫·布鲁克斯|David Brooks
+20. 《强大的心智》The Power of Mindful Learning|伊莱恩·夏普|Ellen J. Langer
+21. 《沟通的艺术》The Fine Art of Small Talk: How to Start a Conversation, Keep It Going, Build Networking Skills—and Leave a Positive Impression!|德布拉·法茨克|Debra Fine
+22. 《偏见：如何让情绪不影响判断》Unconscious Bias: How to Outsmart It and Succeed Together|兰斯·林恩|Lance Lynn
+23. 《时间简史》A Brief History of Time|史蒂芬·霍金|Stephen Hawking
+24. 《超越自卑》The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding That Launched a New Era in Modern Psychology|纳撒尼尔·布兰登|Nathaniel Branden
+25. 《影响》Contagious: Why Things Catch On|乔纳斯·贺勒|Jonah Berger
+26. 《与孩子沟通的艺术》How to Talk So Kids Will Listen & Listen So Kids Will Talk|威斯曼, 鲍曼|Adele Faber, Elaine Mazlish
+27. 《如何掌控自己的情绪》Self-Mastery Through Conscious Autosuggestion|爱米尔·库埃|Emile Coue
+28. 《人性的弱点》How to Win Friends and Influence People|戴尔·卡耐基|Dale Carnegie
+29. 《强制性思维》The Art of Reasoning: An Introduction to Logic and Critical Thinking|大卫·凯利|David Kelley
+30. 《自我控制力》The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯利·麦戈尼格尔|Kelly McGonigal
+31. 《细节决定成败》The Little Book of Successful Secrets: What Successful People Know But Don't Talk About|扬·费尔塔拉克|Yan Fayllatrak
+32. 《如何读懂人性本能》The Social Animal: A Story of How Success Happens|大卫·布鲁克斯|David Brooks
+33. 《领导力21法则》21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You|约翰·C·马克斯威尔|John C. Maxwell
+34. 《影响之道》The Laws of Influence: Mastering the Art of Persuasion|罗伯特·谢里尼安|Robert B. Cialdini
+35. 《获得认同》Getting to Yes: Negotiating Agreement Without Giving In|威廉·尤里，罗杰·费舍尔|William Ury, Roger Fisher
+36. 《成功的秘密》The Secrets of Success: The Science and Spirit of Real Prosperity|琳达·威廉姆斯|Linda Williams
+37. 《有效沟通》Effective Communication: How to Effectively Listen and Communicate with Others|桑达·索尔斯|Sandra Solis
+38. 《自我导向的大学》Self-Directed College: A Handbook for Students|琼·普罗克特|Joan Proctor
+39. 《自我领导力》The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change|史蒂芬·柯维|Stephen R. Covey
+40. 《自我意识》Self-Awareness and Personal Development: Discover the Incredible Benefits of Self-Awareness and How You Can Build a Successful Mindset|杰森·莫斯勒|Jason Mosler
+41. 《人类大历史》A Little History of the World|恩斯特·豪赫思坦|Ernst H. Gombrich
+42. 《激发自我动力》Drive: The Surprising Truth About What Motivates Us|丹尼尔·平克|Daniel H. Pink
+43. 《如何影响他人》Influencer: The Power to Change Anything|科茨, 亚逊, 蒙塔涅斯|Kerry Patterson, Joseph Grenny, David Maxfield
+44. 《未来简史》Homo Deus: A Brief History of Tomorrow|尤瓦尔·赫拉利|Yuval Noah Harari
+45. 《感性思维训练》Sensory Training: The Practical Handbook|丹尼斯·科恩|Denis Cohen
+46. 《麦肯锡方法》McKinsey Mind: Understanding and Implementing the Problem-Solving Tools and Management Techniques of the World's Top Strategic Consulting Firm|伊桑·邦耶，林恩·米勒|Ethan M. Rasiel, Paul N. Friga and Lynn A. Miller
+47. 《自控力》The Marshmallow Test: Mastering Self-Control|沃尔特·米歇尔|Walter Mischel
+48. 《聪明如何成事》How to Be Smart About Who You Trust at Work|德文·碧克|Devora Zack 
+49. 《沟通咨询》Coaching Skills for Leaders in the Workplace: How to Unlock Potential and Maximize Performance|吉姆·堪贝尔|Jim Campbell
+50. 《理财智慧》The Richest Man in Babylon|乔治·萨顿·克拉森|George S. Clason

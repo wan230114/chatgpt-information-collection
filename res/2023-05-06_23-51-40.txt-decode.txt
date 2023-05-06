@@ -1,0 +1,50 @@
+1.《心流》Flow: The Psychology of Optimal Experience | Mihaly Csikszentmihalyi
+2.《思考快与慢》Thinking, Fast and Slow | Daniel Kahneman
+3.《愤怒管理》Anger Management | William G. DeFoore
+4.《深度工作》Deep Work: Rules for Focused Success in a Distracted World | Cal Newport
+5.《社会心理学》Social Psychology | Elliot Aronson
+6.《社交心理学》Social Intelligence: The New Science of Human Relationships | Daniel Goleman
+7.《道德情感植根论》Moral Emotions | Jesse J. Prinz
+8.《刻意练习》Peak: Secrets from the New Science of Expertise | Anders Ericsson and Robert Pool
+9.《人类简史》Sapiens: A Brief History of Humankind | Yuval Noah Harari
+10.《创造性思维》Creative Thinking and Problem Solving | Edward Lumsdaine and Monika Lumsdaine
+11.《写作艺术》On Writing: A Memoir of the Craft | Stephen King
+12.《情绪智商》Emotional Intelligence: Why It Can Matter More Than IQ | Daniel Goleman
+13.《影响力》Influence: The Psychology of Persuasion | Robert Cialdini
+14.《长尾理论》The Long Tail: Why the Future of Business is Selling Less of More | Chris Anderson
+15.《自控力》The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It | Kelly McGonigal
+16.《有意识的思考》The Art of Thinking Clearly | Rolf Dobelli
+17.《精力管理》The Power of Full Engagement | Jim Loehr and Tony Schwartz
+18.《非暴力沟通》Nonviolent Communication: A Language of Life | Marshall B. Rosenberg
+19.《爱的五种语言》The Five Love Languages: How to Express Heartfelt Commitment to Your Mate | Gary Chapman
+20.《微表情》Unmasking the Face: A Guide to Recognizing Emotions from Facial Clues | Paul Ekman and Wallace Friesen
+21.《沟通的艺术》The Art of Communicating | Thich Nhat Hanh
+22.《认知心理学》Cognitive Psychology: In and Out of the Laboratory | Kathleen M. Galotti
+23.《乌合之众》The Crowd: A Study of the Popular Mind | Gustave Le Bon
+24.《沉思录》Meditations | Marcus Aurelius
+25.《个人潜力发掘》The Seven Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen Covey
+26.《生命3.0》Life 3.0: Being Human in the Age of Artificial Intelligence | Max Tegmark
+27.《人性的弱点》How to Win Friends and Influence People | Dale Carnegie
+28.《想象力的力量》The Power of Imagination | Nigel Risner
+29.《关键决策》Thinking Strategically: The Competitive Edge in Business, Politics and Everyday Life | Avinash K. Dixit and Barry J. Nalebuff
+30.《指数思维》The Intelligent Investor: The Definitive Book on Value Investing | Benjamin Graham
+31.《时间简史》A Brief History of Time | Stephen Hawking
+32.《勇气》Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead | Brené Brown
+33.《连锁反应》The Tipping Point: How Little Things Can Make a Big Difference | Malcolm Gladwell
+34.《黑天鹅》The Black Swan: The Impact of the Highly Improbable | Nassim Nicholas Taleb
+35.《认知心理学和认知神经科学》Cognitive Psychology and Cognitive Neuroscience: Mind, Brain, and Behavior | Edward E. Smith and Stephen M. Kosslyn
+36.《高效能人士的七个习惯》The 7 Habits of Highly Effective People Personal Workbook | Stephen Covey
+37.《代际才能》Generations: The History of America's Future, 1584 to 2069 | William Strauss and Neil Howe
+38.《公共心理学》Social Psychology: Goals in Interaction | Douglas T. Kenrick and Steven L. Neuberg
+39.《慷慨心理学》The Psychology of Generosity | Lawrence S. Cunningham
+40.《沟通的艺术》Crucial Conversations: Tools for Talking When Stakes are High | Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+41.《意识》Consciousness Explained | Daniel C. Dennett
+42.《财富自由之路》The Road to Wealth: A Comprehensive Guide to Your Money | Suze Orman
+43.《宽容》The Art of Tolerance: The Golden Rule in World Religions | Robert M. Sellers
+44.《行星的孩子》The Indigo Children: The New Kids Have Arrived | Lee Carroll and Jan Tober
+45.《时间简史》The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory | Brian Greene
+46.《色彩心理学》A Color Guide to the 21st Century | John Covello and Hayden Covello
+47.《梦想》The Dream Dictionary: An A to Z Guide to Understanding Your Unconscious Mind | Tony Crisp
+48.《周期波动》The Fourth Turning: An American Prophecy | William Strauss and Neil Howe
+49.《孪生的灵魂》Soulmates: An Astrological Guide to Finding and Understanding Relationships | Linda George
+50.《催眠》Hypnotherapy: A Practical Handbook | Hellmut W. A. Karle and Jennifer H. Boys

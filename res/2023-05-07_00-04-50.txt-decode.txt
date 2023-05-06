@@ -1,0 +1,50 @@
+1.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+2.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+3.《白夜行》|白夜行|东野圭吾
+4.《黑天鹅：如何应对不可预知的未来》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+5.《关键对话》|Crucial Conversations: Tools for Talking When Stakes are High|肯·布莱特、约瑟夫·格林亚、罗纳德·麦克米伦
+6.《异类：不一样的成功启示录》|Outliers: The Story of Success|马尔科姆·格拉德威尔
+7.《围城》|围城|钱钟书
+8.《原则》|Principles: Life and Work|雷·达利欧
+9.《如何阅读一本书》|How to Read a Book|莫提默·J. 艾德勒、查尔斯·范多伦 
+10.《原生家庭》|永恒的边缘|巴黎·托马斯
+11.《复活》|复活|列夫·托尔斯泰
+12.《自干五十年》|自干五十年|叶永烈
+13.《长夜难明》|长夜难明|莉林
+14.《常识的力量》|The Power of Common Sense: Why You Should Make Better Decisions|贝克曼
+15.《幸福的方法》|Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment|塔利·本-沙哈尔
+16.《痛苦的告别》|当呼吸化为空气时|保罗·卡利尼什
+17.《小王子》|The Little Prince|安托万·德·圣-埃克苏佩里
+18.《主宰时间的方法》|The Time Paradox: The New Psychology of Time That Will Change Your Life|菲利普·佛瑞
+19.《鸟哥的Linux私房菜：基础学习篇》|鸟哥
+20.《思考的技术》|The Art of Thinking Clearly|罗尔夫·多贝利
+21.《易经》|易经|孔丘
+22.《商界守则》|The Business Roundtable Institute for Corporate Ethics Series in Ethics and Corporate Social Responsibility|R. Edward Freeman
+23.《快乐的单车》|快乐的单车|莫达克
+24.《未来简史》|Homo Deus: A Brief History of Tomorrow|尤瓦尔·赫拉利
+25.《乌合之众》|Psychologie des foules|吉斯塔夫·勒庞
+26.《诗经》|诗经|
+27.《抗拒冰冷的世界》|抗拒冰冷的世界|斯蒂芬·科维
+28.《人间失格》|人間失格|太宰治
+29.《改变与习惯》|The Power of Habit: Why We Do What We Do in Life and Business|查尔斯·杜希格
+30.《海边的卡夫卡》|海边的卡夫卡|村上春树
+31.《乡土中国》|乡土中国|费孝通
+32.《编程珠玑》|编程珠玑|Jon Bentley
+33.《论语》|论语|孔丘
+34.《如何有效阅读一本书》|How to Read a Book: The Classic Guide to Intelligent Reading|莫提默·J. 艾德勒、查尔斯·范多伦
+35.《禅与摩托车维修艺术》|Zen and the Art of Motorcycle Maintenance: An Inquiry into Values|罗伯特·M·班乔
+36.《代码大全2》|Code Complete 2: A Practical Handbook of Software Construction|史蒂夫·迈克康奈尔 
+37.《悲惨世界》|Les Misérables|维克多·雨果
+38.《安徒生童话》|安徒生童话|汉斯·克里斯蒂安·安徒生
+39.《天才在左，疯子在右》|天才在左，疯子在右|高铭
+40.《红楼梦》|红楼梦|曹雪芹、高鹗
+41.《华严经》|华严经|
+42.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡内基
+43.《鬼谷子》|鬼谷子|鬼谷子
+44.《向学神山》|向学神山|李奇峰
+45.《欧尔巴桥上的陌生人》|欧尔巴桥上的陌生人|保罗·阿斯特
+46.《无声告白》|无声告白|伊坂幸太郎
+47.《两个证人》|两个证人|阿加莎·克里斯蒂
+48.《乱世枭雄》|A Game of Thrones|乔治·R·R·马丁
+49.《路边野餐》|路边野餐|杨振宁
+50.《穆斯林的葬礼》|The Muslim Funeral|露西·阿特利夫森

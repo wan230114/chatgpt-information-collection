@@ -1,0 +1,50 @@
+1. 《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2. 《影响力》|Influence: The Psychology of Persuasion|罗伯特·西奥迪尼
+3. 《囚徒困境》|The Prisoner’s Dilemma|威廉·普莱瑟
+4. 《谈判的艺术》|Getting to Yes|罗杰·费舍尔、威廉·尤里
+5. 《独裁者手册》|The Dictator’s Handbook: Why Bad Behavior is Almost Always Good Politics|布鲁斯·布伦南、乔治·利科夫
+6. 《心理学与生活》|Psychology and Life|理查德·格里格斯、菲利普·洛克利德
+7. 《怎样读懂一个人》|Captivate: The Science of Succeeding with People|范妮莎·范德比尔特
+8. 《为什么我们这么聪明却总情不自禁》|The Undoing Project: A Friendship That Changed Our Minds|迈克尔·刘易斯
+9. 《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+10. 《卓有成效的管理者》|The Effective Executive|彼得·德鲁克
+11. 《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+12. 《内向者优势》|Quiet: The Power of Introverts in a World That Can't Stop Talking|苏珊·凯恩
+13. 《演讲的力量--语言的本质》|The Language of Life and Death: The Transformation of Experience in Oral Narrative|塞西尔·赖昂
+14. 《恶意与情感》|Hatred and Civility: The Antisocial Life in Victorian England|谢莉·古里安
+15. 《习惯的力量》|The Power of Habit: Why We Do What We Do in Life and Business|查尔斯·杜希格
+16. 《为什么我这样聪明却没人想跟我合作》|Collaborative Intelligence: Thinking with People Who Think Differently|莉莱·韦登霍夫、莫兰·苏努
+17. 《嵌入式心理学》|Embedded Psychology: New Insights From The Science of Human Decision Making|莎拉·加里斯
+18. 《快速思考：启发式思考指南》|Thinking, Fast and Slow: Heuristics and Biases|达尼埃尔·卡尼曼
+19. 《谈吐的力量》|The Power of Talk: How Words Change Our Lives|芭芭拉·托克拉斯
+20. 《表情的艺术》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼
+21. 《情绪智商：对情感的理解能力比对智商更重要》|The Emotional Intelligence Quick Book|特拉维斯·布拉德贝里、珍妮特·珀尔曼
+22. 《领袖之谎》|The Lies We Tell Ourselves|理查德·卡吉阿尼
+23. 《重构人类：生物学，道德，人类的未来》|Rewiring the Human Race: The Future of Science and Humanity|安东尼·文汉
+24. 《演说力》|Talk like TED: The 9 Public Speaking Secrets of the World's Top Minds|卡门·加洛
+25. 《格局改变》|Mindset: The New Psychology of Success|卡罗尔·德韦克
+26. 《写意人生》|The Art of Possibility|罗莎莉·曼格斯·塞尔
+27. 《刻意练习》|Peak: Secrets from the New Science of Expertise|安德斯 · 尔琴
+28. 《识人：行动会说话》|Snap: Making the Most of First Impressions, Body Language, and Charisma|佐伊·奈特
+29. 《压力：为什么我们不能承受上升的压力，如何应对》|The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It|凯利·麦格尼格尔
+30. 《当坏事发生咋办》|Adversity Quotient: Turning Obstacles into Opportunities|保罗·史图斯
+31. 《行为经济学：一本适合大众阅读的经济学入门》|Misbehaving: The Making of Behavioral Economics|理查德·塞勒
+32. 《固化思维》|The Mindset of Fixed Beliefs: The Emotional Stability in Society|红万笔
+33. 《领导者的困境》|Leadership dilemmas: Avoiding Recurring Traps by Richard L. Hughes
+34. 《孩子必须自己学》|The End of Parenting: How We Can Save America's Families From Celebrity Experts, Silicon Valley, and the American Medical Association|克里斯托夫·盖格恩
+35. 《沉迷：数字时代的力量与弱点》|Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked|亚当·奥尔特
+36. 《肢体语言词典》|The Definitive Book of Body Language|艾伦·佩斯
+37. 《横跨纵深：知识管理的实操指南》|Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers|杰弗里·穆尔
+38. 《观察者：自我监控与领导力》|The Observer: The Art of Self-monitoring and Leadership|威廉·博格霍夫
+39. 《好奇心》|The Power of Curiosity: How to Have Real Conversations That Create Collaboration, Innovation and Understanding|李·W·保尔
+40. 《逻辑思维》|The Art of Reasoning|大卫·凯利
+41. 《影响》|Impact: How to Build Your Personal Brand for Leadership in the Digital Age|崔维斯·布拉德贝里
+42. 《人类，再见》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+43. 《反脆弱》|Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布
+44. 《意外：从概率角度看人生与市场》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+45. 《话语的力量：辞赋与影响》|The Voice of Reason: Essays in Objectivist Thought|艾伦·林德
+46. 《社会动员：新的组织形式如何改变社会、政治、经济》|The New Rules of War: Victory in the Age of Durable Disorder|肖恩·麦克菲特里奇
+47. 《思维的乐趣》|A Mathematician's Apology|格哈德·哈代
+48. 《终生学习》|The Power of Lifelong Learning: A Guide to Personal & Professional Fulfillment|克里斯莱·凯耶斯
+49. 《五大展望：20世纪以来的人文思想再审视》|Five Views on Man and Freedom|奎恩特·葛巴洛
+50. 《人类的世界》|Sapiens, Yuval Noah Harari.

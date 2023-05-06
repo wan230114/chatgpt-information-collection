@@ -1,0 +1,50 @@
+1. 《思考，快与慢》Thinking, Fast and Slow|丹尼尔·卡尼曼|丹尼尔·卡尼曼
+2. 《影响力》Influence|罗伯特·西奥迪尼|罗伯特·西奥迪尼
+3. 《人类简史》Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利|尤瓦尔·赫拉利
+4. 《刻意练习》Peak: Secrets from the New Science of Expertise|安德斯·艾利克森|安德斯·艾利克森
+5. 《深度工作》Deep Work|卡尔·纽波特|卡尔·纽波特
+6. 《非暴力沟通》Nonviolent Communication|马歇尔·卢森伯格|马歇尔·卢森伯格
+7. 《认知心理学》Cognitive Psychology|Robert J. Sternberg|罗伯特·J·斯特恩伯格
+8. 《刻意思维》Black Box Thinking: The Surprising Truth About Success|马修·赫迪|马修·赫迪
+9. 《反脆弱》Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布|纳西姆·尼古拉斯·塔勒布
+10. 《社会心理学》Social Psychology|David Myers|大卫·迈尔斯
+11. 《你的灯亮着吗》The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work|肖恩·艾克|肖恩·艾克
+12. 《故事的力量》The Power of Story: Change Your Story, Change Your Destiny in Business and in Life|吉姆·罗特特|吉姆·罗特特
+13. 《团队五项法》The Five Dysfunctions of a Team: A Leadership Fable|帕特里克·莱西奇|帕特里克·莱西奇
+14. 《设计思维》Design Thinking|Tim Brown|蒂姆·布朗
+15. 《问一万个为什么》A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas|沃伦·贝里斯|沃伦·贝里斯
+16. 《沟通的力量》Crucial Conversations: Tools for Talking When Stakes Are High|凯瑟琳·帕特森|凯瑟琳·帕特森
+17. 《领袖梦工厂》Leaders Eat Last: Why Some Teams Pull Together and Others Don’t|西蒙·西涅克|西蒙·西涅克
+18. 《深度思考》The Art of Thinking Clearly|罗尔夫·多贝利|罗尔夫·多贝利
+19. 《一万小时天才理论》Outliers: The Story of Success|马尔科姆·格拉德威尔|马尔科姆·格拉德威尔
+20. 《构建高效团队》Team of Teams: New Rules of Engagement for a Complex World|斯坦利·麦克里斯特尔|斯坦利·麦克里斯特尔
+21. 《快乐的陷阱》The Paradox of Choice: Why More Is Less|巴里·肯德尔|巴里·肯德尔
+22. 《百年孤独》One Hundred Years of Solitude|加西亚·马尔克斯|加西亚·马尔克斯
+23. 《大数据时代》Big Data: A Revolution That Will Transform How We Live, Work, and Think|维克托·迈尔-舍恩伯格|维克托·迈尔-舍恩伯格
+24. 《亲密关系》The Seven Principles for Making Marriage Work|约翰·戈特曼|约翰·戈特曼
+25. 《关键对话》Crucial Accountability: Tools for Resolving violated Expectations, Broken Commitments, and Bad Behavior|凯瑟琳·帕特森|凯瑟琳·帕特森
+26. 《思考与写作》The Thinking Woman's Guide to Real Magic|艾莫瑞·S·瓦尔斯|艾莫瑞·S·瓦尔斯
+27. 《诗经·国风》The Book of Songs|佚名|佚名
+28. 《未来简史》Homo Deus: A Brief History of Tomorrow|尤瓦尔·赫拉利|尤瓦尔·赫拉利
+29. 《天才在左，疯子在右》Genius on the Left, Madness on the Right|高铭|高铭
+30. 《经济学原理》Principles of Economics|格里高利·曼昆|格里高利·曼昆
+31. 《乌合之众》The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞|古斯塔夫·勒庞
+32. 《悲惨世界》Les Misérables|雨果|雨果
+33. 《高效能人士的七个习惯》The Seven Habits of Highly Effective People|史蒂芬·柯维|史蒂芬·柯维
+34. 《百年孤寂》One Hundred Years of Solitude|加夫列尔·加西亚·马尔克斯|加夫列尔·加西亚·马尔克斯
+35. 《进化心理学》Evolutionary Psychology|David M. Buss|大卫·M·巴斯
+36. 《时间的秩序》The Order of Time|卡洛·罗韦利|卡洛·罗韦利
+37. 《想象的共同体》Imagined Communities: Reflections on the Origin and Spread of Nationalism|本尼迪克特·安德森|本尼迪克特·安德森
+38. 《类比思维与知识迁移》Analogical Thinking and Knowledge Transfer|Boicho Kokinov|Boicho Kokinov
+39. 《培训教育与企业发展》The Fifth Discipline: The Art of Practice of Learning Organization|彼得·圣吉|彼得·圣吉
+40. 《社会动物－人的本性与社会性》The Social Animal: The Hidden Sources of Love, Character and Achievement|大卫·布鲁克斯|大卫·布鲁克斯
+41. 《深深的蓝色海洋》Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant|W. Chan Kim, Renée Mauborgne|金元浦、刘丽芬
+42. 《生命黑匣子》The Black Swan: The impact of the highly improbable|纳西姆·尼古拉斯·塔勒布|纳西姆·尼古拉斯·塔勒布
+43. 《从第三类接触到第一类接触》Contact of the Third Kind: On Human Mutuality and Drawing Boundaries Through Technological Mediation|Krzysztof Ziarek|克日什托夫·扎尔克
+44. 《人类的本质》The Nature of Human Nature|Mary Midgley|玛丽·米德利
+45. 《领导力21法则》The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You|约翰·C·马克斯威尔|约翰·C·马克斯威尔
+46. 《乌合之众＋论法国革命》The Crowd and the French Revolution|古斯塔夫·勒庞|古斯塔夫·勒庞
+47. 《人类的本质》The Blank Slate: The Modern Denial of Human Nature|斯蒂文·平克|斯蒂文·平克
+48. 《预测的崩溃》The Collapse of Prediction|Spencer J. Rugaber|斯宾塞·J·鲁加伯
+49. 《创新者的窘境》The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail|克雷顿·克里斯滕森|克雷顿·克里斯滕森
+50. 《大问题解决指南》The Big Book of Conflict Resolution Games: Quick, Effective Activities to Improve Communication, Trust and Collaboration|Mary Scannell, Michael Abrams, Jennifer Wurst|玛丽·斯坎奈尔、迈克尔·阿布拉姆斯、詹尼弗·沃斯特

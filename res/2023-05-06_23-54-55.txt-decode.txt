@@ -1,0 +1,50 @@
+1．《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+2．《未来简史》|21 Lessons for the 21st Century|尤瓦尔·赫拉利
+3．《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+4．《演化心理学：如何破译人类行为的谜团》|The Evolutionary Psychology Handbook|大卫·M·巴斯
+5．《霍金：一个简明简史》|Brief Answers to the Big Questions|斯蒂芬·霍金
+6．《为什么呢？思考探究人类如何思考》|The Art of Thinking Clearly|罗尔夫·多贝利
+7．《群体智慧》|The Wisdom of Crowds|詹姆斯·苏里基
+8．《溯源：人类的起源、旅程和现在》|Sapiens: A graphic history Volume 1|尤瓦尔·赫拉利
+9．《社会性动物：人性的基因基础》|Behave: The Biology of Humans at Our Best and Worst|罗伯特·莫尔
+10．《社交动物：人类的互动与社交》|The Social Animal|大卫·布鲁克斯
+11．《催眠的历史与应用》|History and Applications of Hypnosis|埃尔维斯·普雷斯利
+12．《创伤心理学与儿童保护》|Trauma Psychology and Child Protection|青木なつみ、白川靖夫
+13．《内在生命力》|The Inner Game of Tennis|W·蒂莫西·加拉韦
+14．《自由真相》|Untruth: Why the Conventional Wisdom is (Almost Always) Wrong|列昂尼德·索菲克斯
+15．《信任：社交生活的行为经济学》|Trust: Social Life and Behavior Economics|肯尼斯·斯塔尔
+16．《剪不断的细莫》|Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder|比尔·恩格尔
+17．《整体人类：涌现时代的人类认知革命》|Holistic Human: A Comprehensive Overview of Emergence in the Human Mind and Society|尤里·波多洛夫
+18．《臆想进化学：调整大脑，改变人生》|Evolutionary Psychology: Adjusting the Brain for Life Change|吉姆·爱德华兹
+19．《预见》|Superforecasting: The Art and Science of Prediction|菲利普·泰特洛夫
+20．《澳大利亚番外篇》|Antipodes: In Search of the Southern Continent|西蒙·温斯普尔
+21．《这里比天堂更明亮》|Here it is Brighter Than in Heaven|潘敬宇
+22．《亲密关系》|Intimacy|伊恩·麦克尤恩
+23．《性格心理学》|Personality Psychology|戴维·M·巴斯
+24．《左脑右脑的异像》|The Man Who Mistook His Wife for a Hat|奥利弗·萨克斯
+25．《人脑与人类性格》|The Human Brain and its Relationship to Personality|阿妮特·莫门斯
+26．《爱情的进化心理学》|The Evolutionary Psychology of Love|莫莉·莉斯卡德
+27．《人际关系心理学》|Social Psychology|戴维·G·迈尔斯
+28．《社会学与人性别行为》|Gender Studies|伊丽莎白·戴茨
+29．《时间切片：理解过去、现在、未来》|The Time Paradox: The New Psychology of Time That Will Change Your Life|菲利普·泰特洛夫
+30．《生物进化心理学：思维演变的历史脉络》|The Evolutionary Psychology of Men and Women|大卫·B·卡切里
+31．《精神病学概论》|Introduction to Psychiatry|劳伦斯·C·桑达克
+32．《谈化学和私人生活》|The Chemistry of Change|爱丽丝·德乌尔
+33．《罗波系统：病理人格类命名与概念》|Robo System: The Pathological Naming and Conceptualization of Personality Disorder|杨哲兵
+34．《生活是一道算法题：为什么你该会计算》|Life is an Algorithm: The Secret to Making Better Decisions|米卡埃拉·普尔曼
+35．《情感控制：自我安慰神经科学》|Self-Compassion: The Proven Power of Being Kind to Yourself|克里斯琴·尼夫
+36．《发现你的本质》|Finding Your Inner Nature|泽维尔·C·塞尔范特
+37．《街头哲学》|Street Philosophy|麦克斯·鲁斯特
+38．《快乐同行》|Happy Together|勾宇
+39．《路向灵魂的回家》|The Road to the Soul's Home|李博天
+40．《心理学原理》|Introduction to Psychology|哈利斯·库恩
+41．《生命之树，牵手走今生》|Life's Tree Journey|冯乔恩
+42．《笑话背后的心理学》|Humor's Inner Workings: A Strategic Thinking Guide|杰弗里·伦顿
+43．《有所选择：为什么我们做出某些决定》|The Paradox of Choice: Why More Is Less|巴里·施瓦茨
+44．《幸福的还原剂》|The How of Happiness|索妮亚·利布曼
+45．《幸福的陷阱：为什么我们的期望屡屡落空》|The Myths of Happiness|珍妮特·伯索娃
+46．《积极心理学：积极人生的心理学》|Positive Psychology|马丁·塞利格曼
+47．《恐惧病理：理解恐惧和焦虑障碍行动指南》|Anxiety Disorders: An Action Plan for Living with Fear|德普霍·E·歌根倍格
+48．《思维误差的感染：认知偏差和概率错误》|The Black Swan: The Impact of the Highly Improbable|尼古拉斯·尼可拉斯·塔莫希斯
+49．《自由的构成：生命、幸福与人类自由》|Freedom: The Anatomy of Human Happiness|佩尔·基勒森
+50．《行为选择之谜：为什么我们做出选择》|The Paradox of Choice: Why More Is Less|巴里·施瓦茨

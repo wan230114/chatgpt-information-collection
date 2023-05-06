@@ -1,0 +1,50 @@
+1. 《思考，快而慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2. 《小脑发育的非凡旅程》|The Extraordinary Journey of the Fakir Who Got Trapped in an Ikea Wardrobe|罗曼·高瑞埃
+3. 《走出认知误区》|Mistakes Were Made (But Not by Me)|卡罗尔·特维斯 和 伊莱扎·戈德伯格
+4. 《随分之美》|The Beauty of Fractals|海姆·穆赫
+5. 《关于记忆的错觉》|The Illusion of Memory|朱莉娅·肯德里克
+6. 《困惑的猴子》|The Confusion of the Monkey|理查德·杜金斯
+7. 《阅读的奇妙旅程：从文字到意义》|Proust and the Squid: The Story and Science of the Reading Brain|玛丽安·沙基奥普
+8. 《有意识的自律》|Conscious Discipline|贝基·贝利
+9. 《为什么感觉世界在变化：神经科学的`奥秘》|The Brain That Changes Itself|诺曼·多伊奇
+10. 《限制，展开你的潜能》|Limitless|吉姆·基瑞尼
+11. 《神经与人性》|Neuroscience and Human Nature|杰克·库兹威尔
+12. 《言语、心智和现实》|Naming and Necessity|丹尼尔·丹尼特
+13. 《心理诊疗的心理学》|The Psychology of Psychotherapy|Herbert Spiegel
+14. 《情绪智商的力量》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼
+15. 《爱，现代的心理治疗》|Love: Modern Psychology Therapy|韦伯尔·佛罗姆
+16. 《站在巨人的肩膀上》|Standing on the Shoulders of Giants|史蒂芬·霍金
+17. 《改变你的大脑》|The Brain That Changes Itself|诺曼·多伊奇
+18. 《拆解心理学》|Breaking the Spell: Religion as a Natural Phenomenon|丹尼尔·丹尼特
+19. 《大脑面临的挑战》|The Brain's Challenge|理查德·约翰·哈里斯
+20. 《男女大脑》|The Male Brain / The Female Brain|路易丝·吉彻斯 、布拉格·布瑞恩
+21. 《爱的感知》|The Perception of Love|约翰·B. 沃森和贝蒂·M. 騎士
+22. 《为什么，我们为什么不？》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+23. 《大脑的神秘力量》|The Mysterious Powers of the Brain|理查德·约翰·哈里斯
+24. 《现象学的中心》|Phenomenology Centered|约翰·托马斯·庞斯蒂
+25. 《算法与本质》|Algorithms and the Essence|乔治·波利亚
+26. 《这是我们的大脑》|The Neurology of Mindfulness|爱德华·马卡卡
+27. 《物理案例：从爱因斯坦到超弦论》|Physics Cases: From Einstein to String Theory|布莱恩·格林
+28. 《热情与常识》|Passion and Reason|理查德·西珀森
+29. 《自我知觉心理学与认知神经科学》|Self-Perception and Cognitive Neuroscience|国庆敏
+30. 《大脑的挑战之旅》|The Brain's Challenge Journey|理查德·约翰·哈里斯
+31. 《自私的基因》|The Selfish Gene|理查德·道金斯
+32. 《头脑与世界》|Mind and World|约翰·麦克道威尔
+33. 《人类大脑发展史：进化、发展和个体经验》|The Hidden Curriculum of Mind: The Evolution of Human Nature|丹尼尔·丹尼特
+34. 《优达学习》|Udacity Learning|侯雨祥
+35. 《时间的特性：时间整合的心理学）|The Characteristics of Time: The Psychology of Time Integration|洛伊·斯通
+36. 《个体化医学》|Personalized Medicine|沃德·佛曼
+37. 《在思想世界里度过漫长的白天：公共事务的哲学》|Spending Long Days in the World of Ideas: Philosophy of Public Affairs|史蒂芬·齐菲尔德
+38. 《壮观的科学：探究人的认知、行为和制度的基础》|The Magnificent Science: A Foundation for Exploring Cognition, Behavior, and Institutions|史蒂文·彼特
+39. 《多因素性格测试》，和《人格测试：从OPQ到HPT》|The Multi-Factor Personality Test and The Personality Test: From OPQ to HPT|罗伯特·锡因格
+40. 《心理：世界的历史》|Psychologies: A History of the World|约书亚·杨
+41. 《情感万象》|Affective Phenomena|爱德华·若亚圭尔根
+42. 《智者千虑必有一失》|Even the Wise May Lose|理查德·约翰·哈里斯
+43. 《批判性思维和之道》|Critical Thinking and Its Ways|琼·嘉布里奇
+44. 《创新的游戏》|The Innovation Games|卢克·赛旺
+45. 《心理诊疗的哲学基础》|The Philosophical Foundations of Psychotherapy|森提尔·菲尔普斯和罗尼·萨班
+46. 《感性思维》|Intuitive Thinking|弗雷德里克·瓦茨洛夫
+47. 《人类心理的传统：私下思考和公共声音》|Traditions of Human Psychology: The Private Reflection and the Public Voice|伊安·霍普金斯 和 吉布森·贝林加穆
+48. 《有趣的科学：奖励、愉悦和探究才智》|The Amazing Science: Rewards, Pleasure, and Investigative Intelligence|罗伯特·桑格蒂纳
+49. 《认知心理学的新潮流》|The New Wave of Cognitive Psychology|托马斯·麦考尔
+50. 《磨炼正义与批判性思维的行动力》|The Power of Action for cultivating justice and critical thinking|亚历克·朗基尔和乔治·加德纳

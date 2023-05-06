@@ -1,0 +1,50 @@
+1.《瞬间的力量》|The Power of Moments: Why Certain Experiences Have Extraordinary Impact|丹·希思
+2.《解忧杂货店》|The Miracles of the Namiya General Store|东野圭吾
+3.《如何阅读一本书》|How to Read a Book|艾德勒、范多伦
+4.《原则》|Principles|瑞·达利欧
+5.《千面英雄》|The Hero with a Thousand Faces|约瑟夫·坎贝尔
+6.《精益创业》|The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses|埃里克·里斯
+7.《沉默的大多数》|The Silent Majority|王小波
+8.《极简主义》|Goodbye, Things: The New Japanese Minimalism|佐野洋子
+9.《心理学与生活》|Psychology and Life|理查德·格里格
+10.《超预测》|Superforecasting: The Art and Science of Prediction|菲利普·E.泰特洛克，丹妮尔·卡恩曼
+11.《解忧杂货店》|The Miracles of the Namiya General Store|东野圭吾
+12.《极简人生》|Essentialism: The Disciplined Pursuit of Less|格雷格·麦基恩
+13.《沙丘》|Dune|弗兰克·赫伯特
+14.《贫穷的本质》|The Nature of Poverty|本杰明·弗根高默
+15.《时间简史》|A Brief History of Time|史蒂芬·霍金
+16.《高效能人士的七个习惯》|The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change|史蒂芬·柯维
+17.《黑客与画家》|Hackers and Painters：Big Ideas from the Computer Age|保罗·格雷厄姆
+18.《创意之树》|The Creative Tree: Innovation in Education|约翰·霍华德
+19.《复杂》|Complexity: A Guided Tour|米切尔·沃尔德罗普
+20.《致命习惯》|The Power of Habit: Why We Do What We Do in Life and Business|查尔斯·杜希格
+21.《奇特的一生》|The Hiding Place|柏林·张伯伦
+22.《三体》|The Three-Body Problem|刘慈欣
+23.《引爆点》|The Tipping Point: How Little Things Can Make a Big Difference|马尔科姆·格拉德威尔
+24.《游戏化思维》|The Gamification of Learning and Instruction: Game-Based Methods and Strategies for Training and Education|卡尔·科克斯
+25.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+26.《夜行动物园》|Night Zookeeper: The Write to Draw Project|维克托·华尔什
+27.《边缘人》|Outliers: The Story of Success|马尔科姆·格拉德威尔
+28.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+29.《断舍离》|The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing|近藤麻理惠
+30.《拖延心理学》|The Art of Procrastination: A Guide to Effective Dawdling, Lollygagging and Postponing|约翰·佛瑞德
+31.《复盘人生》|Principles of Life Management|杨波
+32.《童话人生》|The One Life We're Given: Finding the Wisdom That Waits in Your Heart|马克·内泽尔
+33.《视频营销密码》|Video Marketing Rules: How to Win in a World Gone Video|罗伯特·威斯科普夫
+34.《极限领导力》|Extreme Ownership: How U.S. Navy SEALs Lead and Win|杰克·欧文
+35.《双城记》|A Tale of Two Cities|查尔斯·狄更斯
+36.《巨人的陨落》|The Rise and Fall of the Great Powers|保罗·肯尼迪
+37.《新约全书》|The New Testament|多位作者
+38.《突围：从设计思维到创业成功》|The Lean Entrepreneur: How to Quickly Launch Your Startup, Collaborate Effectively, and Drive Growth|布拉德·法茨
+39.《不为人知的经济学》|The Undercover Economist|蒂莫西·哈丁顿
+40.《黑客帝国》|The Matrix|拉里·沃卓斯基和安迪·沃卓斯基
+41.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+42.《十年之痒》|The Seven Year Itch|乔治·艾克思
+43.《河图》|Book of Changes|王阳明
+44.《如何世界观》|How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence|迈克尔·波林
+45.《灿烂千阳》|A Thousand Splendid Suns|卡勒德·胡赛尼
+46.《强大的一代》|The Greatest Generation|汤姆·布罗卡夫
+47.《心理学导论》|Introduction to Psychology|詹姆斯·W·卡尔
+48.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+49.《绿山墙的安妮》|Anne of Green Gables|露西·蒙哥马利
+50.《有所不为》|The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia|詹姆斯·C·斯科特

@@ -1,0 +1,50 @@
+1.《重磅：如何成为一个预言家》|The Signal and the Noise: Why So Many Predictions Fail - But Some Don't|Nate Silver
+2.《故事魔力：如何用好故事影响和感染他人》|The Storytelling Animal: How Stories Make Us Human|Jonathan Gottschall
+3.《思考，快与慢》|Thinking, Fast and Slow|Daniel Kahneman
+4.《孤独的力量：如何与孤独和解》|The Power of Solitude: How to Find Happiness in a World of People|Frank J. Bures
+5.《别让负面情绪控制你：打败情绪黑洞，重新寻找身心健康的快乐》|The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time|Alex Korb
+6.《活在当下：一堂培养与平静相处课》|The Power of Now: A Guide to Spiritual Enlightenment|Eckhart Tolle
+7.《社交心理学》|Social Psychology|David G. Myers
+8.《父母都有原罪：我们为什么会变成我们的父母，以及如何摆脱》|The Interpersonal World of the Infant: A View from Psychoanalysis and Developmental Psychology|Daniel N. Stern
+9.《社交动物：人类如何成为社会性动物》|The Social Animal: The Hidden Sources of Love, Character, and Achievement|David Brooks
+10.《网络有害：社交媒体如何销毁文化，社区和人类》|Ten Arguments for Deleting Your Social Media Accounts Right Now|Jaron Lanier
+11.《改变习惯的神经科学：通过训练建立更健康的思维和行为习惯》|The Neuroscience of Change: A Compassion-Based Program for Personal Transformation|Kelly McGonigal
+12.《走近自闭症：治愈孩子的30个步骤》|Up Close and Personal: The Best of Everyday Autism|Suzanne Jacobsen
+13.《解读人性：为了更好的人际关系》|The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now|Meg Jay
+14.《生命中的第一百万个小时：如何掌控自己的时间和能量》|The First 20 Hours: How to Learn Anything Fast|Josh Kaufman
+15.《茁壮成长：从婴儿到少年，孩子的全部发展习惯》|Your Child's Growing Mind: A Guide to Learning and Brain Development from Birth to Adolescence|Jane M. Healy
+16.《我的世界不再困扰我：儿童心理治疗精品》|Play Therapy|Virginia M. Axline
+17.《如何努力：不靠运气，只靠自己，百万富翁的人生智慧》|How to Get Rich: One of the World's Greatest Entrepreneurs Shares His Secrets|Felix Dennis
+18.《远离拖延症：解决慢性拖延的科学方法》|The Procrastination Equation: How to Stop Putting Things Off and Start Getting Stuff Done|Piers Steel
+19.《很CSS了：隐藏在很多人技能树里的CSS基础》|CSS Mastery: Advanced Web Standards Solutions|Andy Budd
+20.《自控力：关于意志力的现代科学探究》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|Kelly McGonigal
+21.《感情的表达：情感，心理认知与社交行为的生物学基础》|The Expression of the Emotions in Man and Animals|Charles Darwin
+22.《自我批判的艺术：欣赏自己，拥抱人生》|The Gift of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are|Brene Brown
+23.《善用事情竞争的传统，提高效率和创新》|The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses|Eric Ries
+24.《情感第一：再聚焦人类优势》|Emotional Intelligence: Why It Can Matter More Than IQ|Daniel Goleman
+25.《心流：如何沉浸于自己的工作和生活》|Flow: The Psychology of Optimal Experience|Mihaly Csikszentmihalyi
+26.《内隐的动机：探究人的真正动力》|Drive: The Surprising Truth About What Motivates Us|Daniel H. Pink
+27.《初心：如何重燃热情，找回目标，迎接无限可能》|Start with Why: How Great Leaders Inspire Everyone to Take Action|Simon Sinek
+28.《情感营销：如何让别人喜欢你，只需要掌握5个基本技能》|Influence: The Psychology of Persuasion|Robert Cialdini
+29.《成功，被动收入和梦想职业：如何实现财务自由》|The 4-Hour Work Week: Escape 9-5, Live Anywhere, and Join the New Rich|Timothy Ferriss
+30.《应该更有坚持力：如何创造现实中的成功和表现》|Grit: The Power of Passion and Perseverance|Angela Duckworth
+31.《好的生活：行动的指南》|The Happiness Project|Gretchen Rubin
+32.《媒体识别力：如何防止假新闻和消极影响干扰你的长远目标》|Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think|Hans Rosling
+33.《阻止过度自我约束：让生活更开放，玩得更开心》|The Paradox of Choice: Why More Is Less|Barry Schwartz
+34.《人性的光与暗：如何从扭曲行为的角度看待欺骗和被骗》|The Art of Thinking Clearly - DOHA Edition|Rolf Dobelli
+35.《大脑漫游：如何通过放松与创造力改变人生》|Wired to Create: Unraveling the Mysteries of the Creative Mind|Scott Barry Kaufman
+36.《如何做好人生中最重要的决定：不只是一个时间管理问题，还需要正确的思考方法》|The 5 Essential Principles of Think and Grow Rich: The Practical Steps to Transforming Your Desires into Riches|Napoleon Hill
+37.《学会管理：如何更好地管理人和事，为团队打赢战役》|The One Minute Manager|Ken Blanchard
+38.《成长的烦恼：如何调适人生中的转折点》|The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth|M. Scott Peck
+39.《幸福的科学：当代西方心理学与东方佛教的交融》|The Art of Happiness|Dalai Lama XIV
+40.《意识的机器：如何通过人工智能，深度学习和计算思考理解自然语言》|Artificial Intelligence: A Guide to Intelligent Systems|Michael Negnevitsky
+41.《如何说话才让别人爱听，如何听话才让别人喜欢交流》|Crucial Conversations: Tools for Talking When Stakes Are High|Kerry Patterson
+42.《认知心理学探究：大脑是如何思考的》|Cognitive Psychology: A Student's Handbook|Michael W. Eysenck
+43.《什么是恐惧，人类的恐惧如何影响大家》|The Anatomy of Fear|Stephen King
+44.《21世纪的沟通修炼：如何成为更好的人际处理者》|Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior|Kerry Patterson
+45.《物理和心理：内在驱动力和真实世界》|Quantum Psychology|Robert Anton Wilson
+46.《彻底打败习惯：改变你的思想定势，创造不同的自己》|Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One|Joe Dispenza
+47.《行动开启智慧：我们如何从享乐中学到爱和盼望》|Smarter Faster Better: The Transformative Power of Real Productivity|Charles Duhigg
+48.《移动心理学：移动设备带给我们的千变万化和无限可能》|Mobile Psychology: Appreciating Mobile Devices as a Source of Innovation|Simon Robinson
+49.《明智地习惯：越变越好》|The Power of Habit: Why We Do What We Do in Life and Business|Charles Duhigg
+50.《从猴群到人类：论人类的进化》|The Naked Ape: A Zoologist's Study of the Human Animal|Desmond Morris

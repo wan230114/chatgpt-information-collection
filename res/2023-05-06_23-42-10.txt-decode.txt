@@ -1,0 +1,50 @@
+1.《人月神话》|The Mythical Man-Month：Essays on Software Engineering|弗雷德里克·布鲁克斯
+2.《卓有成效的管理者》|The Effective Executive：The Definitive Guide to Getting the Right Things Done|彼得·德鲁克
+3.《8小时工作制的崩溃》|Why Work Sucks and How to Fix It：No Schedules, No Meetings, No Joke, the Simple Change That Can Make Your Job Terrific|卢泽尔·格罗汉姆
+4.《认知偏见》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+5.《团队协作的五大障碍》|The Five Dysfunctions of a Team：A Leadership Fable|派特里克·林西奇
+6.《增长黑客》|Growth Hacker Marketing：A Primer on the Future of PR, Marketing, and Advertising|赖安·霍利迪
+7.《乌合之众》|The Crowd：A Study of the Popular Mind|古斯塔夫·勒庞
+8.《文明的冲突》|The Clash of Civilizations and the Remaking of World Order|塞缪尔·P. 亨廷顿
+9.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+10.《商业模式新生代》|Business Model Generation：A Handbook for Visionaries, Game Changers and Challengers|亚历山大·奥斯特瓦尔德
+11.《创新者的窘境》|The Innovator's Dilemma：When New Technologies Cause Great Firms to Fail|克莱顿·克里斯坦森
+12.《裂变》|Traction：How Any Startup Can Achieve Explosive Customer Growth|加布里·韦恩伯格
+13.《个人资本论》|The Personal MBA：Master the Art of Business|乔希·考夫曼
+14.《首席执行官的工作》|What the CEO Wants You to Know：How Your Company Really Works|拉米·查兰
+15.《极简力量法则》|The 5 Elements of Effective Thinking|爱德华·博尼特
+16.《思考的力量》|The Power of Positive Thinking|诺曼·文斯
+17.《领导力》|Leadership|詹姆斯·麦格雷戈
+18.《付费模型》|Monetizing Innovation：How Smart Companies Design the Product Around the Price|马斯克·卡森
+19.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+20.《原则》|Principles：Life and Work|雷·达里欧
+21.《创业维艰》|The Hard Thing About Hard Things：Building a Business When There Are No Easy Answers|本·霍洛维茨
+22.《团队导向用户体验设计》|Sprint：How to Solve Big Problems and Test New Ideas in Just Five Days|杰克·诺奇
+23.《大教堂与集市》|The Cathedral and the Bazaar：Musings on Linux and Open Source by an Accidental Revolutionary|埃里克·雷蒙德
+24.《刻意练习》|Peak：Secrets from the New Science of Expertise|安德斯·艾力克森
+25.《设计思维》|Design Thinking for Strategic Innovation：What They Can't Teach You at Business or Design School|伊沃·罗森斯坦
+26.《无情的竞争》|The Science of Selling：Proven Strategies to Make Your Pitch, Influence Decisions, and Close the Deal|大卫·霍夫曼
+27.《现象与本质》|The Phenomenon and the Noumenon of the Human Soul：A Study in the Reality of Being|托马斯·莫尔
+28.《智慧企业》|The Intelligent Enterprise：A Knowledge and Service Based Paradigm for Industry|詹姆斯·布赖恩特·奎因
+29.《成功的基础》|The 7 Habits of Highly Effective People：Powerful Lessons in Personal Change|斯蒂芬·柯维
+30.《沟通的艺术》|Crucial Conversations：Tools for Talking When Stakes Are High|凯瑟琳·帕特森
+31.《元气工作法》|The Energy Bus：10 Rules to Fuel Your Life, Work, and Team with Positive Energy|约翰·戴顿
+32.《精益创业》|The Lean Startup：How to Continuously Innovate and Create Radically Successful Businesses|埃里克·里斯
+33.《人才是唯一资本》|Talent Is overrated：What Really Separates World-Class Performers from Everybody Else|杰夫·科利文
+34.《思考的智慧》|The Art of Thinking Clearly：Better Thinking, Better Decisions|罗尔夫·道伯
+35.《一本小书，看得懂的经济学》|The Undercover Economist：Exposing Why the Rich Are Rich, the Poor Are Poor-and Why You Can Never Buy a Decent Used Car!|蒂姆·哈福德
+36.《月亮屋的小女孩》|The Woman in the Moonlight House|王小波
+37.《积极领导力》|Leaders Eat Last：Why Some Teams Pull Together and Others Don't|西蒙·西涅克
+38.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+39.《非暴力沟通》|Nonviolent Communication：A Language of Life|马歇尔·卢森伯格
+40.《移动优先》|Mobile First|卢克·韦布
+41.《商业思维》|Thinking in Enterprise Architecture|芬科·玛等红利
+42.《良性竞争》|Red Teaming：How Your Business Can Conquer the Competition by Challenging Everything|布鲁特斯·科维
+43.《行动心理学》|Nudge：Improving Decisions About Health, Wealth, and Happiness|理查德·塞勒、卡斯·阳格
+44.《动机相对论》|Drive：The Surprising Truth About What Motivates Us|丹尼尔·平克
+45.《智能物联网》|Building the Internet of Things：Implement New Business Models, Disrupt Competitors, Transform Your Industry|马克·斯通哈姆
+46.《学会自律》|The Willpower Instinct：How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯利·麦格尼格尔
+47.《未来是哪些人创造出来的》|Who Owns the Future?|吉伦·兰尼尔
+48.《谈心与检验》|Crucial Conversations：Tools for Talking When Stakes Are High|凯瑟琳·帕特森、约瑟夫·格林
+49.《跨越理性与感性的胡同》|The Tao of Leadership：Lao Tzu's Tao Te Ching Adapted for a New Age|约翰·海克曼
+50.《彻底改变创造力的源泉》|The Creative Habit：Learn It and Use It for Life|特妮·摩根。

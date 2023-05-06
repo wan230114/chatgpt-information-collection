@@ -1,0 +1,50 @@
+1. 《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+2. 《万物简史》|A Short History of Nearly Everything|比尔·布莱森
+3. 《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+4. 《黑天鹅：如何应对不可预知的未来》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+5. 《双城记》|A Tale of Two Cities|查尔斯·狄更斯
+6. 《道德经》|The Tao Te Ching|老子
+7. 《论语》|The Analects of Confucius|孔子
+8. 《君主论》|The Prince|尼可罗·马基雅维利
+9. 《1984》|1984|乔治·奥威尔
+10. 《动物农场》|Animal Farm|乔治·奥威尔
+11. 《失控》|Out of Control: The New Biology of Machines, Social Systems, and the Economic World|凯文·凯利
+12. 《六度分离》|Six Degrees: The Science of a Connected Age|邓巴·沙修根
+13. 《第三波》|The Third Wave|艾尔文·托夫勒
+14. 《极简宇宙史》|Astrophysics for People in a Hurry|尼尔·德格拉斯·泰森
+15. 《获得悟性的艺术》|The Art of Possibility|罗塔·泽夫·贝恩与本杰明·扎德
+16. 《行动的勇气》|The Courage to Act|本·伯南克
+17. 《深度学习》|Deep Learning|伊恩·古德费洛
+18. 《你一定爱读的极简经济学》|The Undercover Economist|蒂姆·哈福德
+19. 《茶花女》|La Dame aux Camélias|亚历山大·杜马
+20. 《蝇王》|Lord of the Flies|威廉·戈尔丁
+21. 《我们身处的世界》|The World We Live In|世界自然基金会
+22. 《禅者的初心》|The Heart of the Buddha's Teaching|图·南·汉
+23. 《金字塔原理》|The Pyramid Principle: Logic in Writing and Thinking|芭芭拉·明托
+24. 《倾城之恋》|Love in a Fallen City|张爱玲
+25. 《伦敦眼中的中国》|Wild Swans: Three Daughters of China|张艺谋
+26. 《山居笔记》|Notes from the Mountains|陈寅恪
+27. 《资本论》|Das Kapital|卡尔·马克思
+28. 《社会心理学》|Social Psychology|大卫·迈尔斯
+29. 《物种起源》|On the Origin of Species|查尔斯·达尔文
+30. 《复杂的简单》|Complexity: A Guided Tour|梅兰·布什
+31. 《精神分析导论》|The Psychopathology of Everyday Life|西格蒙德·弗洛伊德
+32. 《心理学词典》|The Penguin Dictionary of Psychology|阿瑟·萨尔尼克
+33. 《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+34. 《自卑与超越》|The Art of Loving|埃里希·弗洛姆
+35. 《论人类不平等的起源和基础》|Discourse on the Origin and Basis of Inequality Among Men|让-雅克·卢梭
+36. 《趋势新方向》|The Next Convergence|玛丽·康迪斯
+37. 《演化的故事：生命如何起源并演变至今》|The Story of Life in 25 Fossils: Tales of Intrepid Fossil Hunters and the Wonders of Evolution|唐·普罗瑟罗
+38. 《心理善恶之源》|The Lucifer Effect: Understanding How Good People Turn Evil|菲利普·津巴多
+39. 《超级预测：为什么我们信任专家，却总是被他们误导》|Superforecasting: The Art and Science of Prediction|菲利普·泰特洛克
+40. 《迎接新文明》|The Third Millennium: A History of the World, AD 2000-3000|布赖恩·斯泰布尔
+41. 《纳尔逊曼德拉自传》|Long Walk to Freedom|纳尔逊·曼德拉
+42. 《魏晋南北朝诗选》|The Penguin Book of Chinese Verse|罗兰·巴特
+43. 《人类未来》|Homo Prospectus|马丁·塞利格曼
+44. 《数学之美》|The Beauty of Numbers in Nature: Mathematical Patterns and Principles from the Natural World|伊安·斯图尔特
+45. 《科学大故事》|The Great Story: A Journey Through the Cosmos|罗伯特·莫里斯
+46. 《金融市场的随机漫步》|A Random Walk Down Wall Street|伯顿·马尔基尔
+47. 《当善良成为风险：帮助他人的科学和实践》|The Power of Goodness: The Science and Practice of Helping Others|帕迪·奥斯汀
+48. 《智慧力》|The Power of Intentionality: How to Use Your Mind for Business and Personal Success|托尼·罗宾斯
+49. 《解读人类智慧的密码》|The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides|梅拉尼·吉南德拉
+50. 《成为怪才的秘密》|The Talent Code: Greatness Isn't Born. It's Grown. Here's How.|丹尼尔·科伊尔

@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《社会智慧》|Social Intelligence|丹尼尔·戈尔曼
+3.《情商》|Emotional Intelligence|丹尼尔·戈尔曼
+4.《有效思考》|Effective Thinking|爱德华·B·邦尼
+5.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+6.《七种思维》|The 7 Habits of Highly Effective People|史蒂芬·柯维
+7.《认知偏差》|The Art of Thinking Clearly|罗尔夫·多贝利
+8.《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+9.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+10.《心流》|Flow: The Psychology of Optimal Experience|米哈里·契克森米哈伊
+11.《利用边缘思维大概率识别未来》|The Signal and the Noise: Why So Many Predictions Fail–but Some Don't|纳特·席尔弗
+12.《生命3.0》|Life 3.0: Being Human in the Age of Artificial Intelligence|马克·赫舍尔
+13.《墨菲定律》|Murphy's Law: And Other Reasons Why Things Go Wrong|阿瑟·布洛克
+14.《黑客与画家》|Hackers and Painters: Big Ideas from the Computer Age|保罗·格雷厄姆
+15.《非暴力沟通》|Nonviolent Communication: A Language of Life|马歇尔·卢森堡
+16.《思维的乐趣》|The Joy of Thinking: The Beauty and Power of Classical Mathematical Ideas|斯蒂芬·格罗斯
+17.《把时间当做朋友》|Make Time: How to Focus on What Matters Every Day|杰克·柯莱菲尔德
+18.《失控》|Out of Control: The New Biology of Machines, Social Systems and the Economic World|凯文·凯利
+19.《破茧成蝶》|The Power of Vulnerability: Teachings on Authenticity, Connection and Courage|布伦·布朗
+20.《未来简史》|Homo Deus: A Brief History of Tomorrow|尤瓦尔·赫拉利
+21.《社会动物》|Social Animal: How the New Sciences of Human Nature Can Help Make Sense of a Life|大卫·布鲁克斯
+22.《一心参与》|Fully Engaged: Using the Practicing Mind in Daily Life|托马斯·斯特恩
+23.《心智的经济学》|The Mind and the Market: Capitalism in Western Thought|詹姆斯·B·克莱儿
+24.《管理大师们》|The One Minute Manager|肯·布兰查德
+25.《认知行为疗法：基础与实践》|Cognitive-Behavioral Therapy: Basics and Beyond|Judith S. Beck
+26.《斯多克利的抉择》|Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts|安妮·杜克
+27.《做事必须有方法》|The 10X Rule: The Only Difference Between Success and Failure|格兰特·卡迈克
+28.《行动的艺术：创造者们的秘密》|The Art of Possibility: Transforming Professional and Personal Life|罗斯·齐金曼
+29.《生命之书》|The Book of Life: Daily Meditations with Krishnamurti|克里希那穆提
+30.《人性的弱点2》|How to Stop Worrying and Start Living|戴尔·卡耐基
+31.《创新者的窘境》|The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail|克雷頓·克莱斯顿
+32.《逻辑思维训练》|How to Read a Book|莫提默·J·艾德勒
+33.《重构工作》|ReWork: Change the Way You Work Forever|杰森·弗里德和大卫·海涅麦耶
+34.《创意灵感的神秘力量》|The War of Art: Break Through the Blocks & Win Your Inner Creative Battles|史蒂文·普雷斯菲尔德
+35.《自学是门手艺：如何保持好奇心，拥抱变化与成长》|The Art of Self-Directed Learning: 23 Tips for Giving Yourself an Unconventional Education|布莱克·沙罗
+36.《联系：神经科学告诉我们如何建立人际关系》|Social: Why Our Brains Are Wired to Connect|马修·李伯曼
+37.《创意思维的七堂课》|A Whack on the Side of the Head: How You Can Be More Creative|罗杰·冯·奥切等
+38.《重新定义公司》|Reinventing Organizations: An Illustrated Invitation to Join the Conversation on Next-Stage Organizations|弗雷德里克·勒鲁他尔等
+39.《思维的定势》|Mindset: The New Psychology of Success|卡罗尔·S·德维克
+40.《人格心理学手册》|Handbook of Personality Psychology|劳里·波尔斯、约翰 ·奥兹本等
+41.《日本人为什么这么聪明》|The Japan That Can Say No: Why Japan Will Be First Among Equals|奥赛美常、吉田修旧
+42.《分手的艺术》|The Art of Breaking Up: When and How to Let Go of Someone You Loved|拉佛·西里塞纳
+43.《你觉得多聪明，你就会多聪明》|Mindset: The Power of Your Thoughts in Building Your Life|大卫·J·利本
+44.《赤脚心理学》|Barefoot: A Story of Mindfulness, Connection, and a Personal Journey on Two Feet|占碧华
+45.《启示录》|The Revelation of Jesus Christ: A Commentary|Peter J. Leithart
+46.《十分钟的专注力》|Focus: The Power of the Hidden Driver of Excellence|丹尼尔·丰登堡
+47.《追梦课》|The Dream Manager|马修·凯利
+48.《开放公共场所导论》|The Open Public Space (INTERIORS)|Melissa Spirito
+49.《螺旋：达芬奇、赋形与自然之道》|Spirals: The Whirl of Da Vinci, Form and Nature's Way|菲利普·J.波林斯
+50.《Me Too and the Public History of Rape: One Survivor's Story》|Liz A. Gray

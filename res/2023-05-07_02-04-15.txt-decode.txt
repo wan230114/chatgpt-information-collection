@@ -1,0 +1,69 @@
+心理学：
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《幸福的密码》|The Happiness Advantage|肖恩·艾克
+3.《刻意练习》|Peak: Secrets from the New Science of Expertise|安德斯·爱利克森
+4.《奇思妙想的力量》|The Power of Moments|丹·海思和芒·查普·希思
+5.《自控力》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯利·麦戈尼格尔
+
+行为经济学：
+6.《行为经济学纲要》|Misbehaving: The Making of Behavioral Economics|理查德·塞勒
+7.《不安全的稳定态》|The Unstable State of the Mind|丹尼尔·卡尼曼
+8.《快乐的钢铁侠》|Happy Money: The Science of Happier Spending|伊丽莎白·邓恩和迈克尔·诺顿
+9.《选择的艺术》|The Art of Choosing|谢纳·易卜拉欣
+10.《关键决策》|Decisive: How to Make Better Decisions|丹·海思和芒·查普·希思
+
+神经科学：
+11.《思维潜能的开发》|The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science|诺曼·多伊奇
+12.《大脑解密》|Incognito: The Secret Lives of the Brain|大卫·伯纳和斯科特·芬卡
+13.《人类行为的神经科学》|Social: Why Our Brains Are Wired to Connect|马修·李卡
+14.《深度被动》|Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特
+15.《灯塔原理》|The Lighthouse Principle: Discovering the Wholeness in Our Disconnected World|丹尼尔·古尔曼
+
+心理学和神经科学：
+16.《道德状态》|The Righteous Mind: Why Good People Are Divided by Politics and Religion|乔纳森·海特
+17.《依恋的天然与人造》|The Natural History of Love|道格拉斯·海曼
+18.《所谓性格》|Personality: What Makes You the Way You Are|丹尼尔·尼特
+19.《毒品的古老心理》|The Ancient Psychedelic Revival: Speculations on the Psychedelic Ayahuasca and Silent Lacuna|珍妮弗·哈珀
+20.《脑萎缩的逆转与宽恕神经科学》|Rewire Your Brain for Love: Creating Vibrant Relationships Using the Science of Mindfulness|马乔丽·卡安
+
+社会学和历史：
+21.《霸权的崛起》|The Rise of the New Global Elite|查尔斯·默里
+22.《回忆自由》|The Memory Keeper's Daughter|金·爱德华兹
+23.《文章》|Between the World and Me|泰·纳赛考茨
+24.《白人优越感》|White Fragility: Why It's So Hard for White People to Talk About Racism|罗宾·迪安松
+25.《延迟的正义》|Delaying Justice: Race, Identity, and Learning in Durban, South Africa and Beyond|加文·库克
+
+历史和社会心理学：
+26.《卢旺达的呼声》|Left to Tell: Discovering God Amidst the Rwandan Holocaust|伊曼纽尔·伊万达
+27.《扼杀自由：一部20世纪美国恐怖故事》|Killers of the Flower Moon: The Osage Murders and the Birth of the FBI|大卫·格兰
+28.《种族偏见》|Race Debunked: Science and Culture Refuted|哥伦布·奎尔
+29.《带我们走向光明：内在变革》|A Place to Walk: A Spiritual Journey into the Heart of Nature|克里斯汀娜·阿德尔曼
+30.《眼中的希望》|The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design|理查德·道金斯
+
+社会心理学和政治学：
+31.《理性乐观主义与全球和平的实现》|The Rational Optimist: How Prosperity Evolves|马特·里德利
+32.《不和平社会》|Unequal Democracy: The Political Economy of the New Gilded Age|劳伦斯·博兹和凯文·克鲁德
+33.《引向正义的修辞学》|Anger and Forgiveness: Resentment, Generosity, Justice|玛莎·奥尔布勒希特
+34.《识别失误与决策殃及全球》|On Thin Ice: The Changing World of the Polar Bear|杰恩·斯图尔特
+35.《理性的反乌托邦》|Utopia as Method: The Imaginary Reconstitution of Society|安德列·格兰德
+
+社会心理学和文化研究：
+36.《文化创伤与哀悼》|Culture and Trauma: An Exploration of Methodologies|凯瑟琳·迪民尼
+37.《强奸与社会：一种性别的政治分析》|Against Our Will: Men, Women, and Rape|苏珊·布朗米勒
+38.《文化模式的批判：一种人类学实践》|Small Places, Large Issues: An Introduction to Social and Cultural Anthropology|托马斯·海登
+39.《历史、文化和危机的社会心理学》|Psychology of Crisis and History: Cross-Cultural and Historical Perspectives|Stefanose
+40.《全球化时代的移民文化》|The Accidental American: Immigration and Citizenship in the Age of Globalization|Rinku Sen
+
+社会学和互联网科技：
+41.《数字社会学》|Digital Sociology|凯特·奥登厄姆
+42.《国家数字计划的发展》|Code and Other Laws of Cyberspace: Version 2.0|劳伦斯·莱斯斯格
+43.《计算与社会》|Computers and Society: Computing for Good|Antonella Caruso
+44.《电子政务概论》|Introduction to E-Government and E-Governance: Concepts, Policies and Case Studies|舒凯和塔里克·赛义德
+45.《社交媒体与社会力量》|Social Media and Social Power|查尔斯·特盖尔
+
+经济学和政治学：
+46.《抗争的身份》|Identity: Unknown Battles of Survival, Trauma, and Resistance|阿吉·哈克
+47.《中国如何掌控世界》|The Future is Asian: Commerce, Conflict and Culture in the 21st Century|帕里格·库马拉萨米
+48.《经济学之父》|The Wealth of Nations: A Translation into Modern English|亚当·斯密
+49.《奥巴马时代的失落工人》|Strangers in Their Own Land: Anger and Mourning on the American Right|阿鲁·雷内·塞克斯顿
+50.《道德经济学》|The Moral Economy: Why Good Incentives are No Substitute for Good Citizens|塞缪尔·鲍尔斯 and Ann Florini

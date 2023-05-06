@@ -1,0 +1,50 @@
+1. 《思考，快与慢》Thinking, Fast and Slow|丹尼尔·卡尼曼|Daniel Kahneman
+2. 《乌合之众》The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞|Gustave Le Bon
+3. 《组织行为学》Organizational Behavior|斯蒂芬·罗宾斯|Stephen P. Robbins
+4. 《动机与人格》Motivation and Personality|亚伯拉罕·马斯洛|Abraham Maslow
+5. 《Emotional Intelligence》情商|丹尼尔·戈尔曼|Daniel Goleman
+6. 《人性的弱点》How to Win Friends and Influence People|戴尔·卡耐基|Dale Carnegie
+7. 《国民性论》A Study of History By Toynbee|阿诺德·汤因比|Arnold Toynbee
+8. 《评估中的社会认知》Social Cognition in Assessment and Treatment|瑞秋·芬克尔斯坦|Rachel Finkelstein
+9. 《长尾理论》The Long Tail: Why the Future of Business is Selling Less of More|克里斯·安德森|Chris Anderson
+10. 《非暴力沟通》Nonviolent Communication: A Language of Life|马歇尔·卢森堡|Marshall B. Rosenberg
+11. 《影响力》Influence: The Psychology of Persuasion|罗伯特·西奥迪尼|Robert Cialdini
+12. 《金融领域的行为金融学》Behavioral Finance：Psychology, Decision-Making, and Markets|彼得·纳维罗|Peter Navarro
+13. 《选举心理学》The Political Brain: The Role of Emotion in Deciding the Fate of the Nation|德鲁·韦斯特恩|Drew Westen
+14. 《时间简史》A Brief History of Time|斯蒂芬·霍金|Stephen Hawking
+15. 《生物黑匣子》The Hidden Brain: How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives|肖恩·奥康纳|Shankar Vedantam
+16. 《蝴蝶效应》The Butterfly Effect: How Your Life Matters|安迪·安德鲁斯|Andy Andrews
+17. 《人类群体的智慧》The Wisdom of Crowds|詹姆斯·苏罗威克|James Surowiecki
+18. 《我们为什么这样做？》Switch: How to Change Things When Change Is Hard|丹·希思和克里普·希思|Chip Heath and Dan Heath
+19. 《智者的悲哀》The Solitude of Prime Numbers|帕乌罗·吉安佐利|Paolo Giordano
+20. 《第六感：感知未来的艺术》The Sixth Sense: Perceiving the Future|科雷利娅·冈萨雷斯|Coralia Gonzalez
+21. 《认知行为疗法》Cognitive Behavior Therapy, Second Edition: Basics and Beyond|Judith S. Beck
+22. 《精神卫生教育中的社会学、心理学及哲学》Sociology, Psychology and Philosophy of Mental Health Education|徐建明|Xu Jianming
+23. 《身心一体化的基础——人类学视角》The Foundations of Embodied Mind: Humanization from an Anthropological Perspective|舒仲毅|Shu Zhongyi
+24. 《人类登录：一场预测智能引发的新革命》The Human Algorithm: How Humans Capitalize on Predictive Intelligence to Launch a Revolution|斯图尔特·拉塞尔|Stuart Russell
+25. 《非理性繁荣》Irrational Exuberance|罗伯特·希勒|Rober J. Shiller
+26. 《政治心理学》Political Psychology|大卫·奥斯洛|David O. Sears
+27. 《企业认知》Organizational Cognition: Computation and Interpretation|怀博德·珀斯特|Herbert A. Simon
+28. 《弱视觉及其神经机制》Amblyopia: Neural Mechanisms and Treatment Strategies|朱果成|Zhu Guocheng
+29. 《社交认知和荒唐》Social Cognition and Absurdity|黄苏州|Huang Suzhou
+30. 《弱视觉认知及其应用研究》Research on Low Vision Cognition and Its Application|莫甘|Mo Gan
+31. 《海洋社会心理学》Maritime Social Psychology|唐育斌|Tang Yubin
+32. 《认知科学姿态下的语音研究——逻辑学和哲学的基础》Research on Speech from the Perspective of Cognitive Science: Foundations in Logic and Philosophy|贾哲明|Jia Zheming
+33. 《工程认知心理学》Engineering Cognitive Psychology|区永刚|Qu Yonggang
+34. 《网络行为心理学》Internet Behavior Psychology|贺梦霞|He Mengxia
+35. 《视觉与认知的发展关系研究》Research on the Relationship between Vision and Cognition Development|郑骏|Zheng Jun
+36. 《积极心理学——发现人生的意义、创造更美好的健康、生活和工作》Positive Psychology: Discovering the Meaning of Life, Building Healthier Living, and Working|马丁·塞利格曼|Martin Seligman
+37. 《认知神经科学的发展与应用》Development and Applications of Cognitive Neuroscience|祁萍|Qi Ping
+38. 《认知心理学——一本入门教材》Cognitive Psychology: An Introduction|E. Bruce Goldstein
+39. 《人因工程的理论与应用》Theory and Application of Human Factors Engineering|梁玉琴|Liang Yuqin
+40. 《心灵探秘》A Journey into the Mystery of the Mind|瑞茜·琼斯|Reese Jones
+41. 《社会心理学与人际关系》Social Psychology and Interpersonal Relationships|岳文泉|Yue Wenquan
+42. 《边缘认知与文化经验》Peripheral Cognition and Cultural Experience|何冀辉|He Jihui
+43. 《认知发展与教育》Cognitive Development and Education|岳平|Yue Ping
+44. 《自我概念与个体差异的认知心理学》Cognitive Psychology of Self-Concept and Individual Differences|格雷戈里·费斯特|Gregory J. Feist
+45. 《科学的哲学——认知科学的综合研究》Philosophy of Science: A Comprehensive Study of Cognitive Science|唐成义|Tang Chengyi
+46. 《视觉与认知心理学》Visual and Cognitive Psychology|方捷|Fang Jie
+47. 《认知社会学:人类的认知与社会环境的互动》Cognitive Sociology: The Interaction of the Human Mind and Social Environment|范恒勇|Fan Hengyong
+48. 《人倾向于去买又去卖的东西》Buying, Selling, and Happiness: How We Spend Time and Money and Create Meaning in Modern Life|拉文·阿拉文|Lavin Aravind
+49. 《易经中的认知神秘性研究》Study on the Cognitive Mystery of the Book of Changes|樊学明|Fan Xueming
+50. 《反认知：解构人类自觉性》Anticognition: Deconstructing Human Consciousness|陈峰|Chen Feng

@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔•卡尼曼（Daniel Kahneman）
+2.《付出，得到：生命赚钱的道理》|Give and Take: Why Helping Others Drives Our Success|亚当•格兰特（Adam Grant）
+3.《心理学与生活》|Psychology and Life|理查德•格里格（Richard Gerrig）
+4.《领导心理学》|Leadership Psychology: How the Best Leaders Inspire Their People|斯蒂芬•J•鲍尔（Stephen J. Boyle）
+5.《执行力：执行策略与时间管理》|Execution: The Discipline of Getting Things Done|拉里•卡鼎（Larry Bossidy）和拉姆•查兰（Ram Charan）
+6.《孤独的力量》|The Power of Loneliness: How to Find Happiness and Health in Moments of Solitude|斯蒂夫•卡科科（Steve Kakolack）
+7.《行动科学》|The Science of Action: How to Follow Through on Your Goals and Achieve Success|皮特•高马克（Pete Greig）
+8.《影响力》|Influence: The Psychology of Persuasion|罗伯特•西奥迪尼（Robert Cialdini）
+9.《改变习惯》|The Power of Habit: Why We Do What We Do in Life and Business|查尔斯•杜希格（Charles Duhigg）
+10.《认知能力和学习》|Cognitive Abilities and Learning|约翰•瓜兹克（John Guazzelli）
+11.《问题解决与决策：内隐心理学的视角》|Problem Solving and Decision Making: The Implicit Psychological Perspective|约翰•C•莫瑞斯（John C. Mowen）
+12.《刻意练习》|Peak: Secrets from the New Science of Expertise|安德斯•艾里克森（Anders Ericsson）和罗伯特•普尔（Robert Pool）
+13.《掌控情绪》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔•戈尔曼（Daniel Goleman）
+14.《优秀的团队》|The Five Dysfunctions of a Team: A Leadership Fable|帕特里克•莱东尼（Patrick Lencioni）
+15.《改变：结构性思维与动态工作的设计》|Change：Principles of Problem Formation and Problem Resolution|保罗•温肯（Paul Watzlawick）等
+16.《快速判断力：如何做出快速而准确的决策》|Blink: The Power of Thinking Without Thinking|马尔科姆•格拉德威尔（Malcolm Gladwell）
+17.《自控心理学》|Self-Control: Theory, Research, and Applications|罗伯特•菲兹杰拉德（Robert F. Baumeister）和马克•墨菲（Mark Muraven）
+18.《思维融合》|Thinking in Systems: A Primer|唐娜•梅多（Donella Meadows）
+19.《集体智慧》|Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations|詹姆斯•苏里（James Surowiecki）
+20.《学习如何学习》|Make It Stick: The Science of Successful Learning|彼得•布朗（Peter C. Brown）等
+21.《领导博弈》|Games Leaders Play: 50 Great Leaders and Their Authentic Competitiveness|柯林•麦路克（Colin McRae）
+22.《非暴力沟通》|Nonviolent Communication: A Language of Life|马歇尔•卢森伯格（Marshall B. Rosenberg）
+23.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔•赫拉利（Yuval Noah Harari）
+24.《引爆点》|The Tipping Point: How Little Things Can Make a Big Difference|马尔科姆•格拉德威尔（Malcolm Gladwell）
+25.《思考的艺术》|The Art of Thinking Clearly|罗尔夫•多贝利（Rolf Dobelli）
+26.《极简心理学》|Psychology: A Simple Guide to the Most Important Insights and Theories in Psychology|阿尔伯特•弗格森（Albert Ferguson）
+27.《演讲的力量》|Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds|卡梅隆•赫伯尔特（Carmine Gallo）
+28.《极限领导力》|Leadership and Self-Deception: Getting Out of the Box|阿伦•拉市曼（Arbinger Institute）
+29.《开眼看世界：15位智慧大师的思考方式》|Insight: Reflections on the Gifts of Being an Introvert|苏珊•凯恩（Susan Cain）
+30.《逆生长：后物质时代的哲学》|Antifragile: Things That Gain from Disorder|纳西姆•尼古拉斯•塔勒布（Nassim Nicholas Taleb）
+31.《亲密关系》|Intimate Relationships|托马斯•布拉德伯利（Thomas Bradbury）和珍妮弗•霍斯曼（Benjamin Karney）
+32.《善意的谎言：为什么我们总是误判心情，却又相信自己是正确的》|Honest Lies：Why We Lie to Each Other and Ourselves|丹尼尔•奥吉尔维（Dan Ariely）
+33.《深度思考：批判性思维的艺术和科学》|Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins|加里•卡斯帕罗夫（Garry Kasparov）
+34.《交际要则》|How to Win Friends and Influence People|戴尔•卡耐基（Dale Carnegie）
+35.《认知失调》|Cognitive Dissonance|里昂•费斯廷李奇（Leon Festinger）
+36.《最好的我们：中国青年话题报告》|The Best of Us: China Youth Trends Report|2019 中国青年政治学院调查中心
+37.《快速学习》|Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career|斯科特•杨（Scott H. Young）
+38.《帅出新高度：从外貌到内涵，离成功更近》|The Style Bible: What to Wear to Work|祝达龙（Dalon Zhu）
+39.《习惯小事：小改变带来大变化》|Better Than Before: What I Learned About Making and Breaking Habits-to Sleep More, Quit Sugar, Procrastinate Less, and Generally Build a Happier Life|格蕾琴•鲁本（Gretchen Rubin）
+40.《黑箱思维：决策思考的逻辑》|Black Box Thinking: The Surprising Truth About Success|马修•赫兰（Matthew Syed）
+41.《社交秘技》|The Art of Socializing: Building More Meaningful and Effective Relationships|安德鲁•乔丹（Andrew Jordan）
+42.《完美行动：掌控你的时间，完美你的行动》|The Perfect Day Formula: How to Own the Day and Control Your Life|克雷格•巴利曼（Craig Ballantyne）
+43.《慢思考的艺术》|Thinking, Fast and Slow: Your Guide to Smarter Decision Making|丹尼尔•卡尼曼（Daniel Kahneman）
+44.《绝对时间:超越时间束缚的奥秘》|The Time Paradox: The New Psychology of Time That Will Change Your Life|菲利普•齐格纳（Philip Zimbardo）和约翰•J•博因（John Boyd）
+45.《如何让婚姻更美好》|Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert|约翰•戈特曼（John M. Gottman）和妮娜•西尔弗（Nan Silver）
+46.《洒脱人生》|The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life|马克•曼森（Mark Manson）
+47.《清晰思考的艺术》|The Elements of Thinking in Systems: Use Systems Archetypes to Understand, Manage, and Fix Complex Problems and Make Smarter Decisions|阿尔伯特•罗梅罗（Albert Rutherford）
+48.《爱如渴》|The 5 Love Languages: The Secret to Love that Lasts|加里•查普曼（Gary Chapman）
+49.《思考的机器：如何重塑人类与人工智能的未来》|The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World|佩德罗•多明戈斯（Pedro Domingos）
+50.《自控力：抵制即时满足，战胜恶习，成为更好的你》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯利•麦格尼格尔（Kelly McGonigal）

@@ -1,0 +1,50 @@
+1.《奇特的一生》|The Immortal Life of Henrietta Lacks|瑞贝克嘉德
+2.《超众凡人》|Outliers: The Story of Success|马尔科姆·格莱德威尔
+3.《乌合之众：大众心理研究》|The Crowd: A Study of the Popular Mind|勒庞
+4.《失控》|Out of Control: The New Biology of Machines, Social Systems, & the Economic World|凯文凯利（Kevin Kelly）
+5.《陷阱效应：如何规避成见、偏见和思维误区》|Thinking, Fast and Slow|丹尼尔·卡尼曼（Daniel Kahneman）
+6.《他们最幸福：大数据揭示生命真正的秘密》|The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work|肖恩·阿克
+7.《贫穷的本质：为什么贫穷总是跟着我们走》|Poor Economics: A Radical Rethinking of The Way to Fight Global Poverty|艾斯特·杜芙洛
+8.《生命3.0》|Life 3.0: Being Human in the Age of Artificial Intelligence|马克思·提欧尔
+9.《洗脑术》|Influence: The Psychology of Persuasion|罗伯特·西奥迪尼(Robert Cialdini)
+10.《数字文化》|Society of The Mind|马文·明斯基(Marvin Minsky)
+11.《连接》|Linked: The New Science of Networks|艾尔伯特·拉斯洛·巴拉巴西
+12.《看不见系统的人》|The Design of Everyday Things|唐纳德·诺曼(Don Norman)
+13.《疯狂的人类进化史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利(Yuval Noah Harari)
+14.《沉默的春天》|Silent Spring|瑞切尔·卡森
+15.《突破媒介万障》|The Medium is The Massage|马歇尔·麦克卢汉
+16.《激进行动的力量》|Drive: The Surprising Truth About What Motivates Us|丹尼尔·平克(Daniel Pink)
+17.《繁荣社会的隐秘结构》|The Hidden Order of The Prosperity Society|戴维·弗里德曼
+18.《魔鬼藏在细节里》|The Devil's in The Details|索恩·宾伯格(Sönke Ahrens)
+19.《岛塞门传说》|The Island of The Day Before|乌贝尔托·艾柯
+20.《领导力》|Leadership|詹姆斯·麦格雷果(James MacGregor Burns)
+21.《深度心理学》|Depth Psychology and a New Ethic|埃里希·弗罗姆
+22.《时间的礼物》|A Time to Live and A Time to Die|贺知章
+23.《深入人心》|The Heart of Man|埃里希·弗罗姆
+24.《观察日记》|Diary of Anais Nin|阿娜伊丝·宁
+25.《人类简史》|Homo Sapiens|尤瓦尔·赫拉利(Yuval Noah Harari)
+26.《想法：关于创意的心理学》|The Psychology of Creativity|罗伯特·威斯曼
+27.《大教堂与集市》|Cathedral and The Bazaar|埃里克·雷蒙德
+28.《自控力》|The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|凯莉·麦格尼格尔
+29.《为什么不同的文化习俗使人发挥出不同的潜力》|Whistling Vivaldi: And Other Clues to How Stereotypes Affect Us|克劳德·斯蒂尔
+30.《简明逻辑》|A Rulebook for Arguments|安东尼·韦斯特",
+31.《对话的力量》|The Power of Dialogue|威廉·以利斯
+32.《复杂性思维》|Complexity: A Guided Tour|梅拉妮·米歇尔
+33.《看不见的门：社交心理学课程》|The Social Animal|大卫·布鲁克斯
+34.《慢技术：反设计的权利》|Slow Tech: Manifesto for an Over-wound World|安德鲁·希金斯
+35.《如何读一本书》|How to Read a Book|莫提默·E·艾德勒
+36.《厚黑学》|The Thick Black Theory|黄沾
+37.《科技的恶魔》|The Demon in The Machine: How Hidden Webs of Information Are Finally Solving the Mystery of Life|保罗·戴维茨
+38.《转折点》|The Tipping Point|马尔科姆·格莱德威尔
+39.《黑天鹅》|The Black Swan: The Impact of The Highly Improbable|纳西姆·尼古拉斯·塔勒布
+40.《第五项修炼》|The Fifth Discipline: The Art & Practice of The Learning Organization|彼得·圣吉
+41.《如何看到帝国的新服装》|How to See The World: An Introduction to Images, from Self-Portraits to Selfies, Maps to Movies, and More|尼古拉斯·米尔诺
+42.《领导人才的分类》|Good to Great: Why Some Companies Make the Leap and Others Don't|吉姆·柯林斯
+43.《追寻生命的意义》|Man's Search for Meaning|维克多·弗兰克尔
+44.《呼吸的艺术》|The Science of Breath|R. Swami Rama
+45.《梦想的赞歌》|The Singularity Is Near: When Humans Transcend Biology|雷·库兹韦尔
+46.《关于进化的神话》|The Social Conquest of Earth|爱德华·威尔逊
+47.《形式的含义》|The Architecture of Meaning: The Structure & Content of The Intellectual World|罗伯特·杰伊
+48.《学会思考》|How to Think About Weird Things: Critical Thinking for a New Age|西奥多·谢慈(Theodore Schick)
+49.《在追忆中寻找》|The Power of Now: A Guide to Spiritual Enlightenment|埃克哈特·托利
+50.《自卑与超越》|Escape from Freedom|埃里希·弗洛姆

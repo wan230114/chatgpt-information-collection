@@ -1,0 +1,50 @@
+1. 《关键对话：如何高效能沟通》| Crucial Conversations: Tools for Talking When Stakes Are High | Kerry Patterson
+2. 《影响力》| Influence: The Psychology of Persuasion | Robert Cialdini
+3. 《极简思维》| The Art of Thinking Clearly | Rolf Dobelli
+4. 《深度工作》| Deep Work: Rules for Focused Success in a Distracted World | Cal Newport
+5. 《人工智能时代：大数据与商业决策》| The Big Data-Driven Business: How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits | Russell Glass
+6. 《智慧型组织》| The Intelligent Organization: Winning the Global Competition with the Supply Chain Idea | Yoshiaki Ito
+7. 《时间简史：从大爆炸到黑洞》| A Brief History of Time | Stephen Hawking
+8. 《未来简史》| Homo Deus: A Brief History of Tomorrow | Yuval Noah Harari
+9. 《麦肯锡方法》| The McKinsey Way | Ethan M. Rasiel
+10. 《大数据时代》| Big Data: A Revolution That Will Transform How We Live, Work, and Think | Viktor Mayer-Schönberger
+11. 《原则》| Principles: Life and Work | Ray Dalio
+12. 《乌合之众》| The Crowd: A Study of the Popular Mind | Gustave Le Bon
+13. 《常识的力量》| The Power of Common Sense: How to Make Better Decisions in a Complex World | Olivier Sibony
+14. 《第五项修炼》| The Fifth Discipline: The Art & Practice of The Learning Organization | Peter M. Senge
+15. 《文化的缺陷》| The Culture Code: The Secrets of Highly Successful Groups | Daniel Coyle
+16. 《创新者的窘境》| The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail | Clayton M. Christensen
+17. 《极品演讲：聆听天堂、感受人间》| Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds | Carmine Gallo
+18. 《简单的法则》| Simple Rules: How to Thrive in a Complex World | Donald Sull
+19. 《如何写一本畅销书》| On Writing: A Memoir of the Craft | Stephen King
+20. 《致富之路》| Think and Grow Rich | Napoleon Hill
+21. 《人类简史》| Sapiens: A Brief History of Humankind | Yuval Noah Harari
+22. 《乌合之众与心理战》| Propaganda | Edward L. Bernays
+23. 《从0到1》| Zero to One: Notes on Startups, or How to Build the Future | Peter Thiel
+24. 《打造卓越团队》| The Five Dysfunctions of a Team: A Leadership Fable | Patrick Lencioni
+25. 《人类命运共同体》| Building a Community with a Shared Future for Mankind | Xi Jinping
+26. 《管理101》| The Essential Drucker: The Best of Sixty Years of Peter Drucker's Essential Writings on Management | Peter F. Drucker
+27. 《发现你的优势》| Now, Discover Your Strengths | Marcus Buckingham
+28. 《从优秀到卓越》| Good to Great: Why Some Companies Make the Leap and Others Don't | Jim Collins
+29. 《思考，快与慢》| Thinking, Fast and Slow | Daniel Kahneman
+30. 《重塑大脑》| Rewire Your Brain for Love: Creating Vibrant Relationships Using the Science of Mindfulness | Marsha Lucas
+31. 《20/80法则》| The 80/20 Principle: The Secret of Achieving More with Less | Richard Koch
+32. 《最强大脑》| The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science | Norman Doidge
+33. 《无声自信》| Presence: Bringing Your Boldest Self to Your Biggest Challenges | Amy Cuddy
+34. 《全球化的陷阱》| The Globalization Paradox: Democracy and the Future of the World Economy | Dani Rodrik
+35. 《这就是印度》| This Is India: A Land of Contrasts | Marc Hors
+36. 《改变工作方式》| Remote: Office Not Required | David Heinemeier Hansson
+37. 《追寻卓越》| Pursuit of Excellence | Terry Orlick
+38. 《团队合作》| Teamwork Is an Individual Skill: Getting Your Work Done When Sharing Responsibility | Christopher M. Avery
+39. 《大道至简》| Simplicity: The New Competitive Advantage in a World of More, Better, Faster | Bill Jensen
+40. 《心理学与生活》| Psychology and Life | Richard J. Gerrig
+41. 《赢》| Win: The Key Principles to Take Your Business from Ordinary to Extraordinary | Frank I. Luntz
+42. 《价值的规则》| The Rules of Value: A Simple Guide to Getting the Most from Your Investments | James O'Shaughnessy
+43. 《卓越的公司是怎样炼成的》| In Search of Excellence: Lessons from America's Best-Run Companies | Thomas J. Peters
+44. 《创优天下：超越竞争的智慧》| Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant | W. Chan Kim
+45. 《经营思路》| A Business and Its Beliefs: The Ideas That Helped Build IBM | Thomas J. Watson Jr.
+46. 《深入芯片制造》| High-Performance ASIC Design: Using Synthesizable Domino Logic in an ASIC Flow | Bruce W. McGaughy
+47. 《电子商务与企业管理》| Electronic Commerce: A Managerial Perspective | Efraim Turban
+48. 《智慧企业：管理新思路》| Intelligent Enterprise: A Knowledge and Service Based Paradigm for Industry | N. Venkatraman
+49. 《人性的弱点》| How to Win Friends and Influence People | Dale Carnegie
+50. 《组织学习》| Organization Learning: A Theory of Action Perspective | Argyris & Schön.

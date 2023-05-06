@@ -1,0 +1,50 @@
+1. 《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2. 《黑天鹅：彩色天空下的灰色思维》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+3. 《快乐的谷仓》|The Happy Barn|吴军
+4. 《非暴力沟通》|Nonviolent Communication: A Language of Life|马歇尔·卢森堡
+5. 《神经科学人文主义：向一个更全面的人类学问》|Neuroscience and the Humanities: Towards a Comprehensive Understanding of Humanity|华纳·埃克斯
+6. 《沟通的力量：心灵行为医学的实践与教导》|The Power of Communication: Skills to Build Trust, Inspire Loyalty, and Lead Effectively|海莉·菲舍尔
+7. 《文化人类学导论》|Introduction to Cultural Anthropology|吉米·诺伊斯
+8. 《情绪智商》|Emotional Intelligence|丹尼尔·戈尔曼
+9. 《社会认知心理学》|Social Cognitive Psychology|乔治·阿维佐和斯蒂文·杰斐逊
+10. 《宽容》|The Art of Forgiveness, Lovingkindness, and Peace|李·布劳恩
+11. 《成功的科学》|The Science of Success|查尔斯·科赫
+12. 《心流》|Flow: The Psychology of Optimal Experience|米哈里·契克森米哈伊
+13. 《商业思维》|Business Think|大卫·米尔
+14. 《现代心理学》|Modern Psychology|罗伯特·克伦
+15. 《信任的背后：从基因到社会行为的一致性》|The Anatomy of Trust: From Gene to Behavior to Society|皮特·科恩
+16. 《毛茸茸的大脑：理解人类认知的核心》|The Fuzzy Brain: Understanding Human Thinking and Behavior|罗杰·比克尔
+17. 《常识的力量》|The Power of Common Sense|乔丹·比尔福德
+18. 《睡眠革命》|The Sleep Revolution|艾莉西雅·哈芙
+19. 《领导力的艺术》|The Art of Leadership|伊萨瓦·琼斯
+20. 《人类大脑的真相》|The Truth About the Human Brain|艾莲娜·库恩
+21. 《单纯之美》|The Simple Beauty of the Unexpected: A Natural Philosopher's Quest for Trout and the Meaning of Everything|马里克·海思
+22. 《抵抗力》|Resilience: Hard-Won Wisdom for Living a Better Life|埃里克·格里特斯
+23. 《爱的艺术》|The Art of Loving|艾伦·弗洛姆
+24. 《性格心理学》|Personality Psychology|兰斯洛特·奥布里安斯
+25. 《因果基础》|Foundations of Causality|西蒙·约维奇
+26. 《目标》|Goals!: How to Get Everything You Want Faster Than You Ever Thought Possible|布赖恩·特莱西
+27. 《爱的五种语言》|The Five Love Languages: How to Express Heartfelt Commitment to Your Mate|加里·查普曼
+28. 《调整你的大脑：颠覆老思维，打造新格局》|Rewire Your Brain: Think Your Way to a Better Life|约翰·B.阿尼瑟
+29. 《我们的思维模式》|Our Patterns of Thought|卢克·扬·纳特曼
+30. 《认知心理学：思维的科学》|Cognitive Psychology: The Science of Thinking|艾利·史密斯和斯蒂芬·考夫曼
+31. 《习惯的力量：为什么我们做什么最重要的是如何做》|The Power of Habit: Why We Do What We Do in Life and Business|查尔斯·杜黑格
+32. 《乔布斯传》|Steve Jobs|沃尔特·艾萨克森
+33. 《情绪的解读：一个推理系统的哲学分析》|The Interpretation of Emotions: A Rationality-Based Philosophy of Mind|理查德·罗珀特
+34. 《精神分析概论》|An Introduction to Psychoanalysis|西格蒙德·弗洛伊德
+35. 《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+36. 《意志力：重建自控力，克服拖延症》|Willpower: Rediscovering the Greatest Human Strength|罗伊·芬曼和凯利·麦格尼格尔
+37. 《乌合之众：群体心理研究》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+38. 《权力的抉择》|The Choice|爱伦·杰米森
+39. 《脑力风暴：打造创新引擎》|Brainstorm: The Power and Purpose of the Teenage Brain|丹尼尔·J.西格尔
+40. 《卓有成效的管理者》|The Effective Executive: The Definitive Guide to Getting the Right Things Done|彼得·德鲁克
+41. 《双黄线：培养思维边界的三段式方法》|Yellow Line Method: Three-Part Method for Developing Your Cognitive Boundaries|李慧珍
+42. 《亲密关系：探索爱和接受的艺术》|The Art of Intimacy: How to Improve Your Relationships With Others|汉娜·库尔特亚克
+43. 《自在力，把握未来：解锁社交成功的关键》|Presence: Bringing Your Boldest Self to Your Biggest Challenges|艾米·库迪茨
+44. 《心理健康的微积分》|Calculus of Mental Health|黄柏基
+45. 《高效能人士的七个习惯》|The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change|史蒂芬·柯维
+46. 《让人谈笑风生的沟通：成功人士的沟通技巧启示录》|Just Listen: Discover the Secret to Getting Through to Absolutely Anyone|马克·戈尔斯顿
+47. 《心理学与生活》|Psychology and Life|理查德·格里格斯
+48. 《学习的艺术》|The Art of Learning: A Journey in the Pursuit of Excellence|乔什·魏茨金
+49. 《人类进化史》|The Story of Human Evolution|迈克尔·布莱恩特
+50. 《心理测试与行为评估》|Psychological Testing and Assessment|罗兰·古德恩和秦晓航

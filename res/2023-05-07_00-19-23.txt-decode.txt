@@ -1,0 +1,50 @@
+1. 《思考，快与慢》｜Thinking, Fast and Slow｜丹尼尔·卡尼曼 
+2. 《社会心理学》｜Social Psychology｜戈登·阿尔博姆 
+3. 《人类简史》｜Sapiens: A Brief History of Humankind｜尤瓦尔·赫拉利 
+4. 《重新定义公司》｜Reinventing Organizations｜弗雷德里克·勒韦 
+5. 《七种武器》｜Influence: The Psychology of Persuasion｜罗伯特·西奥迪尼 
+6. 《把握先机》｜The Power of Now｜埃克哈特·托利 
+7. 《漫步华尔街》｜A Random Walk Down Wall Street｜伯顿·马尔基尔 
+8. 《心灵的解释》｜The Interpretation of Dreams｜西格蒙德·弗洛伊德 
+9. 《谈判的艺术》｜Getting to Yes: Negotiating Agreement Without Giving In｜威廉·乌里 
+10. 《沉默的大多数》｜The Silent Majority: Suburban Politics in the Sunbelt South｜罗伯特·C·沃伊特 
+11. 《社交心理学》｜The Social Animal｜大卫·布鲁克斯 
+12. 《重构》｜Refactoring: Improving the Design of Existing Code｜马丁·福勒 
+13. 《复杂》｜Complexity: A Guided Tour｜梅拉尼·米切尔 
+14. 《超越智商》｜Emotional Intelligence: Why It Can Matter More Than IQ｜丹尼尔·戈尔曼 
+15. 《智能资本》｜The Intelligent Investor｜本杰明·格雷厄姆 
+16. 《贫穷的本质》｜The Bottom Billion: Why the Poorest Countries Are Failing and What Can Be Done About It｜保罗·科利尔 
+17. 《谷歌方法论》｜How Google Works｜埃里克·施密特 
+18. 《未来的幸存者》｜Survival of the Fittest: An Alex Delaware Novel｜乔纳森·凯勒曼 
+19. 《夺命连环杀》｜Murder on the Orient Express｜阿加莎·克里斯蒂 
+20. 《沟通的艺术》｜Crucial Conversations: Tools for Talking When Stakes Are High｜凯瑟琳·斯特发森 
+21. 《跟任何人都能聊开心》｜How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships｜莉莉恩·格拉斯曼 
+22. 《孤独的力量》｜The Power of One｜布莱德利·特科 
+23. 《掌控情绪》｜Self Matters: Creating Your Life from the Inside Out｜菲利普·麦格劳 
+24. 《沉思录》｜Meditations｜马库斯·奥里利乌斯 
+25. 《战略思维》｜The Art of War｜孙子 
+26. 《现代父母育儿指南》｜Parenting: The First Three Years｜玛丽丝·林迪·克莱恩 
+27. 《叛逆的革命》｜Rebel Ideas: The Power of Diverse Thinking｜马修·赫西 
+28. 《活在当下》｜The Power of Now: A Guide to Spiritual Enlightenment｜埃克哈特·托利 
+29. 《人际关系心理学》｜Interpersonal Communication: Relating to Others｜史蒂文·艾布拉姆斯 
+30. 《认知天才》｜Thinking in Systems: A Primer｜唐纳德·曼德拉 
+31. 《如何阅读一本书》｜How to Read a Book｜莫提默·J·艾德勒 
+32. 《心智成长》｜Mindset: The New Psychology of Success｜卡罗尔·德韦克 
+33. 《认知误区》｜The Feeling of What Happens: Body and Emotion in the Making of Consciousness｜安东尼奥·达马西奥 
+34. 《敏捷软件开发》｜Agile Software Development: Principles, Patterns, and Practices｜罗伯特·C·马丁 
+35. 《黑客与画家》｜Hackers and Painters: Big Ideas from the Computer Age｜保罗·格雷厄姆 
+36. 《微笑的人生》｜What Happy People Know: How the New Science of Happiness Can Change Your Life for the Better｜丹尼斯·普兰提斯 
+37. 《人类群星闪耀时》｜When Breath Becomes Air｜保罗·卡兰尼西 
+38. 《魔鬼经济学》｜Freakonomics: A Rogue Economist Explores the Hidden Side of Everything｜史蒂文·D·莱维特 
+39. 《谋杀罗杰·阿克罗伊德》｜The Murder of Roger Ackroyd｜阿加莎·克里斯蒂 
+40. 《生意本质》｜The Essence of Business｜波里·拉伊特 
+41. 《帕金森病》｜The Shaking Woman or A History of My Nerves｜萨莎·赫尔曼 
+42. 《蒸汽烟斗之谜》｜The Adventure of the Yellow Face｜阿瑟·柯南·道尔 
+43. 《采购复杂模型》｜Procurement Models Handbook: Applying the Strategic Acquisitions and Supply Chain Concepts to Improve Corporate Performance｜萨缪尔·奥克斯利 
+44. 《现代营销原理》｜Marketing Management｜菲利普·科特勒 
+45. 《爱的艺术》｜The Art of Loving｜艾·弗·弗兰克 
+46. 《微观经济学》｜Microeconomics｜克里斯托弗·P·莫哈希 
+47. 《把你的头脑转变为资产》｜Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!｜罗伯特·清崎 
+48. 《爱的艺术》｜Psychoanalytic Diagnosis: Understanding Personality Structure in the Clinical Process｜南希·麦克威廉姆斯 
+49. 《开放的社会及其敌人》｜The Open Society and Its Enemies｜卡尔·波普尔 
+50. 《人类行为的根源》｜The Nurture Assumption: Why Children Turn Out the Way They Do｜瑞德·豪斯伯格

@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《奋斗的人生最美丽》|Grit: The Power of Passion and Perseverance|安吉拉·李 (Angela Duckworth)
+3.《非暴力沟通》|Nonviolent Communication: A Language of Life|马歇尔·罗森伯格 (Marshall B. Rosenberg)
+4.《活在当下》|The Power of Now: A Guide to Spiritual Enlightenment|埃克哈特·托利 (Eckhart Tolle)
+5.《失控》|Out of Control: The New Biology of Machines, Social Systems, and the Economic World|凯文·凯利 (Kevin Kelly)
+6.《心流：认知心理学研究的新视角》|Flow: The Psychology of Optimal Experience|Mihály Csíkszentmihályi (米哈里·奇克森特米哈伊)
+7.《如何阅读一本书》|How to Read a Book|Mortimer J. Adler (莫蒂默·J·阿德勒)，查尔斯·范多伦 (Charles Van Doren)
+8.《精益思想》|Lean Thinking: Banish Waste and Create Wealth in Your Corporation|James P. Womack (詹姆斯·P·沃马克) ，Daniel T. Jones (丹尼尔·T·琼斯)
+9.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞 (Gustave Le Bon)
+10.《行为心理学》|Behavioral Economics: The Basics|Michele Belot(米歇尔·贝洛特) ，Jeroen Nieboer(杰罗恩·尼博尔)
+11.《与时间做朋友》|Making Time: Lillian Moller Gilbreth -- A Life Beyond "Cheaper by the Dozen"|Jane Lancaster (赵素珍)
+12.《傲慢与偏见》|Pride and Prejudice|简·奥斯汀 (Jane Austen)
+13. 《断舍离》|Goodbye, Things: On Minimalist Living|后藤健二 (Fumio Sasaki)
+14. 《带着问题学习》|Learning with Questions|戚度凯，胡巍
+15. 《青年修炼手册》|Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers |蒂莫西·费里斯 (Timothy Ferriss)
+16. 《创新者的窘境》|The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail|克莱顿·克里斯坦森 (Clayton M. Christensen)
+17. 《奇点临近》|The Singularity Is Near: When Humans Transcend Biology|雷·库兹韦尔 (Ray Kurzweil)
+18. 《心理学与生活》|Psychology and Life|理查德·格里格斯 (Richard J. Gerrig)，菲利普·洛拜德 (Philip G. Zimbardo)
+19.《十亿消费者》|One Billion Customers: Lessons from the Front Lines of Doing Business in China|詹姆斯·麦格雷戈 (James McGregor)
+20.《重新定义公司：时代商业新规则》|Reinventing Organizations: An Illustrated Invitation to Join the Conversation on Next-Stage Organizations|弗雷德·拉里贝尔 (Frederic Laloux)
+21.《英语流利说》|Fluent in 3 Months: How Anyone Can Learn to Speak Any Language Fast and Fluetntly|本杰明·卡德爵士 (Bennett B. Klein)
+22.《资本论》|Das Kapital|卡尔·马克思 (Karl Marx)
+23.《领袖的自我修养》|The Leader's Self-Understanding: An Analysis Based on the Teachings of Confucius and Mencius|张锦涛
+24.《制造业精益管理》|The Machine that Changed the World: The Story of Lean Production|詹姆斯·沃马克 (James P. Womack)，丹尼尔·琼斯 (Daniel T. Jones)，丹尼尔·罗斯 (Daniel Roos)
+25.《已知：决策中的谬误与稀有性》|Known Unknowns: Unconventional Strategies to Master the Art of Decision Making|威廉·波兰 (William Poundstone)
+26.《永恒的梦》|The Dream of Eternal Life: Biomedicine, Aging, and Immortality|Michel Goedert，Francis Crick，Stephen Hawking
+27.《如何系统性思维》|Thinking in Systems: A Primer|唐娜·梅多斯 (Donella H. Meadows)
+28.《领导力》|Leadership|詹姆斯·麦格雷戈 (James McGregor)
+29.《主人翁经济学》|The Ownership Economy: Toward a New Economics of Property and Knowledge|Frederick S. Lane
+30.《解忧杂货店》|The Convenience Store |东野圭吾 (Keigo Higashino)
+31.《MBA必修课》|MBA Fundamentals: Statistics|Paul Newbold，William Carlson, Betty Thorne
+32.《稀缺》|Scarcity: Why Having Too Little Means So Much|克里斯汀娜·沃尔芬 (Sendhil Mullainathan)，艾琳娜·阿尔文 (Eldar Shafir)
+33.《批判的思维》|Critical Thinking: An Introduction|艾丽森·婭科玛 (Alec Fisher)
+34.《Lean in》|Lean In: Women, Work, and the Will to Lead|谢丽尔·桑德伯格 (Sheryl Sandberg)
+35.《认知心理学》|Cognitive Psychology: Connecting Mind, Research and Everyday Experience|E. Bruce Goldstein
+36.《卫报》|Guardian: 150 Years of Inspiring Journalism|The Guardian
+37.《文化的世界地图》|Cultural Atlas of the World|George Peter Murdock
+38.《富爸爸穷爸爸》|Rich Dad, Poor Dad|罗伯特·基奇诺 (Robert T. Kiyosaki)
+39.《原则》|Principles: Life and Work|雷·达利奥 (Ray Dalio)
+40.《贫穷的本质》|The Bottom Billion: Why the Poorest Countries Are Failing and What Can Be Done About It|保罗·科利尔 (Paul Collier)
+41.《荒野之魂》|Into the Wild|乔恩·克拉西 (Jon Krakauer)
+42.《房价为什么这么高》|Why Your World Is About to Get a Whole Lot Smaller: Oil and the End of Globalization|杰夫·鲍尔森 (Jeff Rubin)
+43.《乌克兰的降临》|The Ukraine Crisis, What It Means for Canada: Understanding and Enduring the Russia-Ukraine Conflict Today|David Carment, Yiagadeesen Samy
+44.《中国经济的转型》|The Great China Boom: Why China Will Not Rule the World|Ho-fung Hung
+45.《性别差异的起源》|The Origin of Gender Differences|Leonard Sax
+46. 《计算机操作系统》|Operating System Concepts|Silberschatz Galvin Gagne
+47.《数据挖掘导论》|Introduction to Data Mining|Pang-Ning Tan
+48.《走出幸福的迷宫》|The Art of Happiness: A Handbook for Living|达赖喇嘛 (Dalai Lama XIV)
+49.《失控手记》|The Uninhabitable Earth: Life After Warming|大卫·华莱士-威洛特 (David Wallace-Wells)
+50.《北斗七星导航程序》|The C++ Programming Language|比雅尼·斯特劳斯特鲁普 (Bjarne Stroustrup)

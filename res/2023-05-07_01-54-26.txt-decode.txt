@@ -1,0 +1,51 @@
+1. 《思考，快与慢》Thinking, Fast and Slow|Daniel Kahneman|丹尼尔·卡尼曼
+2. 《向死而生：神经科学揭开意识之谜》Into the Silent Land: Travels in Neuropsychology|Paul Broks|保罗·布洛克斯
+3. 《时间解剖学：时间如何影响我们的思想、身体和行为》The Order of Time|Carlo Rovelli|卡洛·罗韦利
+4. 《感觉与知觉的深度心理学》Sensation and Perception|Jeremy M. Wolfe|杰里米·沃尔夫
+5. 《道德本能》Moral Minds: The Nature of Right and Wrong|Marc Hauser|马克·豪泽
+6. 《身体语言识别》The Body Language Advantage|Lillian Glass|莉莉安·格拉斯
+7. 《管窥蜗牛》The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human|V. S. Ramachandran|拉马查德兰
+8. 《关于爱、性和约会的一切》All About Love: New Visions|bell hooks|贝尔·胡克斯
+9. 《个人所得税法制课程》The Psychology of Stereotyping|David Hamilton|大卫·汉密尔顿
+10. 《超越智商：探究情商和周详的艺术》Emotional Intelligence: Why It Can Matter More Than IQ|Daniel Goleman|丹尼尔·戈尔曼
+11. 《赢在说服》The Art of Persuasion: How to Influence People and Get What You Want|Bob Burg|鲍勃·伯格
+12. 《火星心理学》The Martian Chronicles|Ray Bradbury|雷·布雷德伯里
+13. 《仪式》Ceremony|Leslie Marmon Silko|莱斯利·马尔蒙·席尔科
+14. 《想象力的探索》The Imaginary World of|Keri Smith|凯莉·史密斯
+15. 《你的情感导航仪》The Emotional Compass|Ilene Dillon|艾琳·迪龙
+16. 《变形记》Metamorphosis and Other Stories|Franz Kafka|弗兰兹·卡夫卡
+17. 《思辨的乐趣》The Pleasures of Reason in Plato, Aristotle, and the Hellenistic Hedonists|Giancarlo Scalvini|吉安卡洛·斯卡尔维尼
+18. 《谷歌大脑：机器试图战胜神经科学》The Idea Factory: Bell Labs and the Great Age of American Innovation|Jon Gertner|琼·格特纳
+19. 《不必担忧的世界》The End of War|David Keen|大卫·基恩
+20. 《修炼自己的思考力》A Guide to the Good Life: The Ancient Art of Stoic Joy|William B. Irvine|威廉·伊厄尔文
+21. 《关于孤独的代价》Alone in the Universe: Why Our Planet Is Unique|John Gribbin|约翰·格里宾
+22. 《自控力》The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It|Kelly McGonigal|凯利·麦克格尼格尔
+23. 《做做梦吧》Fantasyland: How America Went Haywire: A 500-Year History|Kurt Andersen|库尔特·安德森
+24. 《枪炮、病菌和钢铁》Guns, Germs, and Steel: The Fates of Human Societies|Jared Diamond|贾里德·戴蒙德
+25. 《自卑与超越》The Art of Possibility|Rosamund Stone Zander|罗莎蒙德·石头·李
+26. 《犯罪学》Forensic Science: A Very Short Introduction|Jim Fraser|吉姆·弗雷泽
+27. 《深度必修课》Deep Work: Rules for Focused Success in a Distracted World|Cal Newport|卡尔·纽波特
+28. 《素质教育》Educating for Character: How Our Schools Can Teach Respect and Responsibility|Thomas Lickona|托马斯·利康纳
+29. 《时间是把双刃剑》Time Warped: Unlocking the Mysteries of Time Perception|Claudia Hammond|克劳迪娅·汉密尔顿
+30. 《不爲人知的美国历史》A People's History of the United States|Howard Zinn|霍华德·辛恩
+31. 《七分钟之后》Seven Minutes After Midnight|Kate Jaimet|凯特·杰米特
+32. 《解读人体语言》The Definitive Book of Body Language|Barbara Pease and Allan Pease|芭芭拉·皮斯和艾伦·皮斯
+33. 《人际关系中的情感智慧》Emotionally Intelligent Leadership: A Guide for Students|Marcia Hughes|马西亚·休斯
+34. 《神经科学：探究心灵与行为的科学》The Neuroscience of Human Relationships: Attachment and the Developing Social Brain|Louis Cozolino|路易斯·科佐利诺
+35. 《非言语，人体）
+Silent Messages|Albert Mehrabian|阿尔伯特·梅赫拉比安
+36. 《统计学习方法》The Elements of Statistical Learning|Trevor Hastie, Robert Tibshirani, and Jerome Friedman|特雷弗·哈斯蒂、罗伯特·蒂布希拉尼和杰罗姆·弗里德曼
+37. 《时间阶段的结构》The Time Paradox: The New Psychology of Time That Will Change Your Life|Philip Zimbardo and John Boyd|菲利普·辛巴多和约翰·博德
+38. 《科学的力量》The Science of Power|Michelle Baddeley|米歇尔·巴德利
+39. 《思考，快与慢：科学精华版》Thinking, Fast and Slow: The Scientific Summary|Mark Manson|马克·曼森
+40. 《学会与人相处》The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are|Chris MacLeod|克里斯·马克劳德
+41. 《人性的弱点》How to Win Friends and Influence People|Dale Carnegie|戴尔·卡耐基
+42. 《社会认知进化史》Social Cognition: An Integrated Introduction|Martha Augoustinos and Iain Walker|玛莎·奥古斯蒂诺斯和伊恩·沃克
+43. 《亲密关系的魔力》The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert|John Gottman|约翰·戈特曼
+44. 《快乐学习：解锁你的智慧潜能》Make it Stick: The Science of Successful Learning|Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel|彼得·布朗、亨利·罗德格第三和马克·麦克丹尼尔
+45. 《沟通的艺术》Crucial Conversations: Tools for Talking When Stakes Are High|Al Switzler, Joseph Grenny, and Ron McMillan|艾尔·西兹勒、约瑟夫·格林尼和罗恩·麦克米伦
+46. 《让孩子快乐学习》The Happy Child: Changing the Heart of Education|Steven Harrison|史蒂文·哈里森
+47. 《事实中的虚幻》The Stuff of Thought: Language as a Window into Human Nature|Steven Pinker|史蒂文·平克
+48. 《哲学的欢愉》The Consolations of Philosophy|Alain de Botton|阿兰·德波顿
+49. 《如何高效工作》How to Work Smarter, Not Harder|Timothy Ferriss|蒂莫西·费里斯
+50. 《恶童儿：究竟是什么让一些人变得邪恶》The Psychopath Test: A Journey Through the Madness Industry|Jon Ronson|乔恩·朗森

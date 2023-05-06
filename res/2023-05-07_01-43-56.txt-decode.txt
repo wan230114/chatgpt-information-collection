@@ -1,0 +1,52 @@
+1. 《原则》| Principles| 雷伊·达利欧
+2. 《深度工作》| Deep Work| 卡尔·纽波特
+3. 《刻意练习》| Peak: Secrets from the New Science of Expertise| 安德斯·艾利克森，罗伯特·普利斯
+4. 《人类简史》| Sapiens: A Brief History of Humankind| 尤瓦尔·赫拉利
+5. 《认知心理学》| Cognitive Psychology| 美国耶鲁大学
+6. 《思考，快与慢》| Thinking, Fast and Slow| 丹尼尔·卡尼曼
+7. 《图解思维》| The Diagrams of Thought: Mastering Visuality in Communication| 罗纳德·T·凯利
+8. 《习惯的力量》| The Power of Habit: Why We Do What We Do in Life and Business| 查尔斯·杜希格
+9. 《关键对话》| Crucial Conversations: Tools for Talking When Stakes Are High| 克里斯·帕特森，约瑟夫·格兰迪，朱丽安·斯威茨勒，罗恩·麦克米伦
+10. 《学习之道》| Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential| 巴芮·奥克里
+11. 《构建用户画像》| Building a StoryBrand: Clarify Your Message So Customers Will Listen| 唐·米勒
+12. 《工作大脑》| Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long| 大卫·洛克
+13. 《慢商业》| Slow Business: Rediscovering the Human Side of Business| 约翰·亨瑞克斯
+14. 《故事结构》| The Anatomy of Story: 22 Steps to Becoming a Master Storyteller| 约翰·特鲁比
+15. 《成功的内外因素》| Mindset: The New Psychology of Success| 卡罗尔·德韦克
+16. 《追求卓越》| Good to Great: Why Some Companies Make the Leap and Others Don't| 吉姆·柯林斯
+17. 《学会提问》| A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas| 沃伦·伯格曼
+18. 《谈话的艺术》| The Fine Art of Small Talk: How to Start a Conversation, Keep It Going, Build Networking Skills—and Leave a Positive Impression!| 德博拉·恩格伦
+19. 《穷查理宝典》| Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger| 巴菲特合伙人 查理·芒格
+20. 《做事的诀窍》| The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results| 加里·柏恩斯
+21. 《非暴力沟通》| Nonviolent Communication: A Language of Life| 马歇尔·卢森堡
+22. 《多元智能》| Frames of Mind: The Theory of Multiple Intelligences| 霍华德·加德纳
+23. 《眨眼之间》| Blink: The Power of Thinking Without Thinking| 马尔科姆·格拉德威尔
+24. 《赢》| Win: The Key Principles to Take Your Business from Ordinary to Extraordinary| 弗兰克·I·莱德
+25. 《高效能人士的七个习惯》| The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change| 史蒂芬·柯维
+26. 《沉思: 深度思维的艺术》| Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins| 加里·卡斯帕罗夫
+27. 《驱动力》| Drive: The Surprising Truth About What Motivates Us| 丹尼尔·平克
+28. 《如何高效学习》| Make It Stick: The Science of Successful Learning| 彼得·布朗
+29. 《快乐的思考》| The Art of Thinking Clearly| 罗尔夫·多贝利
+30. 《改变心理学》| Changing Minds: The Art and Science of Changing Our Own and Other People’s Minds| 大卫·斯特劳斯
+31. 《头脑图法》| The Mind Map Book: How to Use Radiant Thinking to Maximize Your Brain's Untapped Potential| 托尼·布赞
+32. 《心智模式》| Mindware: Tools for Smart Thinking| 理查德·尼斯贝特
+33. 《非理性繁荣》| Irrational Exuberance| 罗伯特·舒勒
+34. 《好好学习》| How to Read a Book| 莫提默·J. 艾德勒，查尔斯·范多伦
+35. 《创造力爆发》| Breakthrough Creativity: Achieving Top Performance Using the Eight Creative Talents| 林顿·G·哈林
+36. 《关键思考》| Critical Thinking: An Introduction| Alec Fisher
+37. 《认知心理学导论》| Cognitive Psychology: A Student's Handbook| 马伊克·哈恩
+38. 《客户体验》| Customer Experience 3.0: High-Profit Strategies in the Age of Techno Service| 约瑟夫·米歇尔·卡隆
+39. 《行为经济学》| Nudge: Improving Decisions About Health, Wealth, and Happiness| 理查德·塞勒，卡西·桑斯坦
+40. 《鬼谷子》| The Master said: “It is the man who can broaden the Way."| 鬼谷子
+41. 《想象》| Imagine: How Creativity Works| 理查德·芬克
+42. 《复盘人类：前所未有的科学启示》| The Story of the Human Body: Evolution, Health, and Disease| 丹尼尔·E·李博维茨
+43. 《吸引力法则》| The Law of Attraction: The Basics of the Teachings of Abraham| 伊斯特·希克斯，杰瑞·希克斯
+44. 《新草根经济学》| The New Economics for Industry, Government, Education| W. Edwards Deming
+45. 《人类简史》| Sapiens: A Brief History of Humankind| 尤瓦尔·赫拉利
+46. 《解读人类行为密码》| The Social Animal: The Hidden Sources of Love, Character, and Achievement| 大卫·布鲁克斯
+47. 《你的灵魂属于你》| The Courage to Be Disliked: How to Change Your Life and Achieve Real Happiness| 古贺史健，岸见一郎
+48. 《全球大趋势》| The World is Flat: A Brief History of the Twenty-First Century| 托马斯·弗里德曼
+49. 《十架原则》| The Cross of Christ| 约翰·斯托特
+50. 《创新心态》| Innovator's Mindset: Empower Learning, Unleash Talent, and Lead a Culture of Creativity| 乔治·库鲁克
+
+以上仅供参考，不保证内容的完整性和准确性。

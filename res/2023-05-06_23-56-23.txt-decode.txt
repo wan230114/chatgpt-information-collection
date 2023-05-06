@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔•卡尼曼
+2.《沟通的艺术》|The Art of Communication|朱利安•特雷佩尔
+3.《心智的模式》|The Mind's Pattern|鲁宾•福根斯
+4.《追寻生命的意义》|Man's Search for Meaning|维克多•弗兰克尔
+5.《卡片，谷歌和我们的大脑》|Moonwalking with Einstein|约书亚•福尔曼
+6.《失控》|Out of Control|凯文•凯利
+7.《社会性动物》|Social Animal|戴维•布鲁克斯
+8.《原则：工作和生活的行动指南》|Principles: Life and Work|瑞·达里奥
+9.《巨人的工具》|Tools of Titans|提姆•费里斯
+10.《伊斯兰教和现代世界》|Islam and the Modern World|谢赫•哈立德·扎希德
+11.《领导力》|Leadership|吉姆•柯林斯
+12.《为什么我们做事那么费劲》|The Why Axis|乔纳森•海特和斯图尔特•奇瑞
+13.《思考，学习，快乐》|Mindshift|巴芙•斯坦福
+14.《文化符号的力量》|The Power of Symbols|比尤丽•绍德曼
+15.《未来简史》|Sapiens: A Brief History of Humankind|尤瓦尔•赫拉利
+16.《行为经济学基础》|Behavioral Economics: The Basics|菲利普•科菲尔德
+17.《个人史与自我认同》|Personal History and Identity|李•盖尔伯恩
+18.《微表情》|Unmasking the Face|保罗•埃克曼和华拉斯•佩亚
+19.《极简宇宙史》|Brief Answers to the Big Questions|史蒂芬·霍金
+20.《得到》|Get Out of Your Mind and Into Your Life|斯蒂文•海斯
+21.《人类纪元的启示》|Revelations of the Human Era|彼得•罗斯
+22.《情感生命周期》|Emotion Lifecycle|唐纳德•诺曼
+23.《成功原理》|How to Win Friends and Influence People|戴尔•卡耐基
+24.《文学名著诠释：耐克•博洛夫》|Nikolai Borgolov and Books|弗拉基米尔•纳博科夫
+25.《游戏理论101》|Game Theory 101|威廉•斯潘涅齐
+26.《行动派的哲学》|The Philosophy of Action Takers|丹尼尔•卡尼曼
+27.《社会认知心理学》|Social Cognitive Psychology|理查德•约瑟夫•吉德
+28.《投资策略》|The Intelligent Investor|本杰明•格雷厄姆
+29.《见识》|Insight|坎迪斯•卡萨洛科-罗伯特斯
+30.《刻意练习》|Peak|安德斯•艾瑞克森
+31.《深度反思》|Deep Reflection|马克•威廉姆斯
+32.《快乐生活的心理学》|The Psychology of Happy Life|梅尔•沃斯曼
+33.《众生之镜》|The Mirror of the Human Kind|威廉•索约斯
+34.《思考快与慢》|Smart Thinking|安德里亚诺•莫泰尼
+35.《掌控自己的时间和生活》|Take Control of Your Time and Your Life|阿诺德•本尼特
+36.《隐性表达的艺术》|The Art of Subtle Expression|保罗•埃克曼
+37.《最高的天赋》|The Greatest Gift|布伦•布朗
+38.《反思与修辞》|Reflection and Rhetoric|乔恩•埃尔斯伯格
+39.《理性思维的艺术》|The Art of Reasoning|丹•李克
+40.《脆弱性理论：开启创意的游戏规则》|Theory of Fragility: Unlocking the Rules of Creativity|纳塔莉•纽波特
+41.《行动的力量：原始思维之道》|The Power of Action: The Way of Primitive Thinking|罗伯特•斯蒂克-戴
+42.《卓越领导力》|Excellent Leadership|彼得•戴瑞
+43.《无需品牌》|Brandless|蒂娜•舒恩贝格
+44.《思维的力量》|The Power of Thinking|沃尔特•本杰明
+45.《习惯的力量》|The Power of Habit|查尔斯•杜希格
+46.《乌合之众》|The Crowd|古斯塔夫•勒庞
+47.《破窗效应》|The Broken Window Effect|詹姆斯•威尔森
+48.《时间的前瞻性与后见性》|The Foresight and Hindsight of Time|马修•邦德
+49.《你的生命，你的解答》|Your Life, Your Answer|格里高利•史密斯
+50.《麦卡锡主义的影响》|The Impact of McCarthyism|罗伯特•C.麦克阿瑟

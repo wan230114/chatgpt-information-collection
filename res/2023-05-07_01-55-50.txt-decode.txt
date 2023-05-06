@@ -1,0 +1,50 @@
+1.《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+2.《脑洞大开》|The Master and His Emissary: The Divided Brain and the Making of the Western World|伊恩·麦格雷戈
+3.《白痴》|Idiot|陀思妥耶夫斯基
+4.《认知心理学》|Cognitive Psychology|尤·纳思
+5.《心理学与生活》|Psychology and Life|理查德·格里格斯
+6.《猜想与证明》|Guesstimation: Solving the World's Problems on the Back of a Cocktail Napkin|劳伦·里谢
+7.《心理学基础》|Foundations of Psychology|尼克·布莱尔
+8.《社会心理学》|Social Psychology|戴维·迈尔斯
+9.《迈向哈佛》|The Gatekeepers: Inside the Admissions Process of a Premier College|雅各布斯
+10.《细节决定成败》|The Tipping Point: How Little Things Can Make a Big Difference|马尔科姆·格拉德威尔
+11.《麦田里的守望者》|The Catcher in the Rye|J. D. 塞林格
+12.《经济学原理》|Principles of Economics|尼古拉斯·格里高利·曼凯夫
+13.《思维的乐趣》|The Pleasures of Thinking|卢·梅根德
+14.《认知科学导论》|Introduction to Cognitive Science|乔·阿拉提
+15.《精神分析导论》|An Introduction to Psychoanalysis|西格蒙德·弗洛伊德
+16.《行为经济学》|Behavioral Economics: The Concise Encyclopedi|克莱门特·汉森
+17.《肉身和理性》|The Mind-Body Problem|乔纳森·雪伯
+18.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+19.《九个谎言》|Nine Lies About Work: A Freethinking Leader’s Guide to the Real World|马库斯·巴克汉姆
+20.《深度》|Deep Work: Rules for Focused Success in a Distracted World|卡尔·纽波特
+21.《社会风险与不确定性》|Risk and Uncertainty in Social, Psychological and Behavioral Sciences|亚历山大·纽埃尔
+22.《智慧是什么》|What is Wisdom?|施密特
+23.《深度思维》|Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins|加里·卡斯帕罗夫
+24.《菲利普斯家族》|The Philipps Family|约翰·海登
+25.《凯恩斯传》|Keynes: The Return of the Master|罗伯特·斯凯德尔
+26.《这就是我们的生活》|This is How You Lose Her|胡利奥·多米恩
+27.《实用心理学家手册》|The Handbook of Practical Psychology|博林泰钦特、加勒特
+28.《自控力》|The Marshmallow Test: Mastering Self Control|沃尔特·米歇尔
+29.《认知能力训练》|Cognitive Ability Training|比利亚德·马德赫
+30.《幸福课》|The Happiness Course|奥格登
+31.《人类的智慧：科学、哲学、文学哲学的综合视野》|The Wisdom of the Humanities：A View from Science, Philosophy and Literature|伍德
+32.《创造的疯狂》|Craziness of Creation: An Essay on Aesthetics and the Creation of Meaning|唐纳德·捷德普
+33.《调和的生命》|The Harmonious Life|齐格蒙德·弗洛伊德
+34.《思考的力量》|The Power of Thinking|李嘉图
+35.《舞者的灵魂》|Dancer's Soul: The Autobiography of Rudolf Nureyev|鲍德温
+36.《文明之光》|Civilization: The West and the Rest|纳尔伯特
+37.《窃听者与雄鹰》|The Listening Post and the Eagle|伊恩·柯林斯
+38.《未来简史》|Homo Deus: A Brief History of Tomorrow|尤瓦尔·赫拉利
+39.《牛津心理学指南》|The Oxford Handbook of Psychology|特里斯·芬克尔
+40.《牵引力》|Traction: Get a Grip on Your Business|盖布尔·维特曼
+41.《按字母排序》|Alphabetical: How Every Letter Tells a Story|迈克尔·罗森
+42.《颚与灵魂》|The Jaw and the Soul|琼·克鲁斯曼
+43.《孤独的乡村》|The Lonely Village|约翰·富勒
+44.《表象与事实》|Surface and Beyond: The Mass Media, Public Perception, and the Future of American Education|莎拉·巴特利特
+45.《阅读圣经：全球文化考古学》|Reading the Bible: A Global Cultural History|约翰·巴顿
+46.《拒绝成为平庸的人》|The Art of Being Unreasonable|伊斯曼
+47.《高管鲨鱼》|The CEO Shark Tank|杰夫·克林顿
+48.《困惑中的父母》|The Confused Parent's Guide to Childhood|戴维·科文
+49.《让大脑发挥最大潜力》|Brain Power: Learn to Improve Your Thinking Skills|卡尔·卢默
+50.《诗的语言震撼我》|Poetry's Language Affects Me: Learn to Speak Poetry|丹妮尔·墨菲

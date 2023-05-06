@@ -1,0 +1,99 @@
+1. 《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+
+2. 《终于教会你用Python》|Python Crash Course: A Hands-On, Project-Based Introduction to Programming|埃里克·马特斯
+
+3. 《没有人是孤岛》|No Man Is an Island|托马斯·曼
+
+4. 《反脆弱》|Antifragile: Things That Gain from Disorder|纳西姆·尼古拉斯·塔勒布
+
+5. 《乌合之众》|The Crowd: A Study of the Popular Mind|格斯塔夫·勒庞
+
+6. 《悖论》|Paradoxes|罗伯特·E.格林伯格
+
+7. 《人性的弱点》|How to Win Friends and Influence People|戴尔·卡耐基
+
+8. 《刻意练习》|Peak: Secrets from the New Science of Expertise|安德斯·艾瑞克森
+
+9. 《创新者的窘境》|The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail|克莱顿·M. 克里斯滕森
+
+10. 《海明威静静地走了》|A Moveable Feast|欧内斯特·海明威
+
+11. 《资本论》|Das Kapital|卡尔·马克思
+
+12. 《掌控情绪》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼
+
+13. 《乱世佳人》|Gone with the Wind|玛格丽特·米切尔
+
+14. 《天才的游戏》|The Talent Code: Greatness isn't Born. It's Grown. Here's How.|丹尼尔·科伊尔
+
+15. 《不可能的乌托邦》|Utopia|托马斯·莫尔
+
+16. 《影响力》|Influence: The Psychology of Persuasion|罗伯特·B. 西奥迪尼
+
+17. 《人性的弱点》|The Social Animal|大卫·布鲁克斯
+
+18. 《智慧的缔造者》|The Creator's Code: The Six Essential Skills of Extraordinary Entrepreneurs|艾米·威尔金森
+
+19. 《无硝烟的战争》|The Art of War|孙子
+
+20. 《受伤的人》|Man's Search for Meaning|维克多·弗兰克尔
+
+21. 《效率之巅》|Work Smarter Not Harder: 18 Productivity Tips That Boost Your Work Day Performance|麦克·奇琴
+
+22. 《活在当下：一个佛教导师的建议》|The Power of Now: A Guide to Spiritual Enlightenment|埃克哈特·托利
+
+23. 《时光倒流七十年》|The Time Traveler's Wife|奥黛丽·尼芬格
+
+24. 《人类简史：从动物到上帝》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+
+25. 《爱的艺术》|The Art of Loving|埃里希·弗洛姆
+
+26. 《社会心理学》|Social Psychology|戴维·G. 迈尔斯
+
+27. 《超额利润》|Superfreakonomics: Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance.|斯蒂芬·杜伯尔
+
+28. 《孤独的感觉》|The Lonely City: Adventures in the Art of Being Alone|奥利维亚·劳瑞
+
+29. 《管理的例外》|The Exceptional Manager: Making the Difference|理查德·E.博伊兹
+
+30. 《自我再现》|Self-Reliance and Other Essays|拉尔夫·沃尔多·爱默生
+
+31. 《复杂》|Complexity: A Guided Tour|米切尔·沃尔德罗普
+
+32. 《成熟》|Maturity: The Responsibility of Being Oneself|Osho
+
+33. 《万物皆为浮云》|The Book of Chuang Tzu|庄子
+
+34. 《操作系统概念》|Operating System Concepts|阿布拉哈姆·西尔伯斯查茨
+
+35. 《美丽新世界》|Brave New World|阿道司·赫胥黎
+
+36. 《最初的15天》|The First 15 Minutes: Stress-Free Living for Women|蒂娜·西曼
+
+37. 《时间收割者》|Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos|史蒂夫·钱德勒
+
+38. 《基因革命》|The Gene: An Intimate History|希德哈尔·穆克吉
+
+39. 《与神对话：成为自己的灵性导师》|Conversations with God: An Uncommon Dialogue|纳西姆·哈拉米斯
+
+40. 《骆驼祥子》|Camel Xiangzi|鲁迅
+
+41. 《言论自由与它危机》|Free Speech and Its Crisis|Timothy Garton Ash
+
+42. 《策划人生》|Designing Your Life: How to Build a Well-Lived, Joyful Life|比尔·伯奇
+
+43. 《人生是什么》|What Is Life?|欧文·舍罗德
+
+44. 《飞鸟集》|The Gardener|泰戈尔
+
+45. 《人类群星闪耀时》|When the Stars Shine Brightest|柏杨
+
+46. 《平面设计原理》|The Principles of Beautiful Web Design|杰森·贝恩斯
+
+47. 《黑白森林》|Black Forest|史蒂夫·哈米尔顿
+
+48. 《管理学思想大师传》|The Masters of Management Thought|Peter F. Drucker
+
+49. 《华尔街》|The Wolf of Wall Street|约丹·贝尔福特
+
+50. 《日本桥》|The Bridge on the Drina|伊沃·安德里奇

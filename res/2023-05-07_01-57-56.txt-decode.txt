@@ -1,0 +1,69 @@
+工具书类：
+1、《人类简史：从动物到上帝》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+2、《未来简史》|21 Lessons for the 21st Century|尤瓦尔·赫拉利
+3、《人类未来的十大挑战》|The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth|米歇尔·卡库
+4、《人性的弱点》|How to Win Friends and Influence People|戴尔·卡内基
+5、《刻意练习》|Peak: Secrets from the New Science of Expertise|安德斯·艾利克森，罗伯特·普尔
+
+心理学类：
+6、《说服力》|Influence: The Psychology of Persuasion|罗伯特·西奥迪尼
+7、《思考，快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+8、《最好的告别》|Being Mortal: Medicine and What Matters in the End|阿特尔·甘迪
+9、《孤独的力量》|Quiet: The Power of Introverts in a World That Can't Stop Talking|苏珊·凯恩
+10、《猜错与修正》|Wrong: Why Experts Keep Failing Us—And How to Know When Not to Trust Them|大卫·加拉汀
+
+芭蕾舞剧类：
+11、《天鹅湖》|Swan Lake|彼得·伊里奇·柴可夫斯基
+12、《胡桃夹子》|The Nutcracker|彼得·伊里奇·柴可夫斯基
+13、《吉赛尔》|Giselle|亚当·拉茨基
+14、《灰姑娘》|Cinderella|塞尔吉·普罗科菲耶夫
+15、《罗密欧与朱丽叶》|Romeo and Juliet|谢尔盖·普罗科菲耶夫
+
+创新设计类：
+16、《设计心理学》|The Design of Everyday Things|唐纳德·诺曼
+17、《故事：你的品牌与顾客到底讲些啥》|Building a StoryBrand: Clarify Your Message So Customers Will Listen|唐·米勒
+18、《定位》|Positioning: The Battle for Your Mind|阿尔·瑞茨，杰克·特劳特
+19、《黑客与画家》|Hackers & Painters: Big Ideas from the Computer Age|保罗·格雷厄姆
+20、《长尾理论》|The Long Tail: Why the Future of Business is Selling Less of More|克里斯·安德森
+
+科技互联网类：
+21、《人工智能：现代方法》|Artificial Intelligence: A Modern Approach|彼得·诺维格，斯图尔特·罗素，艾伦·尼卡森
+22、《硅谷钢铁侠》|Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future|阿什利·万斯
+23、《未来之路》|The Road Ahead|比尔·盖茨
+24、《这就是互联网时代》|The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses|埃里克·瑞斯
+25、《硅谷之谜：让世界无法抗拒的产品是怎样炼成的》|The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail|克莱顿·克里斯滕森
+
+经济学类：
+26、《穷爸爸，富爸爸》|Rich Dad, Poor Dad|罗伯特·清崎
+27、《黑天鹅：如何应对不可预知的未来》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+28、《经济学原理》|Principles of Economics|尤金·弗里曼
+29、《中国经济的成功之路》|China's Economic Transformation|贾康，王宜林
+30、《资本论》|Capital: Critique of Political Economy|卡尔·马克思
+
+社会学类：
+31、《第二次机器革命》|The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies|埃里克·布莱尼奇，安德鲁·麦卡菲
+32、《Tipping Point: How Little Things Can Make a Big Difference》|小改变的力量|马尔科姆·格拉德威尔
+33、《超越智商》|Emotional Intelligence: Why It Can Matter More Than IQ|丹尼尔·戈尔曼
+34、《美国陷阱：过度扩张的代价》|The Trap: Selling Out to Stay Afloat in Winner-Take-All America|丹尼尔·布鲁克斯
+35、《人性的弱点》|How to Win Friends and Influence People|戴尔·卡内基
+
+历史类：
+36、《梦的帝国：日本历史》|The Making of Modern Japan|川上量生
+37、《一只鼓动人心的马》|Seabiscuit: An American Legend|劳拉·希伯特
+38、《穆斯林世界的崛起》|Destiny Disrupted: A History of the World Through Islamic Eyes|塔米姆·安萨里
+39、《亦凡公主》|The Princess Diarist|卡丽·菲雪
+40、《菜根谭》|The Story of the Stone|曹雪芹
+
+传记类：
+41、《史蒂夫·乔布斯传》|Steve Jobs|沃尔特·艾萨克森
+42、《特朗普自传》|Trump: The Art of the Deal|唐纳德·特朗普
+43、《斯诺登自传》|Permanent Record|爱德华·斯诺登
+44、《拉林：一个传奇的生涯》|Larrikin: My Life in Football|里克·瑞德尔
+45、《姜文自传成名之路》|Find Me I'm Yours|劳伦·科尔·奇尔迎
+
+小说类：
+46、《天才在左，疯子在右》|天才は左で傻瓜は右で|东野圭吾
+47、《小王子》|Le Petit Prince|安托万·德·圣-埃克苏佩里
+48、《1984》|Nineteen Eighty-Four|乔治·奥威尔
+49、《人类群星闪耀时》|The Fault in Our Stars|约翰·格林
+50、《万物生长》|The Growth of Logical Thinking From Childhood to Adolescence|Jean Piaget

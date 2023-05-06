@@ -1,0 +1,50 @@
+1.《白夜行》|The Devotion of Suspect X|东野圭吾
+2.《知行合一》|Mindset: The new psychology of success|卡罗尔·S·德韦克
+3.《你的第一本哲学书》|The Philosophy Book|威尔·巴克尔
+4.《乌合之众》|The Crowd: A Study of the Popular Mind|古斯塔夫·勒庞
+5.《原则》|Principles: Life and Work|雷·达里奥
+6.《黑天鹅》|The Black Swan: The Impact of the Highly Improbable|纳西姆·尼古拉斯·塔勒布
+7.《叛逆的大脑》|A Whole New Mind: Why Right-Brainers Will Rule the Future|丹尼尔·H·平克
+8.《统计思维》|The Signal and the Noise: Why So Many Predictions Fail--but Some Don't|纳特·西尔弗
+9.《思考快与慢》|Thinking, Fast and Slow|丹尼尔·卡尼曼
+10.《故事》|The Storytelling Animal: How Stories Make Us Human|乔纳森·戈特希尔
+11.《灵魂的疾病》|The Soul's Code: In Search of Character and Calling|詹姆斯·希尔曼
+12.《最好的告别》|Being Mortal: Medicine and What Matters in the End|阿塔尔·古安德
+13.《达芬奇密码》|The Da Vinci Code|丹·布朗
+14.《三体》|The Three-Body Problem|刘慈欣
+15.《百年孤独》|One Hundred Years of Solitude|加西亚·马尔克斯
+16.《不要让小事儿占据你的命运》|Don't Sweat the Small Stuff and It's All Small Stuff|理查德·卡尔森
+17.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+18.《有效的领导力》|Good to Great: Why Some Companies Make the Leap and Others Don't|吉姆·柯林斯
+19.《社会心理学》|Social Psychology|大卫·迈尔斯
+20.《暗时间》|The Dark Age: The Origin and Development of the Chinese Civilization|黄仁宇
+21.《李约瑟与中国科学史研究选集》|Joseph Needham and the Study of Chinese Science|朱立伦
+22.《枪炮、病菌与钢铁》|Guns, Germs, and Steel: The Fates of Human Societies|贾雷德·戴蒙德
+23.《人类简史》|Sapiens: A Brief History of Humankind|尤瓦尔·赫拉利
+24.《大设计》|The Grand Design|斯蒂芬·霍金
+25.《寻路中国》|China Road: A Journey into the Future of a Rising Power|罗伯特·卡普兰
+26.《乱世枭雄》|The Art of War|孙子
+27.《数学之美》|Beauty of Mathematics|吴军
+28.《万物简史》|A Short History of Nearly Everything|比尔·布莱森
+29.《牛奶可乐经济学》|Freakonomics: A Rogue Economist Explores the Hidden Side of Everything|史蒂芬·杜伯
+30.《激荡三十年》|China's Economic Reform 1978-2008|吴敬琏
+31.《文化苦旅》|Culture Shock|胡适
+32.《中国历代政治得失》|From Emperor to Citizen: The Autobiography of Aisin-Gioro Pu Yi|愛新覺羅溥儀
+33.《被讨厌的勇气》|The Courage to be Disliked|岸见一郞
+34.《我的奋斗》|My Struggle|卡尔·奥夫·克纳斯加德
+35.《兄弟》|Brothers|阿斯涅·塞耶尔斯塔德
+36.《星际穿越》|The Science of Interstellar|基普·索恩
+37.《嫌疑人X的献身》|The Devotion of Suspect X|东野圭吾
+38.《红楼梦》|A Dream of Red Mansions|曹雪芹
+39.《六祖坛经》|Platform Sutra|六祖慧能
+40.《批判性思维》|Critical Thinking: An Introduction|亚历克斯·汉密尔顿
+41.《科技与文明》|What Technology Wants|凯文·凯利
+42.《时间简史》|A Brief History of Time|斯蒂芬·霍金
+43.《随机漫步的傻瓜》|A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing|伯特·马尔金
+44.《沉思录》|Meditations|马尔库斯·奥勒留
+45.《我们时代的神话》|The Gods of Our Time|七堇年
+46.《深度学习实战指南》|Deep Learning with Python|弗朗索瓦·肖莱
+47.《前方的路》|The Road Ahead|比尔·盖茨
+48.《乡土中国》|China's Peasants|胡愈之
+49.《逃离山村》|光荣与梦想|贾跃亭
+50.《钢铁是怎样炼成的》|How Steel Is Made|尤金·奥尼尔

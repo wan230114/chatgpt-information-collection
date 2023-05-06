@@ -1,0 +1,50 @@
+1. 《黑天鹅：如何应对不可预知的未来》| The Black Swan: The Impact of the Highly Improbable | 纳西姆·尼古拉斯·塔勒布
+2. 《人类简史》| Sapiens: A Brief History of Humankind | 尤瓦尔·赫拉利
+3. 《思考，快与慢》| Thinking, Fast and Slow | 丹尼尔·卡尼曼
+4. 《在你身边的奇迹》| The Power of Now: A Guide to Spiritual Enlightenment | 艾克哈特·托利
+5. 《演化心理学》| The Evolutionary Psychology: The New Science of the Mind | 大卫·珀林斯
+6. 《乌合之众》| The Crowd: A Study of the Popular Mind | 古斯塔夫·勒庞
+7. 《非暴力沟通》| Nonviolent Communication: A Language of Life | 马维·罗森伯格
+8. 《自控力》| The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It | 凯莉·麦戈尼格尔
+9. 《社会性动物》| Social: Why Our Brains Are Wired to Connect | 马修·利伯曼
+10. 《脑的自我修复》| The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science | 歌德曼
+11. 《书呆子到金牌主帅》| The Talent Code: Greatness Isn't Born. It's Grown. Here's How. | 丹·科特
+12. 《集体智慧编程》| Programming Collective Intelligence: Building Smart Web 2.0 Applications | 托比·西格曼
+13. 《信仰与认知》| Faith and Knowledge: Mainline Protestantism and American Higher Education | 大卫·霍普金斯
+14. 《极简宇宙史》| A Brief History of Time | 史蒂芬·霍金
+15. 《哲学说服力》| The Art of Persuasion: Winning Without Intimidation | 卡斯塔利奥翁
+16. 《我们的智慧源泉》| The Wisdom of Crowds | 詹姆斯·苏里基
+17. 《街头智慧》| Street Smarts: Adventures on the Road and in the Markets | 吉姆·罗杰斯
+18. 《你一定要过得开心》| The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work | 肖恩·阿克斯
+19. 《设计的心理学》| The Design of Everyday Things | 唐纳德·诺曼
+20. 《孤独的灵魂》| The Unbearable Lightness of Being | 米兰·昆德拉
+21. 《发现统计学》| Discovering Statistics Using R | 安迪·菲尔德
+22. 《心流：完美体验的心理学》| Flow: The Psychology of Optimal Experience | 米哈里·契克森米哈伊
+23. 《走出错误地图》| Maps of Meaning: The Architecture of Belief | 约旦·彼得森
+24. 《饥饿的城市：城市如何塑造我们的品味、思考和文化》| The Hungry City: How Food Shapes Our Lives | 卡罗琳·斯莱科特
+25. 《休息的力量：女性创业者的压力调节之道》| Drop the Ball: Achieving More by Doing Less | 泰瑞莎·瓦斯格里夫
+26. 《空想国度：如何激发创造性灵感》| Imagine: How Creativity Works | 理查德·弗洛里达
+27. 《漫游人类智慧世界》| The Knowledge Illusion: Why We Never Think Alone | 史蒂文·斯利普尼兹
+28. 《懒惰的人自我管理秘籍》| Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones | 詹姆斯·克利尔
+29. 《百年孤独》| One Hundred Years of Solitude | 加西亚·马尔克斯
+30. 《情感专业家》| Emotional Intelligence: Why It Can Matter More Than IQ | 丹尼尔·戈尔曼
+31. 《地球几案》| The Sixth Extinction: An Unnatural History | 伊丽莎白·科尔伯特
+32. 《打破习惯的力量》| The Power of Habit: Why We Do What We Do in Life and Business | 查尔斯·杜希格
+33. 《魔鬼经济学》| Freakonomics: A Rogue Economist Explores the Hidden Side of Everything | 史蒂芬·杜布纳
+34. 《活在当下》| The Present Moment: A Retreat on the Practice of Mindfulness | 圣雄甘地
+35. 《恐惧症：对未知的恐惧》| Fear of the Unknown: The Psychology of Anxiety | 西德尼·沙克特
+36. 《告别焦虑》| The Anxiety Solution: A Quieter Mind, a Calmer You | 艾利克斯·贝林格
+37. 《意识的宇宙》| The Consciousness of the Universe: Part One: On the Identity of the Cosmos and the Enlightenment of the Physical Universe | 李怀德
+38. 《学会安全的希望》| Learned Optimism: How to Change Your Mind and Your Life | 马丁·塞利格曼
+39. 《社会学概论》| Sociology 101 | 琳恩·埃利森
+40. 《世界是平的》| The World Is Flat: A Brief History of the Twenty-first Century | 托马斯·弗里德曼
+41. 《让人惊叹的事》| The Things They Carried | 提摩西·欧布莱恩
+42. 《关于爱情和孤独的批判》| The Love Story: An Examination of Love and Isolation | 欧文·鲍厄斯
+43. 《故事：想象、行动和意向的故事心理学》| Story: Substance, Structure, Style, and the Principles of Screenwriting | 罗伯特·麦基
+44. 《愉快的哀悼》| The Art of Mourning | 亨利·索恩威克
+45. 《自控力工具箱》| The Marshmallow Test: Mastering Self-Control | 沃尔特·米舍尔
+46. 《乖乖女》| Good Girl Bad Girl: An Insider's Look at Women's Rights in a World of Population Control | 林崇德
+47. 《箱庭效应》| The Tipping Point: How Little Things Can Make a Big Difference | 马尔科姆·格拉德威尔
+48. 《管窥真相：揭示社会中的不声不响的规则》| Seeing Through the Veil: Revealing the Silent Rules of Social Life | 梅尔文·瓦特斯
+49. 《为什么我们要工作》| Why We Work | 巴里·施瓦茨
+50. 《误解人性》| Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts | 卡罗尔·特维斯和艾略特·阿隆森
